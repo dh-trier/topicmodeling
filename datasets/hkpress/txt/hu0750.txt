@@ -1,0 +1,15 @@
+[title]HKU Professor Won "the Best Conference Paper Award" Using Information Systems to Analyse Blogs[/title]
+[date]07 Aug 2006[/date]
+ 
+
+
+Picture 1
+
+Dr Michael Chau of the School of Business of The University of Hong Kong (HKU) brought home the "Best Conference Paper Award" at the 10th Pacific Asia Conference on Information Systems (PACIS) 2006 which was held in Kuala Lumpur last month.His paper "A framework for locating and analyzing hate groups in Blogs" defeated over 300 submissions from 25 countries.It is the 2nd time in a row that the award is won by HKU and by Hong Kong.Last year HKU Professor Patrick Y.K. Chau, also from the School of Business, received the same award.
+Competing submissions were from universities around the world such as Chinese University of Hong Kong, Hong Kong University of Science and Technology, Peking University, University of British Columbia and National University of Singapore.The 25 participating countries included Mainland China, USA, Singapore, Germany, Japan and Hong Kong.PACIS is one of the top information systems conferences in the Asia Pacific region.The conference is sponsored by the Association for Information Systems which is the most premier academic association in the field of information systems with over 45,000 members around the world. 
+In his paper, Dr Michael Chau analysed the emergence of racists hate groups in blogs and identified their communication patterns and relationships by using web mining and social network analysis techniques.His study revealed that hate groups had used blogs more extensively than expected and they were more well-connected by blogs than by some other types of media.The findings allow government and anti-hate organizations to pay attention to the activities of these communities more easily.The technique has a wide application in our daily lives.It can also be used to study blogs in other domains to analyse the social life of our youth, consumer behaviour and market intelligence.Dr. Chau co-authored the paper with Dr. Jennifer Xu from Bentley College, USA.
+Dr Michael Chau is very pleased with the award as he said "information technology is no longer confined to business uses, I am very happy to help introduce its application on social issues which is the focus of my paper.The award is a great recognition to our vision and efforts towards this new direction."
+For the award-winning paper, please visit ：http://www.hku.hk/eroesite/html/PACIS.pdf.
+For photo of the award presentation ceremony, please click on the picture for downloading, photo caption: from left to right: HKU Professor Dr Michael Chau and Dr. Jae Kyu Lee of Singapore Management University at the PACIS.
+For media interviews and enquiries, please contact Ms. Cherry Cheung, Senior Press Officer, HKU at 2859 2606
+

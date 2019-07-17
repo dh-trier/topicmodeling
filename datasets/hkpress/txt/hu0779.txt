@@ -1,0 +1,41 @@
+[title]HKU Faculty of Engineering, Hong Kong Observatory and Hong Kong Meteorological Society Lightning Detector Design Competition Award Presentation Ceremony[/title]
+[date]26 May 2013[/date]
+ 
+
+The Award Presentation Ceremony for Lightning Detector Design Competition was held at Rayson Huang Theatre, HKU on May 25 (Saturday).
+The Lightning Detector Design Competition was jointly organized by the Faculty of Engineering of the University of Hong Kong (HKU), the Hong Kong Observatory (HKO) and the Hong Kong Meteorological Society.  The project "Lightning Analyzer for Everyone" was supported by the HKU Knowledge Exchange Fund. Lightning is a common weather phenomenon during spring and summer.  It can cause damages to electricity distribution network systems and other infrastructure sparking off fires which may threaten the lost of properties and lives. Therefore, development of a lightning detection system is a very important subject is meteorology.
+The competition is the first of its kind in Hong Kong with a primary objective to enhance knowledge of and interest in information technology and meteorological instrumentation among the younger generation.  In previous years, competitions on designing visibility measurement methods, rain gauges and anemometers had been held.
+A total of 380 participants from 43 primary and secondary schools ranging from Primary 4 to Secondary 6, divided into junior and senior groups joined the competition. They were required to design their own lightning detectors to compete for the Champion, first runner-up, second runner-up, the most creative lightning detector award, the most attractive lightning detector award and the best presentation award as set out for the Junior and Senior categories respectively. In November to December 2012, a series of talks, workshops and visits were organized for students for enriching their understanding on various lightning detection methods with a view to enable them to make a creative, accurate and attractive lightning detector.
+At the award presentation ceremony, HKU Assistant Dean of Engineering Dr. Wilton Fok praised the students for their creativity and talents in producing different kinds of creative lightning detectors.  The meticulously designed and tested method, well-integrated hardware with software and excellence presentation skill had shown that students are the engineers and scientists of the next generation.
+HKO Assistant Director Mr. Edwin Lai said, “Given the challenges in lightning detection, the participants should be applauded for spending much energy and effort in coming up with detectors that are both practical and reliable within just a few months.”
+Dr. David Lam of the Hong Kong Meteorological Society, a member of the adjudicating panel, agreed and added, “Teachers and students must have spent a lot of effort on information gathering and research in the design of devices that demonstrate not only a methodology based on good science, but also a tool with application value for the society and users.”
+
+Representatives of the organizers and supporting organizations of the competition are pictured together at the award presentation ceremony.
+
+HKU Associate Dean of Engineering, Professor K.L. Mak (first right), presented award to the champion of the Junior Category, Our Lady of China Catholic Primary School.
+
+
+
+
+The Assistant Director of the Hong Kong Observatory, Mr Edwin Lai (first right) presented award to the champion of the Senior Category, HKTA Tang Hin Memorial Secondary School.
+
+The list of awards of the “Lightning Detector Design Competition” is as follows:
+The list can also be found at:
+http://www.cs.hku.hk/~light/AwardWinnerList-English.php
+Junior Group
+Champion: Our Lady of China Catholic Primary School (佑華2.0)
+First runner-up: Holy Trinity College (Realistic Dreamers)
+Second runner-up: Holy Trinity College (Alpha)
+The most creative lightning detector award: Our Lady of China Catholic Primary School (佑華2.0)
+The most attractive lightning detector award: HKUGA Primary School (港小天文組)
+The best presentation award: Heung To Middle School (HTMS)
+Merit: SKH Tin Shui Wai Ling Oi Primary School (天靈一隊); SKH Tin Shui Wai Ling Oi Primary School (天靈二隊); Yaumati Catholic Primary School (YCPS)
+Senior Group
+Champion: HKTA Tang Hin Memorial Secondary School (Team B)
+First runner-up: Sha Tin Government Secondary School (沙官閃電六個人)
+Second runner-up: King's College (TLC Team)
+The most creative lightning detector award: HKTA Tang Hin Memorial Secondary School (Team B)
+The most attractive lightning detector award: Heung To Middle School (Tin Shui Wai) (Lightning Crafters)
+The best presentation award: Stewards Pooi Kei College (E.M.F.)
+Merit: Christian Alliance Cheng Wing Gee College (Team 1); Stewards Pooi Kei College (S.C.L.E.D.); HKTA Tang Hin Memorial Secondary School (Team A)
+For media enquiries please contact Ms Jolly Li, Faculty of Engineering, HKU (Tel: 2241 5953 / E-mail: jollyli@hku.hk) or Ms Melanie Wan, Communications and Public Affairs Office, HKU (Tel: 2859 2600 / Email: melwkwan@hku.hk).

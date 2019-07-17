@@ -1,0 +1,13 @@
+[date]30 March 2011[/date]
+[title]CUHK ISEIS Offers Advanced Workshop and Certificate Course on 
+Disaster Early Warning and Emergency Management
+Now Open for Online Registration
+[/title]
+In response to the recent tragedy in Japan and the growing concerns about natural disasters and emergency management, the Institute of Space and Earth Information Science (ISEIS) at The Chinese University of Hong Kong (CUHK) collaborates with top scientists to organize an advanced workshop and a certificate course on disaster early warning and crisis management from April – June 2011. Details are as follows:
+1. Advanced Workshop on Spatial Information Technologies for Emergency Management (18 April 2011) 
+The one-day workshop will be conducted by top scientists including Prof. Shunji Murai, President, Japan Association of Surveyors, and Prof. Armin Gruen, Institute of Historic Building Research and Conservation, Swiss Federal Institute of Technology Zurich (ETH Zurich), Switzerland. Speakers will share the latest developments in Laser Scanning Technologies, Mobile Mapping, Geographical Information System (GIS), Global Positioning System (GPS), Satellite Remote Sensing and Unmanned Aerial vehicles (UAV) as well as an integral strategy of applying the technologies in environmental monitoring, damage simulation and optimal allocation of resources in disaster mitigation planning. 
+Online registration: http://www.iseis.cuhk.edu.hk/sitem
+2. Certificate Course in Cartography and Geographic Information in Early Warning and Crisis Management: Theory and Practice (11 May to 15 June 2011) 
+Prof. Milan Konecny, chairman of International Cartographic Association (ICA) Working Group on Cartography on Early Warning and Crisis Management, will lecture on the 13-lesson course. Professor Konecny will introduce the concepts of Early Warning (EW) and Crisis Management (CM), as well as the best practices of the usage of GIS, cartography and remote sensing in EW and CM of typical crisis situations such as earthquakes, tsunami, floods, fires, terrorist attacks etc. The course aims to analyze the role of geoinformation technologies in EW and CM and how the integration of cartography, geography and information technologies can create synergy in real-life operations. 
+Online registration: http://www.iseis.cuhk.edu.hk/ewcm/Introduction.html
+Both the workshop and the certificate course offer a valuable opportunity for local professionals to learn more about EW and CM, and to share experiences with leading scientists. Please visit the corresponding websites for more details and registration.

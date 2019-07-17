@@ -1,0 +1,77 @@
+[title]CUHK Achieves World Highest Resolution Virtual Human[/title]
+
+[date]28 October 2003[/date]
+
+
+ CUHK Achieves World Highest Resolution Virtual Human 
+ 
+The 
+ Chinese University of Hong Kong has made breakthrough advancements in 
+ virtual human research by accomplishing 3D reconstruction and real-time 
+ visualization of the world highest resolution virtual human. The research 
+ work makes possible for the first time on PC platform to achieve highly 
+ interactive photo-realistic visualization of virtual human reconstructed 
+ from gigantic digital human dataset. These state-of-the-art real-time 
+ rendering and imaging techniques are essential core technologies to 
+ support optimal and practical applications of these high quality digital 
+ human data sets in anatomy teaching, virtual endoscopy simulation, surgical 
+ training and all sorts of human-related simulation.
+Led 
+ by Professor Jack Cheng Chun-yiu, Pro-Vice-Chancellor, CUHK and Professor 
+ Heng Pheng Ann, Professor of the Department of Computer Science and 
+ Engineering, CUHK, the University Designated Strategic Research Area 
+ in Computer Assisted Medicine was formed in 2000 and consists of over 
+ 30 faculty members. Its mission is to enhance medical diagnosis, treatment 
+ and education through original research, innovative application and 
+ intelligent integration of new advances in computing and engineering.
+Virtual 
+ Human is a 3D human structure built in the computer. To obtain digital 
+ human data, a cadaver will be dissected into many very thin layers, 
+ scientists will then take digital color photo of the dissected layers. 
+ Data of each layer will be put together using advanced imaging technology 
+ to reconstruct a virtual human body, which consists of exactly the same 
+ anatomical structures as a real human. The most refined Visible Human 
+ dataset collected by the US National Library of Medicine, is a female 
+ dataset consists of 5,189 digital axial anatomical images obtained at 
+ 0.33-mm intervals, it is 39 GB in size. Within the last year, CUHK has 
+ completed the processing of five Chinese Visible Human datasets originally 
+ collected by the Third Military Medical University and the First Military 
+ Medical University of the PRC separately. The highest resolution dataset 
+ collected by TMMU is a male dataset consists of 18,200 digital axial 
+ anatomical images obtained at 0.01-mm intervals, and it is 1,143GB in 
+ size. By innovative processing of these ultra-high resolution digital 
+ human datasets, extremely fine anatomical details can be interactively 
+ visualized in 3D.
+CUHK 
+ has completed the reconstruction and 3D visualization of 7 virtual human 
+ (5 Chinese and 2 American), and now processed the largest digital human 
+ database in the world. The team is also the first to use the Chinese 
+ visible human datasets in the development of virtual anatomy, virtual 
+ acupuncture and virtual arthroscopy.
+"Our 
+ team has proved an outstanding example in computer-assisted medicine. 
+ The reconstruction of these digital human data sets of Chinese origin 
+ provides excellent resources for medical education and life science 
+ research. Our strong collaborative research effort and clinical strength 
+ can maximize the impact and utilization of advanced computing and engineering 
+ technology in modern healthcare and medical education," said Professor 
+ Cheng.
+"We 
+ have been working closely with our Mainland collaborators in building 
+ up a comprehensive Chinese visible human database. We also work closely 
+ with colleagues from the Faculty of Science and the Institute of Chinese 
+ Medicine of CUHK and participate actively in several major funded projects 
+ in applied genomics, nanotechnology, biosensor, telemedicine and traditional 
+ Chinese medicine. These breakthrough achievements certainly strengthen 
+ Hong Kong RandD in computer-assisted medicine," Professor Heng added. 
+ 
+ 
+The first 
+ 3D Chinese Virtual Human
+Virtual 
+ Acupuncture 
+  
+
+
+
+ 

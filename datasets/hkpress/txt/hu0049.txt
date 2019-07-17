@@ -1,0 +1,33 @@
+[title]HKU Astronomers Discover Complex Organic Matter in the Universe[/title]
+[date]26 Oct 2011[/date]
+ 
+In today’s issue of the journal Nature, astronomers report that organic compounds of unexpected complexity exist throughout the Universe.  The results suggest that complex organic compounds are not the sole domain of life but can be made naturally by stars. 
+Prof. Sun Kwok and Dr. Yong Zhang of The University of Hong Kong show that an organic substance commonly found throughout the Universe contains a mixture of aromatic (ring-like) and aliphatic (chain-like) components.  The compounds are so complex that their chemical structures resemble those of coal and petroleum.  Since coal and oil are remnants of ancient life, this type of organic matter was thought to arise only from living organisms.   The team’s discovery suggests that complex organic compounds can be synthesized in space even when no life forms are present. 
+The researchers investigated an unsolved phenomenon: a set of infrared emissions detected in stars, interstellar space, and galaxies.  These spectral signatures are known as “Unidentified Infrared Emission features”.  For over two decades, the most commonly accepted theory on the origin of these signatures has been that they come from simple organic molecules made of carbon and hydrogen atoms, called polycyclic aromatic hydrocarbon (PAH) molecules.  From observations taken by the Infrared Space Observatory and the Spitzer Space Telescope, Kwok and Zhang showed that the astronomical spectra have features that cannot be explained by PAH molecules.   Instead, the team proposes that the substances generating these infrared emissions have chemical structures that are much more complex.  By analyzing spectra of star dust formed in exploding stars called novae, they show that stars are making these complex organic compounds on extremely short time scales of weeks. 
+Not only are stars producing this complex organic matter, they are also ejecting it into the general interstellar space, the region between stars.  The work supports an earlier idea proposed by Kwok that old stars are molecular factories capable of manufacturing organic compounds.  “Our work has shown that stars have no problem making complex organic compounds under near-vacuum conditions,” says Kwok.  “Theoretically, this is impossible, but observationally we can see it happening.” 
+Most interestingly, this organic star dust is similar in structure to complex organic compounds found in meteorites.  Since meteorites are remnants of the early Solar System, the findings raise the possibility that stars enriched the early Solar System with organic compounds.  The early Earth was subjected to severe bombardments by comets and asteroids, which potentially could have carried organic star dust.  Whether these delivered organic compounds played any role in the development of life on Earth remains an open question. 
+Prof. Sun Kwok is the Dean of Science and Chair Professor of Physics of the University of Hong Kong.  He serves as Vice President of Division VI (interstellar matter) of the International Astronomical Union, and is the incoming Vice President of Commission 51 (bioastronomy) of the International Astronomical Union.  He has published many books, including the recent book “Organic Matter in the Universe” (Wiley, 2011). Dr. Yong Zhang is a Research Assistant Professor at the University of Hong Kong. This work was supported by the Research Grants Council of Hong Kong.
+For press enquiry, please contact Ms Cindy Chan, Communication Manager of Faculty of Science, at 2241- 5286/ 6703-0212/ by email at cindycst@hku.hk; or Ms Trinni Choy, Assistant Director (Media), Communications and Public Affairs Office, HKU at tel: 2859 2606/ by email: pychoy@hku.hk.
+ Supplementary Information
+Comets: pieces of rock and ice left in the outer solar system after its formation.  They sometimes venture into the inner solar system and, when heated by sunlight, develop spectacular tails. 
+Coal: remnants of ancient life.  After being subjected to heat and pressure for millions of years underground, it developed into a complicated organic solid now used primarily for fuel. 
+Novae: a form of exploding star that brightens on the time scale of days 
+Meteorites: rocky bodies that fell to Earth from outer space 
+Polycyclic aromatic hydrocarbons (PAH): molecules made of several joined rings consisting of only carbon and hydrogen 
+Spitzer Space Telescope: a NASA infrared telescope launched into orbit on August 25, 2003 
+Infrared Space Observatory: A European Space Agency infrared telescope launched on November 17, 1995 
+Star dust: solid particles made by stars 
+Interstellar space: the large region of emptiness (except for some clouds) between stars.
+
+
+Professor Sun Kwok (left) and Dr Zhang Yong of The University of Hong Kong
+
+A spectrum from the Infrared Space Observatory superimposed on an image of the Orion Nebula where these complex organics are found.
+
+
+
+
+A schematic structure of organic matter in the Universe.  This typical structure is a mixture of ring-like (aromatic) and chain-like (aliphatic) chemical sites and contains about 100 carbon atoms.
+
+
+

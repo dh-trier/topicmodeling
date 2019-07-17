@@ -1,0 +1,16 @@
+[title]Genetic Mutation in Wilson Disease[/title]
+
+[date]11 January 2006[/date]
+
+
+ Genetic Mutation in Wilson Disease
+ Establishing an Effective DNA-based Diagnostic Protocol for Hong Kong Chinese 
+ Wilson disease (WD), an autosomal recessive disorder of copper transport, is the most common inherited liver disease in Hong Kong. Clinical manifestations of Wilson disease vary widely. The age of onset ranges from three to more than 50 years of age. The initial onset of symptoms can be hepatic, neurological, psychiatric or as an acute hemolytic crisis. The prevalence of WD has been estimated to be approximately 1 in 30,000 in the Caucasian population. Although the prevalence of WD in the Hong Kong Chinese has not been investigated, based on local experiences, Wilson disease is common. 
+Defective biliary excretion caused by the disease leads to accumulation of copper in the liver with progressive liver damage and subsequent overflow to the brain, causing loss of coordination and involuntary movements. The prognosis for patients is excellent with early treatment with D-penicillamine, trientine, or zinc salts, and early detection, monitoring, and treatment of pre-symptomatic patients is critical to prevent irreversible liver damage requiring transplant. 
+However, the biochemical and symptomatic signs are not specific enough for effective diagnosis of all affected individuals. In addition, the clinical and laboratory parameters are not sufficient to exclude the diagnosis of WD in patients with liver disease of unknown origin. In these two groups of patients, the exclusion of a diagnosis of WD by clinical and biochemical parameters is very challenging. Direct detection of the mutations causing WD will eliminate these problems. Direct mutation detection in diagnosis of presymptomatic sibs is particularly important because of the difficulty in distinguishing presymptomatic patients from heterozygotes. 
+However, no studies have yet been undertaken to elucidate the molecular basis of WD in Hong Kong Chinese and provided enough information to establish an effective protocol for DNA-based diagnosis for WD in the Hong Kong Chinese populations. Toward this end, the Department of Chemical Pathology of The Chinese University of Hong Kong has commenced a study to delineate the spectrum of mutations in the WD gene in patients in Hong Kong. Sixty-two WD patients including 52 unrelated Chinese families together with 10 presymptomatic were recruited. The median of age at presentation was 18 years (range 450). We identified 37 different mutations in 52 probands. Over 50% of the mutations are located in 3 of the 21 exons of the ATP7B gene ¡Xexons 8, 13, and 16. The mutations, R778L, P992L, and I1148T are the three most common mutations in Hong Kong Chinese WD patients.
+Our study concluded that DNA-based diagnosis of WD provides an accurate diagnosis of this common and treatable disease in Chinese. The detection is of 100% sensitivity and 100% specificity for finding affected presymptomatic family members. With this we can make early detection and help decrease the number of WD patients requiring transplantation.
+ 
+
+
+ 

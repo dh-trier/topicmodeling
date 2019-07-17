@@ -1,0 +1,50 @@
+[title]Communicating serious health hazards of Hong Kong air: A new version of the Hedley Environmental Index[/title]
+[date]17 Jan 2012[/date]
+ 
+Hong Kong's poor air quality
+Hong Kong's air quality has been deteriorating over 20 years and today presents a serious daily threat to the health of the public and for future generations.
+The Environmental Protection Department of the Hong Kong SAR Government relies on the Air Pollution Index (HKAPI) to communicate the health hazards of pollution to the public.  However, the standards used by HKAPI are 25 years out of date, primitive and seriously misleading.  The risk categories in the HKAPI bear no relationship to the currently measured bad health outcomes in the population.  In order to create a new approach to health risk communication and to inform and assist the public in the interpretation of pollution levels, a group of researchers at The University of Hong Kong School of Public Health developed the Hedley Environmental Index (HEI) in 2008 and launched an updated version today (January 17, 2012) to improve the hourly estimation of air pollution impacts on bad health outcomes and economic costs.  The new HEI is based on the latest scientific evidence for health risks and referenced to the World Health Organization (WHO) Air Quality Guidelines (AQG).
+A new Hedley Environmental Index (HEI)
+The HEI was originally established by the School of Public Health, HKU in 2008 with funding from the Fu Tak Iam Foundation and ADM Capital Foundation and project management from Civic Exchange.  Fu Tak Iam Foundation continues to be the founding funder of this new HEI.
+The new version of the HEI is launched with the aim to enhance health risk communication and to inform and assist the public in the interpretation of pollution levels which exceed the WHO AQG, particularly in relation to bad health outcomes and economic costs.
+The updated version of HEI offers several new features and modifications including:
+Features
+- A health risk warning meter
+A real-time health risk warning meter with 5 risk categories based on WHO guidelines which can be distributed by web-based social networks.
+- HKSAR map of real-time air quality
+A HKSAR real-time pollution map showing the levels of the criteria pollutants (particulates, nitrogen dioxide, sulphur dioxide and ozone) at 14 monitoring stations.  A visual representation of pollution levels by colours, spatial distribution and numerical values provides an instant overall picture of our air quality.  Fine particulates (PM2.5) will be added as soon as the government provides the data online.
+- Chart of avoidable harm to the community
+A new graphical display of the recent harm to the community health in terms of doctor visits, hospital admissions and deaths.
+- Calendar of high pollution days
+A summary report showing the number of clear and polluted days we have been exposed to, using the WHO guidelines for safer air quality as our reference.
+A rolling meter counting the hourly dollar cost of the pollution impact on health care and lost productivity, and the population willingness to pay to avoid a day's illness, hospital admission and death.
+- Tools to analyze long-term pollution and health impact trends
+A new analytical tool for users of the Index to gain an in depth understanding of trends and summary statistics of the recent and long term historical data in the index archives.
+It is now possible to analyze and display trends for pollutants and estimated bad health outcomes including deaths, and economic loss to the HKSAR.
+Modified methodology
+- A revised and more comprehensive approach to calculating health risks including doctor visits, hospital bed days and deaths.
+This revision has led to adjustment of the estimation of deaths and other health impacts published by the Index.  The Index remains valid and conservative indicator of the harm to our community caused by pollution.
+Senior staff in the School of Public Health will discuss the need for and the advantages of the revised Hedley Index.
+Dr LAI Hak-kan, Research Assistant Professor of the School of Public Health, HKU said that "the official government interpretation of pollutant trends and health effects in their Air Pollution Index falls well short of scientific validity and transparency.  The new version of the Index will help to redress the balance and support better risk communication to the public".
+Dr THACH Thuan-quoc, Honorary Assistant Professor of the School of Public Health, HKU explained that the Hong Kong local scientific evidence on the pollution harms to health and the health gains from cleaning up the environment are recognized worldwide and form the basis of the operation of the Index.  Because of this approach Dr Thach said the public should have confidence in the daily messages from the Index.
+Dr WONG Chit-ming, Associate Professor of the School of Public Health, HKU said "it is imperative that the best available health based evidence of risk is adopted for all advisories and messages to the public. At the present time the government's Air Pollution Index does not meet these criteria but the revised Hedley Index offers new opportunities for assessment of our efforts to achieve safer air in Hong Kong".
+Professor Sarah McGHEE, Professor of the School of Public Health, HKU said "the community costs of poor air quality are being ignored by government but everyone is paying the price for this oversight."  "Air quality control is associated with high benefit cost ratios, development of green industries and jobs", said Professor Sarah McGHEE.
+Professor LAM Tai-hing, Sir Robert Kotewall Professor in Public Health, Director of the School of Public Health, HKU said "this new version of the Hedley Index, supported by the Fu Tak Iam Foundation and Civic Exchange is a welcome advance in collaborative community-based approaches to risk communication and public health advocacy".  Professor Lam expressed the hope that the present and future HKSAR government would implement radical measures to protect environmental health in Hong Kong.
+About the research team
+The study was performed by the Environmental Health Research Group and the Health Economics Group of the School of Public Health, The University of Hong Kong Li Ka Shing Faculty of Medicine.  The Environmental Health Research Group is led by Dr WONG Chit-ming, Dr LAI Hak-kan, Dr THACH Thuan-quoc, Dr YANG Lin, Ms Patsy CHAU, Mr Eric CHAN, Ms Hilda TSANG with Professor Anthony J HEDLEY as advisor.  The Health Economics Research Group is led by Professor Sarah McGHEE and Ms June CHAU. 
+
+
+ 
+(From left) Professor LAM Tai-hing, Sir Robert Kotewall Professor in Public Health, Director, School of Public Health, The University of Hong Kong Li Ka Shing Faculty of Medicine; Ms June CHAU, Senior Research Assistant, School of Public Health, The University of Hong Kong Li Ka Shing Faculty of Medicine; Dr. THACH Thuan-quoc, Honorary Assistant Professor, School of Public Health, The University of Hong Kong Li Ka Shing Faculty of Medicine; Professor Anthony J HEDLEY, Honorary Professor, School of Public Health, The University of Hong Kong Li Ka Shing Faculty of Medicine; Dr. LAI Hak-kan, Research Assistant Professor, School of Public Health, The University of Hong Kong Li Ka Shing Faculty of Medicine; Mr Mike KILBURN, Head of Environmental Strategy, Civic Exchange; Dr. WONG Chit-ming, Associate Professor, School of Public Health, The University of Hong Kong Li Ka Shing Faculty of Medicine and Professor Sarah McGHEE, Professor, School of Public Health, The University of Hong Kong Li Ka Shing Faculty of Medicine
+ 
+Professor Anthony J HEDLEY, Honorary Professor, School of Public Health, The University of Hong Kong Li Ka Shing Faculty of Medicine, says the Government should update the HKAPI with reference to the AQG of WHO.
+ 
+Dr. LAI Hak-kan, Research Assistant Professor, School of Public Health, The University of Hong Kong Li Ka Shing Faculty of Medicine, introduces the new features of the new version of Hedley Index.
+ 
+Mr Mike KILBURN, Head of Environmental Strategy, Civic Exchange, emphasises the Government should tackle the air pollution problem as soon as possible.
+ 
+Professor LAM Tai-hing, Sir Robert Kotewall Professor in Public Health, Director, School of Public Health, The University of Hong Kong Li Ka Shing Faculty of Medicine, says the more serious the air quality is, the more people are killed.
+ 
+The new Hedley Environmental Index includes a health risk warning meter—a real-time health risk warning meter with 5 risk categories based on WHO guidelines
+
+

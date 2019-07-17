@@ -1,0 +1,27 @@
+[title]Versitech Ltd and Shandong Computer Science Center signs an agreement to further develop DESK: A Multilingual Computer Forensics Software[/title]
+[date]21 Nov 2006[/date]
+ 
+
+
+Versitech Ltd of the University of Hong Kong and the Shandong Computer Science Center ("SCSC") of the Shandong Academy of Sciences had signed a collaboration agreement today ( 21st November, 2006) for further research and development of the multilingual computer forensics software - Digital Evidence Search Kit ("DESK").
+DESK is one of the most significant software developed by the Center for Information Security and Cryptography ("CISC") of the Department of Computer Science of the University of Hong Kong. It was originated from one of the collaboration projects between CISC and the Hong Kong Police Force and was first launched in 2001. DESK is a multilingual software the supports English, Traditional Chinese, Simplified Chinese and Japanese. It is designed to assist law enforcement agencies to examine, acquire, analysis, search and document the digital evidence of a computer system. DESK is also one of the successful cases of technology transfer in the University of Hong Kong from research result to a practical application not only locally but nationwide.
+This collaboration arrangement marked a major breakthrough for both Versitech and SCSC whereas researchers from the SCSC and CISC will work closely together to further enhance and develop DESK with the rationale to better fit into the market of the mainland China PRC in the near future.
+SCSC is an applied research center of the Shandong Academy of Sciences in Shandong province in China PRC and has been established for 30 years with plenty of successful experiences in applied researches. SCSC also consists of outstanding Research staffs from the Shandong University, a first class university in PRC.
+VERSITECH is the technology transfer and commercial arm of the University of Hong Kong. It is a wholly-owned subsidiary of the University and is governed by a Board of Directors, consisting of top University management and prominent business people, to promote research, teaching, and technology transfer.
+CISC is a research unit at the Department of Computer Science, Faculty of Engineering, HKU, which is specializing in R&amp;D for different information security technologies.
+For media enquiries please contact Ms. Cherry Cheung, Senior Press Officer HKU at 2859 2606.
+
+
+
+ 
+From left: Mr Hailson Yu, Deputy Managing Director of Versitech Ltd of HKU and Mr Wang Ying-long, Director of Shandong Computer Science Center
+ 
+From left: Mr Hailson Yu, Deputy Managing Director of Versitech Ltd of HKU and Mr Wang Ying-long, Director of Shandong Computer Science Center
+
+ 
+Mr Lucas Hui Chi-kwong, Director of Centre for Information Security and Cryptography of HKU and Mr Wang Ying-long, Director of Shandong Computer Science Center
+ 
+(Front row from left) Mr Hailson Yu, Deputy Managing Director of Versitech Ltd of HKU, Mr Wang Ying-long, Director of Shandong Computer Science Center, (Back row from left) Mr Lucas Hui Chi-kwong, Director of Centre for Information Security and Cryptography of HKU, Dr K.P. Chow, Associate Professor of Dept of Computer Science of HKU, Ms Yang Yin, Associate Professor of Shandong Computer Science Center and Ms Wang Mei-qin, Associate Professor of Shandong Computer Science Center
+
+
+

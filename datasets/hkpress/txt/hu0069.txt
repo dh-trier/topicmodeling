@@ -1,0 +1,35 @@
+[title]HKU Engineering award-winning solar car is ready for public exhibitions in JUPAS Information Week and schools
+[/title]
+[date]03 May 2016[/date]
+ 
+
+The Helios team: (Back row from the left) Dr. Paddy Chan Kwok-leung, Assistant Professor, Department of Mechanical Engineering, HKU, Ir Alexander Wong Teck-sun, Dr. Chan Kit-wah and student members from various engineering departments.
+
+The University of Hong Kong (HKU) solar car team – Helios, won the Overall Champion Award and Innovative Design award of the “New Energy New Generation” solar car competition held by the Electrical and Mechanical Services Department (EMSD) earlier.  There will be public displays and demonstration of this award-winning solar car’s abilities.  The first public exhibition will be held during the annual JUPAS Info Week on May 10, 2016 (next Tuesday).  It will then be showcased in primary and secondary schools starting from July.  Students will have the opportunity to take a closer look at Helios, giving them a better understanding of the diversity and interdisciplinary curriculum that HKU Engineering offers.  A media trial session of Helios was held today (May 3, 2016) to provide the media with an opportunity to experience driving the solar car which was uniquely designed and produced for engineering excellence in the capture and use of solar energy.
+Helios, established in June 2015, was named after the ancient Sun God in Greek mythology. It is one of the eight teams from five local universities participated in the “New Energy New Generation” solar car competition organized in January this year.  The team was supervised by teachers and researchers from the Department of Mechanical Engineering: Dr. Paddy Chan Kwok-leung (Assistant Professor), Ir Alexander Wong Teck-sun and Dr. Chan Kit-wah.  Sixteen students from various engineering disciplines, including Mechanical Engineering, Electrical and Electronic Engineering, and Industrial and Manufacturing Systems Engineering participated in the project (list of team members is attached in Annex I). In this six-month project, students applied their theoretical knowledge and engineering principles in the design work, gained practical experience through designing and making of mechanical and electrical components of the solar car, improved communication skills and built strong team spirit.
+Compared to the other competing teams, the extensive application of principles of engineering mechanics in the design of Helios and the high precision in the machining of the parts and components made the solar car unique and distinguish.  The car frame was developed from members of a special 6061 grade extruded aluminum section which have been widely used as pillars for the body structure of modern double decker buses.  A great deal of effort was made on reduction of the weight of the solar car and minimization of the rolling resistance for enhancing the energy efficiency of running the solar car.  The application controller in the car tablet can serve to monitor car speed, energy storage and also allow the use of GPS for position information.
+One of the major challenges for this competition was to strike a good balance between energy capture from the solar irradiation and energy consumption during running. Theoretically, the amount of solar energy that can be captured is directly dependent on the number of solar panels installed.  A larger car is able to provide a larger area for installation of more solar panels hence more solar energy can be captured. However, a larger car is heavier in weight and will consume more energy in running.  Consideration of these two conflicting factors and the ability to strike a good balance between them were essential for enabling winning of the major awards in this “New Energy New Generation” solar car competition.​
+Helios will be on its first public exhibition on May 10, 2016 during the JUPAS Info Week.  The annual JUPAS Info Week 2016 is organized by the Admissions and Academic Liaison Section, Registry, HKU for Secondary 6 students, who just finished the HKDSE examination, to receive the most updated information on JUPAS admission and programmes at HKU.  This year, the JUPAS Info Week will be held from May 9 to 19, 2016.  The session coordinated by the Faculty of Engineering will be held in the morning of May 10, 2016.  Dr. Cheung Kie-chung, Assistant Dean (Undergraduate Admissions), will deliver a short talk on the interview arrangement for JUPAS candidates, a brief introduction of the BEng programmes, and the career prospects of engineering graduates.  Young alumni of the Faculty will also share on their studies in HKU Engineering, and how they treasure their studies in respect of paving the way for their careers.  There will also be demonstration of cutting edge technologies, such as a demonstration of surgical robotics.
+Professor Norman Tien, HKU Dean of Engineering said, “I am proud of our students’ outstanding performance.  They demonstrate one of the elements that makes engineering study uniquely challenging and interesting, and that is to tackle practical problems in a smart and innovative way.  As the JUPAS Info Week 2016 is drawing closer, I encourage more young people to come visit HKU Engineering and learn how a fruitful life journey starts here.  You will join your peers, like the Helios team, in numerous different settings, and learn how to unleash your potential to make an impact in the betterment of our society.”
+For details about HKU JUPAS Info Week 2016, please visit www.hku.hk/dse
+Annex I: List of team members 
+Annex II: Students’ sharing from Helios team
+Media enquiries:
+Communications and Public Affairs Office Ms Rhea Leung (tel: 2857 8555 / 9022 7446, email: rhea.leung@hku.hk) or Faculty of Engineering Ms Esther Lau (tel: 3917 1924 / 6223 7592 email: estherlc@hku.hk).
+School enquiries:
+For arranging visit to Helios, please contact Admissions and Academic Liaison Section, The Registry, Ms Vanessa Li (tel：3917 5053; email：vanli@hku.hk).
+
+Team member Wong Kwan-yin, Mechanical Engineering student, presents Helios to the media. 
+
+
+
+
+The Vehicle Management Computer, designed by HKU engineering students, serves as the "brain" of the Helios solar car. This computer ensures the safety of the solar car when charging its battery and driving, and also provides real-time data for the touch screen dashboard.
+
+Helios is equipped with an innovative touch screen dashboard developed by HKU engineering students, which provides more useful information and convenience in controlling the solar car, while reducing the car body weight to enhance energy efficiency by eliminating the traditional heavy dashboard instruments.
+
+
+
+
+
+

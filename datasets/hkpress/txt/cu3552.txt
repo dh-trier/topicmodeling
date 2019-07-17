@@ -1,0 +1,46 @@
+[title]Group Sense PDA Ltd and Intel Semiconductor Ltd Donate 30 Sets Purposed Built Embedded Development Systems to Boost Research at CUHK[/title]
+
+[date]28 January 2003[/date]
+
+
+Group Sense PDA Ltd and Intel Semiconductor Ltd Donate
+ 30 Sets Purposed Built Embedded Development Systems to Boost Research 
+ at CUHK 
+ 
+Group Sense PDA Ltd and Intel Semiconductor Ltd donated 30 sets tailor-made 
+ SA1110 Development System to the Embedded System Laboratory of The Chinese 
+ University of Hong Kong for research and development purposes. These 
+ systems, which are unique in Hong Kong, are equipped with the latest 
+ StrongArm embedded processors and support easy connections to external 
+ hardware devices. The Department of Computer Science and Engineering 
+ added in color LCD displays and Bluetooth communication devices. With 
+ the installation of these systems, the Embedded System Laboratory will 
+ be able to bring its research and teaching activities to a new horizon 
+ and to work more closely together with leading educational and industrial 
+ institutions.
+Group Sense PDA Ltd and 
+ Intel Semiconductor Ltd have very close working relations with the Embedded 
+ System Laboratory and share the view that a modern embedded system development 
+ platform is an absolute necessity for future research and teaching applications. 
+ These platforms should be very similar industry products yet flexible 
+ enough to allow experimental work be conducted.
+Any sort of device that 
+ includes a processor but is not intended to be a general-purpose computer 
+ is an embedded system. The use of embedded system in control applications 
+ has a long history. The advancement of system-on-chip technology has 
+ brought the applications of embedded systems to a new level, namely, 
+ the development of networked mobile devices. We are now able to embed 
+ very small and power efficient processors into wearable devices like 
+ personal digital assistants, global positioning systems, 3-G phones, 
+ biometrics sensors and other smart devices.
+The Embedded System Laboratory 
+ of the Computer Science and Engineering Department of CUHK which aims 
+ at the wide range use of embedded system in research and teaching activities, 
+ was set up in 2000 and has played an important role in an Innovation 
+ Technology Commission project to promote the use of the Embedded Linux 
+ system for industrial and research applications. It maintained close 
+ links with the world's leading embedded processor suppliers and cooperated 
+ actively with several leading local industry partners in technology 
+ transfers activities. 
+
+ 

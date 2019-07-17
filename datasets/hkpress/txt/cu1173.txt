@@ -1,0 +1,24 @@
+[date]10 November 2011[/date]
+[title]CUHK Showcases Innovative Green Project at China Hi-Tech Fair
+New Technology Gives Significant Boost to LED Efficiency
+[/title]
+The Chinese University of Hong Kong (CUHK) will take part in the China Hi-Tech Fair (CHTF), the largest and most influential exhibition on high technologies in China, from 16 to 21 November at the Shenzhen Convention and Exhibition Centre. This is the eighth year that the University has participated in CHTF and this year, a total of 18 technological innovations developed by CUHK will be exhibited. One of them is the project 'Rational Design of Plasmonic Crystals to Increase the Efficiency of Light-Emitting Diodes (LEDs)' developed by Prof. Daniel Ong Hock Chun from the Department of Physics at CUHK.  The project is expected to contribute to energy saving and emission reduction, as well as the advancement of TV and display technology. 
+With the awareness of environmental protection growing, incandescent lamps will soon be replaced by fluorescent lamps and LED lamps with higher efficiency. As the mercury inside  fluorescent lamps is toxic and contaminating, LED lamps are preferred by the market. According to a report by the consultancy firm, McKinsey, published in The Economist on 20 August, LED could make up 59% by value of the world's lighting market by 2020 compared with 10% in 2010. Revenues from lighting will hit €110 billion (US$160 billion), approximately the same amount that the world will spend on televisions. Three quarters of this will go to 'general lighting' for residences(the biggest share of the market), workplaces and outdoor illuminations such as streetlamps. 
+Though LED lamps are more long lasting, they are also more expensive and not as efficient as fluorescent lamps.Besides, a few problems in LED technology have yet to be solved. One of the major problems is that the refractive index of its semiconductor materials will cause a large proportion of light to be lost due to total internal reflection, thus limiting the efficiency of LED and leading to higher cost, weaker thermal management and shorter lifespan. Besides, the efficiency of green emitting LED has far lagged behind those of red and blue devices; but if the efficiency of green LED can be raised, it would benefit both solid-state lighting (SSL) in general-illumination applications and TV and display technology. Equally efficient red, green and blue (RGB) LED could yield white light for illumination and improve the colour gamut in display or TV applications. 
+Prof. Daniel Ong, and Mr. Hui Koon Chung, Senior Research Assistant of Department of Physics, CUHK, invented a new technology to 'attach' plasmonic crystals on LED to 'steal' the light from total internal reflection. Plasmonic crystals are made of nano-scale metal film coated on the semiconductor surface and may also serve as the electrode of LED. It induces electromagnetic resonances that exist at the interface between metal and dielectrics, facilitating effective 'light stealing' from internal reflection. With plasmonic crystals, light is guided out of the semiconductor instead of being wasted in total internal reflection. Initial experiments have shown that, comparing two identical LEDs, the LED that is capped with plasmonic crystals are four times brighter than the LED without treatment. Significant brightness enhancement is demonstrated on green-emitting LED, which is less efficient than red and blue devices. The use of plasmonic crystals has very little impact on the cost of LED lamps. Since metal is invariably used as electrode for carrier injection, plasmonic crystals can serve not only as electrode but also as a facilitator to increase light emission efficiency of LED in future. 
+This is a new and promising way to drastically improve the efficiency of LED lamps, contributing to a greener environment and advancement in the LED illumination industry. Apart from the above project, CUHK will showcase 17 other latest innovation projects at CHTF. All are welcome. 
+The 13th China Hi-Tech Fair
+
+Date:
+16-21 November 2011 (Wednesday to Monday)
+Time:
+9:00 am to 5:00 pm
+Venue:
+Shenzhen Convention and Exhibition Centre, Fuhua Third Road, Futian District, Shenzhen（Booth no. of CUHK: 8G01）
+
+Transport:
+Arrive Lok Ma Chau MTR station, then enter Shenzhen via Futian border. Take Shenzhen metro to Convention and Exhibition Centre station
+Website:
+ http://www.chtf.com/
+
+     

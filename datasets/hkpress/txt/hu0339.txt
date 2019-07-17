@@ -1,0 +1,23 @@
+[title]Science Magazine Accepts the Paper of HKU's Microbiology Researchers[/title]
+[date]05 Sep 2003[/date]
+ 
+Introduction
+The Microbiology Team from The University of Hong Kong has first discovered severe acute respiratory syndrome (SARS) was caused by a novel coronavirus in March 2003.This deadly disease was first recognized in Guangzhou Province, China in November 2002.SARS virus was spread to over 30 countries worldwide, infecting over 7,900 patients.From the SARS patients' sample, it was discovered that the human SARS coronavirus was transmitted from animals.It is, therefore, urgent for the medical sector to locate the source of animal SARS coronavirus in order to control and prevent SARS outbreak in the future.
+Since the early SARS cases in Guangdong were found in restaurant workers handling wild animals, researchers from the Department of Microbiology, The University of Hong Kong collaborated with Centre for Disease Control and Prevention of Shenzhen, to identify the source of animal coronavirus.They focused on the wild animals in the live animal retail market in Shenzhen as the research starting point.
+Research Method
+Researchers have collected 25 animal samples from a number of shops in the live animal retail market (including Himalayan palm civet; Hog-badger; raccoon-dog; Beaver; Chinese muntjac; domestic cat and Chinese hare etc.) These animals originated from different regions of southern China and they were kept in stall holder with a few other animal species.Researchers collected nasal, fecal swabs and blood samples from the 25 animals and used RT-PCR test and cell culturing techniques to isolate SARS coronavirus.
+Research Results
+Researchers have successfully isolated SARS-like coronavirus from 4 palm civet cats (out of 25 animals).These viruses were sequenced and compared with 11 existing genomes of the coronavirus that cause SARS in humans.
+The research findings showed that the genetic sequences of the human and the civet cat coronavirus were closely related.While the animal and human viruses were closely related, genetic analysis showed clear differences and suggested that the SARS coronavirus was derived from the virus resident in animals (In S-gene, only 14-15 amino acids were different).In addition to civet cats, a raccoon-dog, a ferret badger, and some of the workers at the same market showed evidence of infection with a coronavirus similar to the human SARS virus. None of them showing evidence of infection by this coronavirus reported SARS-like symptoms in the last six months.
+These important findings further confirmed SARS is a zoonotic disease and the SARS coronavirus has mutated in animals before transmitting to human.The research findings were re-confirmed by Professor Kathryn Holmes' lab at University of Colorado Health Sciences Centre (Denver, U.S.A.).This ground-breaking research has been published in top international scientific journal – Science magazine by American Association for the Advancement of Science today (current issue, September 5, 2003).
+Conclusions and Recommendations
+The prevalence of SARS-like coronavirus in animal kingdom raises the possibility of re-emergence of SARS in humans. It was like the outbreak of avian flu (H5N1) in 1997. Effective monitoring of live animals that pass through markets in southern China has to be enhanced in order to prevent SARS outbreak in animals, and ultimately to human.
+Here are our recommendations:
+- Enhance screening programs in live animal markets for animal virus
+- To put in more resources/funding to support the research on animal and human vaccine to prevent and control further SARS cases worldwide
+- To enforce stricter measures on live animal farming, to use proper fencing to isolate farm animals from wild animals to prevent cross infection
+- Cook the meat thoroughly before eating
+Please visit the website http://www.hku.hk/facmed/press/ for press photos and supplementary information.
+Should you have any questions, please feel free to contact Ms Janet Yeung of Faculty of Medicine, The University of Hong Kong at 2819-5505 or 9107-1676 or Ms Polo Leung of External Relations Office at 2859-2600.
+SARS virus has around 30,000 nucleotides (A, T, C, G), each 3 nucleotides can be coded into a form of amino acid.Different amino acids can form the protein in genes.
+ 

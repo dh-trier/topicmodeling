@@ -1,0 +1,39 @@
+
+[date]2016.03.16[/date]
+[title]PolyU Develops Integrated iWheelchair System[/title]
+The Hong Kong Polytechnic University (PolyU) has developed an intelligent system called "iWheelchair", integrating a series of advanced PolyU technologies from its Interdisciplinary Division of Biomedical Engineering (BME) and Institute of Textiles and Clothing (ITC). With a tablet computer as the centralized operation platform, the system integrates a variety of functions such as environment control, as well as safety, health and hygiene monitoring with automated alert, which better caters for the needs of users and reduce the workload of their caregivers. This wheelchair is unique in integrating the above functions into one platform in the market.
+By providing simple touchscreen commands on the tablet, users can control any home devices connected to the system, such as electric curtains, TV, motorized projector screens and electric beds. For those with impairment of hand functions, a fabric electronic switch can be used to convert thumb movements into touchscreen commands. Moreover, a sensor attached to the wheelchair measures vital health signals such as heart rate, and feed the readings into the computer for instant display and future record, while the fall monitoring function can activate an alarm through the tablet when the user or the wheelchair falls. The diaper wrap and the cushion seat is made with nano-treated fabric with dirt-proof, water repellent and antibacterial features, and the latter has fabric sensors that monitor the user's posture and buzz the user for prolonged inactivity to avoid bedsores and other circulatory conditions. The system is even connected to a smart diaper with sensors that can detect moisture levels and activate the buzzer on the tablet when changing is needed. Finally, optional setting is available for sending out SMS and/or email alerts to designated caregivers or family members in case of a fall, prolonged inactivity, abnormal heart rate and wet diaper to enlist help.
+The system uses Bluetooth for communication among all sensors. For sending out email or SMS alerts, a Wi-Fi connection or mobile data will be called for. In addition, the system can be easily customized to cater for the needs of individual users. The interdisciplinary project is supported by the Innovation and Technology Fund, and has won a bronze medal in the Seoul International Invention Fair 2015.
+A demo system of iWheelchair has been installed at Jockey Club Activity Center of Hong Kong Federation of Handicapped Youth (HKFHY) for their members' trial. The research team will continue to work closely with HKFHY to enable iWheelchair to better cope with the everyday challenges faced by wheelchair users. "As a next step," said Ir Dr Eric W.C. Tam, Assistant Professor of BME and the Project Coordinator of iWheelchair, "we will explore collaboration opportunities with industry, integrate more functions in the iWheelchair, so that the technology can benefit more wheelchair users in our community."
+The PolyU technologies deployed in the system include:
+
+Technology
+Principal Investigator (Department)
+
+Tablet PC Based Integrated Control System
+Ir Dr. Eric W.C. Tam (BME)
+
+Vital Sign Monitoring System
+Ir Prof. Yongping Zheng (BME)
+
+Elderly Fall Monitoring System
+Ir Prof. Yongping Zheng (BME)
+
+Fabric Sensor
+Prof. Xiao-ming Tao (ITC)
+
+Fabric Electronic Switch
+Prof. Xiao-ming Tao and Dr Frency Ng (ITC)
+
+Nano Functional Fabric Finishing Technology
+Prof. John H. Xin (ITC)
+
+Smart Diaper
+Dr Patrick C. L. Hui and Dr Frency Ng (ITC)
+
+PolyU-Developed Intelligent iWheelchair System
+An integrated system called "iWheelchair" has been developed by The Hong Kong Polytechnic University (PolyU), bringing good news to both wheelchair users and the caregivers. Integrating a series of advanced PolyU technologies from its Interdisciplinary Division of Biomedical Engineering (BME) and Institute of Textiles and Clothing (ITC), the system possesses a tablet computer as the centralized operation platform, offering a wide range of functions such as environment control, as well as safety, health and hygiene monitoring with automated alert. When the user or the wheelchair falls, an alarm installed in the iWheelchair will be activated.
+By giving simple touchscreen commands on the tablet, users can control any home devices connected to the system, such as electric curtains, TV, motorized projector screens and electric beds. Those with impairment of hand functions can also make use of a fabric electronic switch to convert thumb movements into touchscreen commands. Users can therefore obtain a higher degree of self-reliance, and hence reducing the workload for the caregivers.
+All sensors in the system are connected through Bluetooth, while dispatch of email or SMS alerts requires a Wi-Fi connection or mobile data. Moreover, the system can be customized in order to cater for the needs of different users.
+Supported by the Innovation and Technology Fund, this invention has won a bronze medal in the Seoul International Invention Fair 2015. A demo system of iWheelchair has been installed at Jockey Club Activity Center of Hong Kong Federation of Handicapped Youth (HKFHY).
+The research team will continue to cooperate with HKFHY to further enhance the functions of iWheelchair, so that it can better deal with the everyday challenges faced by wheelchair users. "As a next step," said Ir Dr Eric W.C. Tam, Assistant Professor of BME and the Project Coordinator of iWheelchair, "we will explore collaboration opportunities with industry, integrate more functions in the iWheelchair, so that the technology can benefit more wheelchair users in our community."

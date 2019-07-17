@@ -1,0 +1,34 @@
+[title]HKU Study reveals Brains of Dyslexics Differ in Chinese and English Readers, Yielding Clues to Cause of Dyslexia[/title]
+[date]09 Apr 2008[/date]
+ 
+A study of a research team of the State Key Laboratory of Brain and Cognitive Sciences, The University of Hong Kong (HKU), demonstrated for the first time that brains of dyslexics differ in readers of different languages. The study, which compared dyslexic children who are readers of Chinese to those of English, indicated structural and functional differences between both groups. The findings implied that dyslexia may be different neurological conditions in readers of different languages. This research may help tailor-making therapies for children who grow up in different cultures.
+The work "A structural-functional basis for dyslexia in the cortex of Chinese readers" by Dr Siok Wai Ting and her colleagues in HKU was published in April 2008 in the Proceedings of the National Academy of Sciences (PNAS) of the United States of America, a prestigious international multi-disciplinary scientific journal. Dr Siok is Principal Investigator of the State Key Laboratory and Assistant Professor of Linguistics.
+Developmental dyslexia affects 7% to 9% of children in Hong Kong, and up to 17% throughout the world. It results in a severe learning disability in acquiring reading skills.
+Previous neuroimaging studies have revealed that dyslexic readers of alphabetic languages like English have decreased gray-matter volume in posterior brain systems, and have weak reading-related activity in the left temporoparietal and occipitotemporal regions of the brain.
+In order to assess whether these abnormalities were universal, or culture-dependent, Dr Siok said her team had been studying dyslexic Chinese children. She explained that while alphabetic languages like English were learnt using letter-to-sound conversion rules, pronunciations in a non-alphabetic language like written Chinese, which is composed of square-shaped or picture-like characters, must be memorized by rote.
+In this latest study, the team used two brain imaging techniques.
+Firstly, voxel-based morphometry, an established whole-brain gray-matter assessment technique, was used to analyze the high-resolution 3D anatomical images acquired with magnetic resonance images (MRIs) from 16 Chinese dyslexic subjects and 16 age-matched normal children as controls. The children, who were studying in Beijing primary schools, were all native speakers of Putonghua, on average aged 11, and all strongly right-handed.
+It was found that the gray-matter volume in the left middle frontal gyrus region, which is important for the coordination of cognitive resources in working memory and previously has been shown to play a role in Chinese reading and writing, was significantly smaller in dyslexic children than in normal subjects. But at the same time, their more posterior brain systems remained unaffected. Previous studies have revealed that dyslexic English readers have decreased gray-matter volume in their posterior regions.
+Secondly, a functional MRI experiment was conducted on a subset of 12 of each of the dyslexics and control groups. They were asked to decide whether two Chinese characters viewed simultaneously rhymed with each other. The rhyme judgment task involves phonological processing which would reflect in activation of some regions in the brain. It was found that the normal subjects had much stronger activation of the left middle frontal gyrus region during the task than the dyslexic group. The dyslexic Chinese readers demonstrated little activation in the posterior brain regions related to reading-related activity in English readers.
+The fact that Chinese and Western dyslexics show structural abnormalities in different brain regions suggests that dyslexia may even be two different brain disorders in the two streams of culture.
+"What causes brain structure abnormalities for dyslexia is currently unknown. Previous genetic studies suggest that malformations of brain development are associated with mutations of several genes and that developmental dyslexia has a genetic basis. Our brain imaging findings may well provide useful clues for further genetic studies in dyslexia," said HKU's Professor of Linguistics Tan Li-Hai, who is also Principal Investigator of the State Key Laboratory.
+Dr Siok, lead author of the study, said the study would certainly help in the development of more efficient tests for early identification of Chinese children with reading disabilities, and more effective strategies to remediate dyslexia, tailored made for Chinese.
+Dr Siok explained that the left middle frontal gyrus is responsible for working memory and is spatially close to the motor cortex, whereas the left posterior brain areas are involved in letter-to-sound mappings and are spatially close to the auditory cortex. "Our findings suggest that educational intervention for Chinese dyslexia may involve working memory and sensorimotor tasks. Current treatments of English dyslexia already use the aspects of letter-sound conversions and phonological awareness", she said.
+----------------------------------------------
+Article Title:-
+"A structural-functional basis for dyslexia in the cortex of Chinese readers," by Wai Ting Siok, Zhendong Niu, Zhen Jin, Charles A. Perfetti, and Li Hai Tan.
+[ Note: Online version:- http://www.pnas.org/current.shtml#NEUROSCIENCE]
+The State Key Laboratory of Brain and Cognitive Sciences, HKU:-
+The State Key Laboratory of Brain and Cognitive Science of HKU is a research centre that adopts an interdisciplinary approach across the fields of Linguistics, Anatomy, Psychiatry, Psychology, and Diagnostic Radiology. The Laboratory, located at HKU's Arts Faculty, works towards improving human health, enhancing quality of education and communication, and discovering the neuro-physiological basis of learning and perception.
+The establishment of the Laboratory was approved by the Central Government's Ministry of Science and Technology of China in the summer of 2005.
+Research in the Laboratory is supported by China's National Strategic Basic Research Program of the Ministry of Science and Technology ("973 Program"), HKU, and the Chinese Academy of Sciences.
+Media Enquiries:-
+- Dr Siok Wai-Ting, Assistant Professor, Department of Linguistics, HKU
+  (Tel 2859 2375 / E-mail: siok@hku.hk)
+- Professor Tan Li-Hai, Professor, Department of Linguistics, HKU
+  (Tel 2859 1109 / E-mail: tanlh@hku.hk)
+- Ms Denise Wong, Manager (Media), External Relations Office, HKU
+  (Tel: 2859 2600 / E-mail: denise.wong@hku.hk)
+Professor TAN Li-Hai (Professor, Department of Linguistics, HKU) (left) and Dr SIOK Wai-Ting (Assistant Professor, Department of Linguistics, HKU)
+Dr SIOK Wai-Ting (Assistant Professor, Department of Linguistics, HKU) elaborates on the latest research findings in dyslexia.
+

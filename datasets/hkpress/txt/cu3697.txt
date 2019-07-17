@@ -1,0 +1,19 @@
+[title]CUHK Engineering Scientists Won Major Award in Information Science[/title]
+
+[date]10 November 2005[/date]
+
+
+ Network Coding Leads to New Era in Network Communications
+ CUHK Engineering Scientists Won Major Award in Information Science 
+ Professor Shuo-Yen Robert Li, Professor Raymond Wai-Ho Yeung and Dr. Ning Cai of Department of Information Engineering, The Chinese University of Hong Kong (CUHK) have been awarded the 2005 IEEE Information Theory Society Paper Award for their groundbreaking work entitled Linear Network Coding. This paper proves the optimality of linear network coding, making possible the realization of network coding in practical applications.
+ The purpose of the Award is to recognize exceptional publications and to stimulate interest in and encourage contributions to fields of interest of the Society. It is the first time that Hong Kong-based scientists have been awarded the Award and also the first time in more than 30 years that it was won by Asian researchers.
+ Network coding theory, being among the most important breakthroughs in network communications, has its birthplace in CUHK. Ever since its initial appearance, network coding has quickly developed into a research field that has fundamental influence on information theory, coding theory, networking, switching theory, wireless communications, computer science, cryptography, operations research, and matrix theory. It is now one of the hottest topics being worked on by researchers from leading universities and industrial laboratories worldwide, and international conferences on network coding have been held on a regular basis.
+ For a very long time, the mechanism of data transmission through a network has been store-and-forward, a principle similar to the operation of the postal system in daily life. In 1997, Professor Yeung first applied the concept of coding to data transmission through a satellite network. In the same year, Professor Li joined the investigation on blending data propagation with coding over a generic abstract network. In 2000 they published a paper that coined the term network coding and pointed out its benefit over store-and-forward, which immediately caught worldwide attention in the research community. The aforementioned award-winning paper appeared in 2003. Preliminary versions of both papers appeared in conference proceedings in 1998. 
+Network coding has brought about a paradigm shift in network applications. It has been used as the core technology in Avalanche, a Microsoft prototype for large scale content distribution on P2P networks. In scenarios of practical interest, Avalanche can increase the information rate by 20 to 30% over BitTorrent (BT). As P2P traffic is occupying more than 60% of the Internet bandwidth, the impact of network coding is tremendous. In the next 10 years, we will see ubiquitous applications of network coding from computer communications to wireless communications.
+ In order to enhance the leading role in the field, CUHK is establishing the first dedicated research centre in the world in network coding, with the aims to advance research on network coding in both theory and practice, to transfer network coding technologies to industry, and to help elevating Hong Kong¡¦s international standing in information engineering research. 
+Biography of Professor Shuo-Yen Robert Li 
+Biography of Professor Raymond Wai-Ho Yeung 
+From left: Professor Raymond Wai-Ho Yeung, Professor Shuo-Yen Robert Li and Dr. Ning Cai
+
+
+ 

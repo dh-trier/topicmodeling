@@ -1,0 +1,40 @@
+[title]HKU wins the most awards in Web Accessibility Recognition Scheme 2016[/title]
+[date]19 Apr 2016[/date]
+ 
+
+HKU receives for the third consecutive year the highest number of awards among over 200 participating organisations 
+
+The main website of the University of Hong Kong (HKU) hku.hk won again the “Most Favourite Websites” and “Triple Gold Award” in the Web Accessibility Recognition Scheme 2016.
+HKU won a total of 16 awards in the scheme this year. This has been the third year in a row the University received the highest number of awards, among the over 200 organisations participating in the scheme.
+The scheme was jointly organised by the Office of the Government Chief Information Officer and the Equal Opportunities Commission. An award presentation ceremony was held today (April 19)
+HKU award winning websites and apps:
+
+Award certificates won by HKU
+Triple Gold Awards
+The University of Hong Kong http://www.hku.hk/
+Information Technology Services http://www.its.hku.hk/
+U-Vision http://uvision.hku.hk/
+Communications and Public Affairs Office http://www.cpao.hku.hk/
+HKU News apps
+iOS platform  https://itunes.apple.com/hk/app/hku-news/id581455414
+Android platform https://play.google.com/store/apps/details?id=com.theorigo.hku_news
+Gold Awards
+University Libraries http://lib.hku.hk/
+Award Presentation Ceremony for Excellence in Teaching, Research &amp; Knowledge Exchange http://www.hku.hk/award/
+Honorary University Fellowships http://www4.hku.hk/honfellows/
+Congregation http://www.hku.hk/congreg/
+eLearning Resources Website http://moodle-support.hku.hk/
+Calendar http://www4.hku.hk/pubunit/calendar/  
+Quick Stats www.cpao.hku.hk/qstats
+Degree Regulations and Course Descriptions http://www.hku.hk/pubunit/drcd/
+Silver Award
+Institute of Human Performance http://www.ihp.hku.hk/
+
+HKU Director of Communications Ms. Katherine Ma said: “The University has always encouraged its Faculties and Departments to make their websites and apps barrier-free, so that the information will be readily accessible by the widest possible audience. It is encouraging to see HKU receiving 16 awards this year and we will continue to work to develop more barrier-free websites and apps for sharing our information with the public.”
+The annual Web Accessibility Recognition Scheme has been held since 2013 to show appreciation to enterprises and organisations for making their websites accessible.
+To achieve the “Gold Award” in the scheme, websites have to meet all 24 and apps have to meet all 18 judging criteria listed under the Gold Category to incorporate basic and key web/mobile application accessibility features. These criteria include providing a text re-sizing function, captions for videos, high colour contrast of texts, clear heading and informative links, well-structured contents and all operations can be performed through a keyboard interface.
+“Triple Gold awards” are granted to websites/apps winning “Gold Awards” for three consecutive years.
+“Most Favourite Website Awards” are granted to websites attaining a “Triple Gold Award” and obtaining the top 3 number of votes in public voting.
+For details about the scheme, please refer to the government website at:
+http://www.ogcio.gov.hk/en/community/web_accessibility/recognition_scheme/
+For media enquiries, please contact Ms Melanie Wan, Senior Manager (Media) (Tel: 2859 2600/Email: melwkwan@hku.hk), Communications &amp; Public Affairs Office, HKU.

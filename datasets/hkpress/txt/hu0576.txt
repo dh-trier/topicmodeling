@@ -1,0 +1,23 @@
+[title]HKU Computer Scientist Dr Cui Heming receives Croucher Innovation Award 2016[/title]
+[date]19 Apr 2016[/date]
+ 
+
+HKU Computer Scientist Dr Cui Heming receives Croucher Innovation Award 2016
+
+Dr Cui Heming, Assistant Professor of the Department of Computer Science, Faculty of Engineering of the University of Hong Kong (HKU), received the Croucher Innovation Award 2016. Four distinguished scholars from HKU were recipients of the Croucher Innovation Awards and Croucher Senior Research Fellowships this year. 
+
+Dr. Cui's research interests are in operating systems, programming languages, distributed systems, and cloud computing, with a particular focus on building software systems to improve reliability and security of real world software applications. His recent research has led to several U.S. patents, open source projects, and publication in premier systems software and programming languages conferences (e.g., SOSP, OSDI, PLDI, and ASPLOS). Dr. Cui’s previous systems have led to several new security errors detected in real-world software, and some of his systems been leveraged by worldwide researchers. Before joining HKU, he obtained his master and bachelor degrees from the Department of Computer Science and Technology of Tsinghua University in Beijing, and his PhD degree from the Department of Computer Science of Columbia University in New York (both in Computer Science).
+
+Research
+Dr. Heming Cui's awarded project focuses on building practical software systems to greatly improve the reliability of today’s general online services. Online services, including social networks, e-business services, and stock exchange platforms, have become increasingly pervasive and important. However, computers that hold these services can have software or hardware errors, which inevitably hurt the reliability of these services and cause severe disasters. For instance, computer errors in the New York Stock Exchange delayed the 2012 Facebook IPO and lost tens of millions of U.S. dollars.
+To improve the reliability of online services, a typical approach is to run the same service with its data on different computers as “copies” and to ensure the same user inputs (e.g. user updates on data) for these copies. This approach is very powerful: even computer errors happen in some copies, the other copies can still behave correctly and provide online services. In order to suit specific services, existing software systems that implement this approach overly restrict user update types (e.g., increasing a user’s stock option), thus porting general services to these systems are extremely challenging. For instance, it is extremely tedious and error-prone to orchestrate a social network service to suit the user update types in a stock exchange platform.
+To address this challenge, Dr. Cui’s project proposes a new software protocol that can efficiently ensure the same general input types across different copies. Although this project has started for only one year, a preliminary system built by Dr. Cui’s and his collaborators has been published in the Symposium on Operating Systems Principles (SOSP) 2015, the world’s best software system conference in year 2015. All the source code and evaluation results of this system are publically available for industrial deployments. Through building practical systems that can help general services tolerate computer errors, this project can be broadly applied to tackle many reliability and security problems in real-world software.
+Dr. Cui Heming’s personal page: http://www.cs.hku.hk/people/profile.jsp?teacher=heming.
+For the biography of Dr Cui, please click here.
+For the HKU press release on the Croucher awardees, please visit: http://www.hku.hk/press/news_detail_14426.html
+The Croucher Innovation Awards
+Established in 2012, the Croucher Innovation Awards aim to identify a small number of exceptionally talented scientists working at an internationally competitive level and to offer substantial support to these “rising stars” at a formative stage in their careers. The scheme is designed to enable recipients to pursue their own scientific, intellectual and professional inclinations, to advance their expertise, to engage in bold new work, and to contribute to the development of education and research in Hong Kong. Each award carries a value of up to HK$5 million over 5 years.
+Media enquiries:
+Communications and Public Affairs Office, HKU
+Melanie Wan, Senior Manager (Media)
+Tel: (852) 2859 2600,  Email: melwkwan@hku.hk

@@ -1,0 +1,10 @@
+
+[date]2013.04.08[/date]
+[title]PolyU wins Best Green ICT (Adoption - Organisations) Silver Award[/title]
+The Hong Kong Polytechnic University (PolyU) has won the Best Green ICT (Adoption - Organisations) Silver Award in the Hong Kong ICT Awards 2013 for the project 'A Greener Era ' start from here (Greening University Administration ' Out with the Old! )' presented by its Information Technology Services Office (ITS). The coveted award was presented to PolyU's Director of IT Mr Gerrit Bahlman at the awards presentation ceremony held on 8 April 2013 Monday.
+PolyU is currently the largest publicly funded university in Hong Kong in terms of student headcount, and its ITS Office sees the in-house redevelopment project of the core University Student Record System a Green Opportunity, following the university's strong commitment to environmental protection and sustainable development since 2000. The project team was formed by the University's Academic Secretariat and the ITS Office. The project was started off in 2008, implemented by phases, and successfully launched in 2012.
+PolyU's Director of IT, Mr Gerrit Bahlman, is pleased to note that the project has accomplished the following major green features:
+Digitising and centralizing a total of 168,000 pages of pre-1986 paper student records, and archiving 208,000 past student records for optimized performance and efficiency;
+Redesigning and streamlining operation processes, with significant improvement in work efficiency and reduction in the volume of paper printing, including 430,000 pages of admission related document, and 40,000 pages for registration checking annually; and
+Saving energy and resources, as well as maintaining good utilization of equipment through adaptive purchase and virtualization of infrastructure.
+The Hong Kong ICT Award was established in 2006 under a collaborative effort amongst the industry, the academia and the Government. The Awards aim at building a large scale and internationally recognised branding of ICT awards of Hong Kong.

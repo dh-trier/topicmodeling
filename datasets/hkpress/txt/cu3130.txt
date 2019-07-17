@@ -1,0 +1,29 @@
+[title]CUHK launches a Game Development System Curvair[/title]
+
+[date]17 August 2006[/date]
+
+
+ CUHK launches Curvair, a Game Development System, 
+ for Fast Design and Production of Chinese-style Computer Games 
+ The Department of Automation and Computer-Aided Engineering (ACAE) of The Chinese University of Hong Kong announced the completion of an advanced 3D game development system, Curvair. One major breakthrough introduced by Curvair is the use of "Curve-Pair Based Axial Representation developed by Professor K.C. Hui from the ACAE department. While currently most computer games often resort to equip characters with heavy amour or tight clothes to simplify the characters¡¦ movements, the new technique allows designers to dress characters in long gowns or robes using a model that resembles the wavy movements of the real cloth. Curvair also provides a series of characters, models of Chinese buildings, and a facial expression editor for easy construction of computer games in Chinese style.
+According to the statistics from www.china.org.cn, China's Internet game market has grown from 0.30 million RMB in 2000 to 5.54 billion RMB in 2005, and expected to reach 8.34 billion RMB in 2006. Those who intend to compete in the Chinese game market may have to focus on the development of original content that are related to the Chinese culture. Curvair simplifies the development of Chinese-style games and can be easily incorporated into other existing game development platforms.
+The project has received funding support from China Game Publishers¡¦ Association (Hong Kong), Gameone Online Entertainment Group Limited, and the Innovation and Technology Fund (ITF). The Hong Kong Productivity Council and Digital Entertainment Industry Support Centre (ISC) also participate to promote Curvair to the local industry. Amongst other activities such as seminars and workshops, a 3D characters design competition is under planning in which participants will be able to obtain first-hand experiences in using Curvair.
+For more information about Curvair, please visit http://www.acae.cuhk.edu.hk/~cad/Curvair
+Statistics from www.china.org.cn: 
+ http://big5.china.com.cn/zhuanti2005/txt/2006-02/21/content_6120953.htm
+
+Professor Y Yam, giving welcome remarks in the Curvair conference
+
+Mr. Vincent Yeung, Professor KC Hui and the Curvair team
+
+
+The "Curvair" softward package
+
+Major function of Curvair, modeling of wavy robes
+
+
+Using Curvair to build your own Chinese palace and Great Wall
+Please visit our gallery online at http://www.acae.cuhk.edu.hk/~cad/Curvair/gallery.htm
+
+
+ 

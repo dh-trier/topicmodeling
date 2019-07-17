@@ -1,0 +1,9 @@
+[date]8 November 2011[/date]
+[title]CUHK Risk Management Science Students Win the 2011 DBS-SMU Quantitative Finance Challenge[/title]
+A team of four students from the Risk Management Science (RMSC) programme of the Department of Statistics at The Chinese University of Hong Kong claimed the championship at the 2011 DBS-SMU Quantitative Finance Challenge organized by the Singapore Management University and the Q.E.D. Quantitative Finance Society of Singapore recently.
+The DBS-SMU Quantitative Finance Challenge - currently in its fifth-year running - pits students from tertiary institutions against one another in two rounds of mentally grueling contests in the field of financial derivatives and risk management. This is the first year the organizer invited tertiary institutions from Hong Kong to join the challenge.  
+The preliminary round is an hour test comprising 40 MC questions. The top eight scorers in each region proceeded to the final round, including five RMSC students. The finals consisted of a case study of pricing and hedging of a derivative product. Sixteen finalists, divided into four teams, were given the case one week in advance. The winning team, composed of Chung Shing Fung, Ngai Ki Sum, Wang Weiyin and Tang Tsz Wang, all students of the RMSC Programme at CUHK, made an impressive presentation of the case solution to the panel of judges by applying risk management and finance knowledge and offering recommendations for improving the product. The winning team was awarded a cash price of S$10,000. 
+To learn more about the Risk Management Science Programme, CUHK, please visit:
+http://www.sta.cuhk.edu.hk/Dept/rmsprg.htm
+To learn more about the 2011 DBS-SMU Quantitative Finance Challenge, please visit:
+http://dbs-smuchallenge.qedsociety.org/

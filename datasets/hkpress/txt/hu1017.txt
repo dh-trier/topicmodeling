@@ -1,0 +1,27 @@
+[title]Mobile Learning Platform to Enhance Quality of Learning and Teaching － 100 students compete in Inter-School Mobile Quiz Contest on Olympics[/title]
+[date]08 Jul 2008[/date]
+ 
+
+
+The Department of Electrical and Electronics Engineering (the Department) of The University of Hong Kong (HKU) officially launches the Mobile Learning Platform it developed today (July 8), which can be used to enhance the quality of teaching and learning.
+The Mobile Learning Platform enables students to access learning materials and answer instructors' questions anytime and anywhere. The real-time report system can also help instructors to closely monitor students' learning progress and efficiently adjust teaching pace or materials accordingly. With the broad basis curriculum required under the forthcoming new 4-year undergraduate system, the Platform would further enable students to enjoy the benefit of mobile learning in a spacious campus.
+The Mobile Learning Platform has been used in teaching in some courses of the Faculty of Engineering, and a module of the Faculty of Medicine. Starting from 2009, it will be widely adopted in HKU's engineering programmes. Plans of further extension for use in other faculties and disciplines are also in the pipeline.
+To promote mobile learning and to celebrate the Beijing Olympics 2008, the Department has organized the Inter-school Mobile Quiz Contest today (July 8) - one month prior to the launch of the Olympics - immediately after the official launch of the Mobile Learning Platform.
+In the contest, about 100 students used mobile devices to answer questions about Olympics, Equestrianism and HKU through the Mobile Learning Platform. The participants from 17 schools had an excited competition in the primary or secondary sections.
+After the keen competition, the following schools emerged the winners:-
+Primary Section: 1st - Pui Ching Primary School; 2nd - St. Paul's College Primary School; 3rd - HKUGA Primary School
+Secondary Section: 1st - Sing Yin Secondary School; 2nd - Pui Ching Middle School; 3rd - King's College
+About the Mobile Learning Platform
+This Mobile Learning Platform includes: a mobile learning server, a course content management system, a result display system and a database management system. Through the campus-wide WiFi network, students can use mobile devices including PDA, mobile phones or mobile gaming devices to log in to the Mobile Learning Platform and then test their own knowledge anytime and anywhere.
+This platform can also aid course instructors to closely monitor the learning pace or progress of each individual student/group. The display system can spontaneously display the students' answer and their attained grade/mark in a real-time manner, thus allowing the instructor to correct the students' common mistakes on the spot. Furthermore, being informed of the students' learning pace through this real-time report system, the instructor can also efficiently adjust his/her teaching progress and teaching materials.
+Our mobile learning platform is totally transparent to the underlying network standards that have already successfully extended our system so that it is able to work within various international standards including the WiFi, the latest Hong Kong's 3G and China's 3G standards, etc.
+This award winning project won the TD-SCDMA Application awards given by the Hong Kong Wireless Development Center (HKWDC) in 2007. Consequently, the project was invited by the Hong Kong Trade Development Council as one of the exhibits in the PT/EXPO COMM CHINA 2007, the largest telecom exhibition held in China. It has also been selected as a 3G application showcase at the Olympic Experience Center of the Datang Telecom Technology (DTT) Co. Ltd.
+For Media Enquiries:-
+- Ir Dr Wilton Fok, Department of Electrical and Electronics Engineering, HKU (Tel: 2857 8490 / 9367 6877 / E-mail: wtfok@eee.hku.hk ); or
+- Ms Denise Wong, External Relations Office, HKU (Tel: 2859 2600 / E-mail denise.wong@hku.hk )
+
+
+
+
+
+

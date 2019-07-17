@@ -1,0 +1,12 @@
+[title]The University of Hong Kong launched "e-Cert FileGuard" Software[/title]
+[date]21 Sep 2005[/date]
+ 
+At a press conference held today, the University of Hong Kong launched its locally developed cryptographic tool, the "e-Cert FileGuard". The launch marked the University's full support to the community and to the cryptographic technology developed locally.
+Developed by the University of Hong Kong, "e-Cert FileGuard" can ensure that confidentiality and data integrity of the documents are maintained while being transmitted over the Internet; that the documents are sent from trusted and recognized senders; and that senders could not deny what they have sent. The software supports the use of the digital certificate embedded in the Hong Kong Smart ID Card. With the user-friendly graphical interface and features, users can easily install and run the software conveniently.
+The software, together with the digital certificate embedded in the smart ID cards, will help enhance e-commerce activities in the business sector and among individuals over the Internet.
+Dr. Paul CHEUNG, Managing Director of Versitech Limited which is a wholly-owned subsidiary of the University of Hong Kong said, "The launch of the software proves once again that we have the right people in the local academia.They have the calibre for developing world-class computer software that is of significance to Hong Kong."
+"This software supports the use of our e-Cert and has further strengthened the secured environment for conducting businesses in the cyber space."The Assistant Postmaster General (Business Development) Mr. Dan CHOI said.According to Mr. CHOI, Hongkong Post has been actively promoting its e-Cert service to businesses in Hong Kong to support secured e-commerce activities, and offering its other value-for-money services including Direct Mail, collection and distribution services to support their supply chain operation.
+For photo of the press conference, please visit http://www.hku.hk/eroesite/html/press/ecert.jpg.
+For enquiries, please contact Ms Cherry Cheung, Senior Press Officer of External Relations Office, the University of Hong Kong, Tel: 2859-2606. 
+September 21, 2005
+Photo Caption: (Left) Dr. Paul CHEUNG, Managing Director of Versitech Limited and (Right) Mr. Dan Choi, The Assistant Postmaster General (Business Development), Hongkong Post

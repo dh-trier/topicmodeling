@@ -1,0 +1,18 @@
+[title]A new mindset for environmental friendly stormwater drainage
+HKU Faculty of Engineering feasibility study on Sustainable Drainage Systems in Hong Kong
+[/title]
+[date]29 Mar 2016[/date]
+ 
+
+
+Conventional stormwater drainage systems consist of extensive networks of drains and pipes that divert stormwater away from the streets. They primarily focus on flood control and do not address environmental needs. Hong Kong has long been adopting the conventional model to solve drainage problems.
+Since the last decade, there has been rising interest worldwide in implementing sustainable stormwater drainage systems (SuDS) to reduce the environmental impact. SuDS make use of several techniques such as bioretention systems, green roofs and porous pavements. These features, when built over a wide area, can retain and slowly release water, reducing peak flows into the drainage system. Water quality is also improved. SuDS also provide many other potential benefits such as greening, increasing freshwater supply and mitigating heat island effect.
+SuDS have been adopted in various countries such as the U.S., Australia and Singapore for over a decade. They may have different emphases depending on local needs. For example, Philadelphia in the U.S. and Melbourne in Australia may focus more on ecological conversation and restoration, while Singapore may focus more on city greening and creating recreational opportunities. Singapore has completed 27 SuDS projects, the number will increase to 100 by 2030. 
+HK, on the other hand, has only very limited SuDS applications. There are a few experimental projects of porous pavements. The current green roof designs do not focus on stormwater control. There has not yet been any comprehensive, long-term plan and strategy in adopting SuDS in HK.  
+
+Researchers from HKU Faculty of Engineering think it is time to make a change, and the use of SuDS should be promoted in HK for sustainable development. The research team led by Dr. Chui Ting Fong May from the Department of Civil Engineering has been collaborating with researchers from the U.S. and Singapore for research in this area (photo on top: Dr May Chui and  a porous pavement model tested). The team received funding from the Public Policy Research Funding Scheme of the Central Policy Unit in 2014 to examine the feasibility and implementation of SuDS in HK. Numerical models and optimization tools were used to evaluate the effectiveness of SuDS and to develop design recommendations for HK.
+Research results suggest that 5 to 10% of space for the installation of SuDS techniques is required for effective stormwater control. Among the various techniques, porous pavements are the most cost-effective for stormwater control, followed by bioretention systems and then green roofs. Specific techniques in greening existing stormwater drains under HK conditions are also proposed. SuDS can be introduced in developed areas as retrofits, but it would be better to first introduce the features in new development zones, for supplementing the conventional drainage systems.
+The perception of HK citizens towards SuDS was also explored in the research. Face-to-face interviews were conducted with 600 respondents. They in general supported government and developers to build more SuDS in public and private places respectively. Respondents who were relatively younger, better educated, had higher income and came from a previously flooded district were more willing to accept the potentially higher cost of SuDS.
+For media enquiries please contact Ms Melanie Wan, Communications and Public Affairs Office, HKU (Tel: 2859 2600 / Email:melwkwan@hku.hk) or Ms Esther Lau, Faulty of Engineering, HKU (Tel: 3917 1924/ Email: estherlc@hku.hk).
+
+

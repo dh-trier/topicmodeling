@@ -1,0 +1,17 @@
+[title]New breakthroughs by HKU research team on Wireless Power Transfer Wireless Domino-Resonator Systems for Mid-Range Applications[/title]
+[date]03 May 2012[/date]
+ 
+A century ago, renowned scientist Nicola Tesla successfully demonstrated that electric power could be transferred wirelessly between a pair of coils called coil-resonators. He laid down the scientific resonance principle that wireless power transfer between a pair of coil-resonators can be achieved with maximum efficiency when the coil-resonators are excited at their "resonance frequency". Wireless power has now found many applications for "short-range" applications such as wireless charging pad for mobile phones. The world first wireless power standard "Qi" is now endorsed by the Wireless Power Consortium (WPC) comprising over 100 companies worldwide.
+An HKU research team, led by Professor Ron Hui, Philip K H Wong Wilson K L Wong Professor in Electrical Engineering, and Dr. Chi Kwan Lee, of the Department of Electrical &amp; Electronic Engineering, has recently developed a new wireless power domino-resonator system concept for "mid-range" applications. Mid-range applications refer to wireless power transfer over a distance in the order of magnitude similar to the dimension of the coil-resonators. Unlike the use of a pair of coil-resonators by Tesla, the HKU research team members have successfully demonstrated that electric power can be wirelessly transmitted through several coil-resonators that can be arranged in different "domino" forms, such as straight, circular and Y-shaped dominos. This means that the power flow direction can be controlled and even split into many branches.
+Most importantly, they discovered that the maximum efficiency frequency would deviate from the resonance frequency of the coil-resonators, because the cross-coupling of non-adjacent coil-resonators would affect the overall wireless power flow paths. They proved that, while Tesla was correct in stating that the optimal operating frequency is the resonance frequency for a pair of coil-resonators, it will shift away from the resonance frequency if more than 2 coil-resonators are used. In addition, they have developed new techniques to control the power flow in such domino-resonator systems.
+The new wireless power domino-resonator systems provide new means of power transfer without using continuous cables over a few metres. This is an emerging technology that enables power to be transmitted in a highly flexible manner. Further research is being conducted by the HKU team to further improve the transmission distance and efficiency under the support of an Innovation &amp; Technology Fund (ITF).
+Their new discovery, new theory and practical verification have been peer-reviewed and published in the prestigious IEEE Transactions on Power Electronics in April 2012.
+For media enquiries, please contact Ms Trinni Choy (Assistant Director (Media), Communications and Public Affairs Office) tel: 2859 2606, email: pychoy@hku.hk; or Ms Melanie Wan (Manager (Media), Communications and Public Affairs Office) tel: 2859 2600, email: melwkwan@hku.hk.
+
+Professor Ron Hui and Dr. Chi Kwan Lee demonstrate the wireless power transfer system
+
+
+Wireless domino-resonator systems for mid-range applications
+
+
+

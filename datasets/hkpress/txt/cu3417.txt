@@ -1,0 +1,177 @@
+[title]CUHK and CK Life Sciences jointly announce[/title]
+
+[date]29 August 2003[/date]
+
+
+The Chinese University and CK Life Sciences jointly announce
+the pre-clinical findings of an anti-cancer product
+ 
+A series of in-vitro and in-vivo pre-clinical studies for an anti-cancer 
+ product developed by CK Life Sciences Int'l., (Holdings) Inc. ("CK Life 
+ Sciences") were conducted by the Biochemistry Department of The Chinese 
+ University of Hong Kong ("Biochemistry Department of CUHK"). Results 
+ demonstrate that the immune cells in mice will be activated and the 
+ human liver cancer cells in mice can be suppressed after the mice have 
+ been fed the product. 
+The pre-clinical findings 
+ have prompted the two parties to carry the research one step forward, 
+ and conduct clinical trials with the product. 
+The leader of the pre-clinical 
+ studies, Fung Kwok Pui, Professor of Biochemistry of CUHK, said, "CUHK 
+ is a great supporter of technology research and our Biochemistry Department 
+ is committed to excellence in both research and teaching. We are pleased 
+ that commercial entities like CK Life Sciences are devoted to developing 
+ new biotechnological medical products. We at CUHK will continue to evaluate 
+ such products to ensure better treatment for patients, and to contribute 
+ to the development of the biotechnology industry in Hong Kong." 
+"This trial collaboration 
+ with CK Life Sciences is a good example of cooperation between academic 
+ and commercial entities. It leverages on the rich resources of commercial 
+ corporation as well as the strong research capabilities of academic 
+ institutions. Not only would such cooperation speed up the pace of research, 
+ but also help to gain wider recognition for the study results," continued 
+ Professor Fung. 
+Hypothesis of CK Life 
+ Sciences' Anti-cancer products
+According to Professor 
+ S F Pang, Vice President and Chief Technology Officer of CK Life Sciences, 
+ the Group's anti-cancer products are made up of natural ingredients, 
+ and do not have any side effects. These products fight against cancer 
+ cells in three different ways: 1) increase the activity of cancer suppressing 
+ substance which induce programmed cell death; 2) increase TNF-alpha 
+ secretion, leading to cell death; and 3) enhance the human immune system 
+ to combat cancer cells." 
+Three Distinctive 
+ Product Features 
+ As pointed out by Prof Pang, CK Life Sciences' anti-cancer products 
+ have been developed based on the Group's proprietary yeast-based technology. 
+ Preliminary studies suggested the products have three distinctive features: 
+ 
+1. Improve immune system 
+ of cancer patients to combat the disease, reduce mortality rate, and 
+ promote recovery from chemotherapy and radiotherapy. 
+2. Not only do these products 
+ not produce side effects, they can lessen common side effects caused 
+ by chemotherapy and radiotherapy, such as nausea, alopecia, bleeding, 
+ edema and deterioration of immune system, resulting in better quality 
+ of life for the patients. 
+3. As the products are oral 
+ prescription, complications and pain arising from surgery and injection 
+ procedures can be avoided. Hospital stays can be reduced and medical 
+ costs decreased. 
+Results of Pre-clinical 
+ Studies Conducted by the Biochemistry Department, CUHK
+Three sets of trials 
+ were conducted by the Biochemistry Department of CUHK to test the efficacy 
+ of CK Life Sciences' anti-cancer product in activating cytokine secreting 
+ cells and suppressing cancer cells. [Cytokines are small biological 
+ factors (in the range of 5-20 kD) that are released by cells and have 
+ specific regulatory effects on cell functions such as cell proliferation 
+ and programmed cell death (apoptosis)]: 
+ 
+1.
+Trial Object:
+Plasma samples of tumor-bearing mice
+
+Trial Method:
+After feeding the anti-cancer product to the mice for 14 days, blood 
+ was drawn, plasma was prepared and cytokine levels were measured.
+
+Trial Result:
+IL-6 in the sample increased 38% 
+
+Remarks:
+IL-6 is a cytokine.  It is 
+ secreted from activated T cells and macrophages.  It facilitates the B cells to differentiate into antibody-forming 
+ cells.   
+
+Conclusion:
+It is indicated that the product induces T cells to secret IL-6 and enhances 
+ the function of B cells in tumor-bearing mice.
+
+2. 
+Trial Object:
+Splenocyte culture of tumor-bearing mice
+
+Trial Method:
+After feeding the anti-cancer product to the mice for 14 days, splenocyte 
+ were cultured and the secreted cytokines were measured.
+
+Trial Result:
+IL-1£] in the sample increased 70%
+No significant difference for IL-2 in the sample
+IL-4 in the sample increased 71%
+IL-6 in the sample increased 70%
+IFN-g in the sample increased 55% 
+
+Remarks:
+- IL-1£] is a cytokine.  Released by activated macrophage and natural killer cells, 
+ it is a potent immuno-modulator which mediates a wide range of 
+ immune and inflammatory responses including the activation of 
+ B and T cells.
+- IL-2 is a cytokine.  Released 
+ by T helper cells, it facilitates T cell proliferation and differentiation, 
+ accelerates the growth of B cells, and activates monocyte and 
+ natural killer cells.
+- IL-4 is a cytokine.  It 
+ is released from T cells and macrophages. It facilitates the B 
+ cells differentiation and induces antibody-forming cells. 
+- IFN is a group of proteins, which strengthens anti-virus immune response.  
+ IFN have different forms. IFN-g is also known as immune interferon; it is released by lymphocytes.
+
+Conclusion:
+It is indicated that the product can enhance the immune response and 
+ modulate the immune system.
+
+3. 
+Trial Object:
+Human hepatoma cells-bearing nude mice
+
+Trial Method:
+Nude mice were fed with the anti-cancer product for 14 or 28 days, tumor 
+ volume and weight were measured. 
+
+Trial Result:
+14-day Treatment Group
+At 0.4 ml/day dosage tumor volume decreased 26%, tumor weight reduced 
+ 17%
+At 0.8 ml/day dosage tumor volume decreased 54%, tumor weight reduced 
+ 29% 
+28-day Treatment Group
+At 0.4 ml/day dosage tumor volume decreased 36%, tumor weight reduced 
+ 52%
+At 0.8 ml/day dosage tumor volume decreased 65%, tumor weight reduced 
+ 84%
+
+Conclusion:
+It is indicated that the product can suppress human tumor growth in mice.
+Professor 
+ Fung said, "The data from the pre-clinical studies indicates that the 
+ anti-cancer product developed by CK Life Sciences has the ability to 
+ strengthen the immune system in tumor-bearing mice and suppress the 
+ growth of tumors in mice in a time- and dose-dependent manner - an encouraging 
+ result indeed."
+Product Development 
+ Progress
+ Up to date, a series of successful in-vitro and in-vivo pre-clinical 
+ trials have been carried out for the anti-cancer products developed 
+ by CK Life Sciences, and 18 anti-cancer product patent applications 
+ have been submitted to the US Patent and Trademark Office. In order 
+ to accelerate the research and development of its anti-cancer products, 
+ CK Life Sciences plans to implement a global trial program which spans 
+ six regions in four continents. Preparation for trials in Hong Kong, 
+ Mainland China and Australia are already in place, whilst those for 
+ trials in the US, Canada, and the UK are underway and are to begin later 
+ in the year. 
+"Following the encouraging 
+ pre-clinical trial studies, we plan to conduct a formal clinical trial 
+ for this product. Researchers from both CUHK and CK Life Sciences are 
+ working intensively on the project currently and we hope the clinical 
+ trials will begin this year. Both parties agree that effective cancer 
+ treatment products are in great demand as cancer cases are increasing 
+ globally. It is a pressing problem and we have to speed up the pace 
+ of research. Biotechnology is an effective tool in achieving this purpose," 
+ concluded Leung Ping Chung, Professor of Orthopaedics and Traumatology 
+ of CUHK.
+
+ 

@@ -1,0 +1,23 @@
+[title]HKU Departments of Chemistry &amp; Physiology 
+Resolves the Secret of Iron Transport in Human[/title]
+[date]15 Jan 2013[/date]
+ 
+Iron forms the basis of life. There are around 4 grams of iron in an adult body and more than 60% of the iron is associated with hemoglobin in blood. Human transferrin (hTF) is the primary plasma iron carrier protein in the human body which delivers iron from the absorption centres (i.e. gastric system) to all tissues, playing an essential role to meet metabolic iron demands and avoid fatal toxicity. The malfunction of transferrin will result in iron imbalance in human body and hence serious health effects such as heart failure, anemia or protein malnutrition. Recently, a team led by Professors Hongzhe Sun (Department of Chemistry) and Quan Hao (Department of Physiology) resolved the structures of iron bound hTF protein of the metal carriage and release stages. The findings will provide insight to the design or improvement of current metallodrugs by enhancing their delivery efficiency in the human body, and their future applications in more precise diagnosis and better targeted therapy in clinical uses. The results have been published in Scientific Reports in December 2012.
+Human transferrin binds iron tightly but reversibly, and delivers iron with high efficiency. The hTF is predicted to undergo significant structural changes during the iron binding-release process for the recognition by human tissues. However, the structural evidence of this was absent in the past. Recently, the protein crystallographic researchers at HKU successfully captured the structural snapshot of hTF’s ‘intermediate state’ between the known ‘iron fully-loaded’ and ‘empty’ states, thus drawing the conclusion that the release of iron by hTF is a continuous and dynamic process that resembles an opening clamp which is loosening what has been gripped.
+Moreover, hTF is capable of binding and delivering some other metals similar to iron, some of them are essential for our life and some are not. As around 70% hTF in human body is free of iron, scientists were considering of exploiting such availability for metallodrug delivery. The HKU researchers’ another recent achievement is the structural snapshot into hTF’s bismuth-binding form which is similar to whence iron is bound, giving the first structural evidence of hTF’s capability of being a ‘vehicle’ of metallodrug in human body. Prof. Sun and Hao, who lead the research works on chemical biology and structural biology at HKU for over ten years, intending to apply the new findings to relevant research on other metallodrugs in near future. Hopefully, their work will help to design or improve current metallodrugs by enhancing their delivery efficiency in the human body.
+The research paper can be viewed at:
+http://www.nature.com/srep/2012/121219/srep00999/full/srep00999.html
+Scientific Reports is an online and open access journal by Nature Publishing Group (NPG), covering all areas of the natural sciences.
+For press enquiry, please contact Ms Cindy Chan, Communication Manager of Faculty of Science, at 2241-5286/ 6703-0212 or by email at cindycst@hku.hk
+Supplementary Information
+About Metallodrug
+Metallodrug is a new member of the drug family. Their drug molecules normally contain one or more metals which are key to their pharmacological effects. They have both diagnosis and treatment uses. For example, indium-113m-DPTA is used for the radioactive tracing of tumor cells. Bismuth citrate is used for gastric ulcer caused by infectation by Helicobacter Pylori.
+About Protein Crystallography and protein structure
+Proteins are catalysts in life (human, other animals, botany, bacteria, etc.) bodies with extremely high catalytic efficiency. They are also catalyzis biochemical reactions in high specificity. The reactant cannot bear a small variation, just likes a lock cannot be opened by other keys. All of these excellent properties credit to its highly sophisticated structure. Therefore it’s worthy to investigate into protein structure for the better understanding of its function. Protein crystallography is a new method for such purpose. It is currently widely used because it provides the projection of protein’s 3D structure directly, though this method is both time and money costing. High-quality research papers in this area are published from time to time.
+
+Crystal structure of iron bound human transferrin
+
+
+Research team of HKU Departments of Chemistry and Physiology – (from the left: Nan Yang, Hongzhe Sun, Minji Wang, Hongmin Zhang, Quan).
+
+

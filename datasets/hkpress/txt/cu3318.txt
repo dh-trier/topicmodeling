@@ -1,0 +1,28 @@
+[title]Michael Lyu Awarded Fellowship of the American Association for the Advancement of Science (AAAS)
+
+
+ 
+
+ 
+
+ [/title]
+
+[date]18 December 2006[/date]
+
+
+ World's Largest General Scientific Society Honours CUHK Scientist
+ Michael Lyu Awarded Fellowship of 
+ the American Association for the Advancement of Science (AAAS) 
+ 
+ Software permeates our daily life. Software controls our factories, telecommunications, automobiles, airplanes, department stores, home appliances, entertainment systems, and so on. The correct functionality of these visible systems depends on the invisible software running on them. With outstanding contributions in invention of the techniques to make software reliable and to predict how reliable the software can achieve, Professor Michael Rung-Tsong Lyu has been awarded the Fellowship of the American Association for the Advancement of Science (AAAS), the world¡¦s largest general scientific society. 
+ Professor Lyu is Professor at the Department of Computer Science and Engineering of The Chinese University of Hong Kong. His inventions have enabled us to enjoy the convenience of many automatic systems in our society without having to worry about their failures. 
+ AAAS honours its members with a Fellowship for their efforts on behalf of the advancement of science or its applications are scientifically or socially distinguished. For the year of 2007, 449 AAAS members were elevated to the rank of Fellow. Professor Lyu is currently the only AAAS Fellow elected in both Mainland China and Hong Kong.
+ Professor Lyu was cited for his distinguished contributions to the fields of software engineering and dependable computing, particularly for advancement of software reliability engineering and software fault tolerance. He is an internationally-known expert in the area of software reliability engineering including software reliability design, testing, modeling and analysis. He proposed a number of innovative design and evaluation schemes for software engineering and fault tolerance, and he initiated software reliability modeling and measurement efforts which were widely adopted by researchers and practitioners. Professor Lyu has published over 250 publications in software engineering, dependable computing, distributed systems, Web technologies, information retrieval, and multimedia techniques. He was also elected to IEEE Fellow in 2004.
+ Founded in 1848, AAAS works to advance science for human well-being through its projects, programs, and publications. With more than 100,000 members and 275 affiliated societies, AAAS conducts many programmes in the areas of science policy, science education, and international scientific cooperation. AAAS publishes the prestigious peer-reviewed journal Science, which has the largest paid circulation of any peer-reviewed general science journal in the world, with an estimated total readership of one million. The honor of being elected a Fellow of AAAS began in 1874 and is acknowledged with a certificate and rosette.
+
+Professor Michael Lyu
+ 
+ 
+ 
+
+ 

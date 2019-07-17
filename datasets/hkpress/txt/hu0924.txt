@@ -1,0 +1,42 @@
+[title]HKU homepage www.hku.hk awarded Most Favourite Website in Web Accessibility Recognition Scheme 2015[/title]
+[date]13 Apr 2015[/date]
+ 
+The main website of the University of Hong Kong (HKU) www.hku.hk was among the three “Most Favourite Websites” awarded under the Web Accessibility Recognition Scheme 2015. The website also won the “Triple Gold Award”, for winning the Gold Award for three consecutive years.
+The Web Accessibility Recognition Scheme 2015 was jointly organised by the Office of the Government Chief Information Officer and the Equal Opportunities Commission. An award presentation ceremony was held today (April 13).
+HKU won a total of 13 awards under the scheme this year, the highest number of awards won among Hong Kong universities. The University’s gold awardees more than doubled.
+HKU Director of Communications Ms. Katherine Ma said: “The University has always encouraged its Faculties and Departments to make their websites and apps barrier-free, so that the information will be readily accessible by the widest possible audience. It is encouraging to see HKU receiving 13 awards this year and we will continue to work to develop more barrier-free websites and apps for sharing our information with the public.”
+HKU’s gold award winning websites and mobile apps are as follows:
+   The University of Hong Kong homepage: http://www.hku.hk/
+   Information Technology Services: http://www.its.hku.hk/
+   University Libraries: http://lib.hku.hk/
+   U-Vision: http://uvision.hku.hk/
+   Communications and Public Affairs Office: http://www.cpao.hku.hk/      
+   Award Presentation Ceremony for Excellence in Teaching, Research &amp; Knowledge Exchange: http://www.hku.hk/award/
+   Congregations: http://www.hku.hk/congreg/
+   ELearning Resources Website: http://moodle-support.hku.hk/
+   Calendar: http://www4.hku.hk/pubunit/calendar/  
+   Degree Regulations and Course Descriptions: http://www.hku.hk/pubunit/drcd/
+   HKU News apps
+       - iOS platform https://itunes.apple.com/hk/app/hku-news/id581455414
+       - Android platform https://play.google.com/store/apps/details?id=com.theorigo.hku_news
+The websites share accessibility features including:
+All operations can be performed through a keyboard interface for those who cannot access a website with a mouse.
+A “high contrast” version and a text re-sizing function are provided for visually impaired users to switch to read using a high colour contrast mode or resize the text up to two times the displaying text without loss of content.   
+Captions are provided for videos for the hearing impaired users. The sound of videos can be easily turned off too.
+Clear and informative links are provided to facilitate those who have cognitive and learning difficulties.
+The U-Vision, Congregation, Communications &amp; Public Affairs Office and Award Presentation Ceremony for Excellence in Teaching, Research &amp; Knowledge Exchange websites are responsive to users’ devices (desktops, laptops, tablets or mobile phones), optimising the elements on each page to suit the screen size.
+The annual Web Accessibility Recognition Scheme has been held since 2013 to show appreciation to enterprises and organisations for making their websites accessible.
+To achieve the “Gold Award” in the scheme, the websites and apps have to meet all 24 and 18 judging criteria respectively listed under the Gold Category to incorporate basic and key web/mobile application accessibility features. For details about the scheme, please refer to the government website at:
+http://www.ogcio.gov.hk/en/community/web_accessibility/recognition_scheme/
+For media enquiries, please contact Ms Melanie Wan, Senior Manager (Media) (Tel: 2859 2600/Email: melwkwan@hku.hk), Communications &amp; Public Affairs Office, HKU.
+
+
+HKU receives the highest number of awards of all the universities in Hong Kong
+
+Ms Katherine Ma, HKU Director of Communications(left), receiving the “Most Favourite Websites Award” for HKU website in the Web Accessibility Recognition Scheme
+
+
+
+Ms Katherine Ma, HKU Director of Communications(left), receiving the “Triple Gold Award” for HKU website in the Web Accessibility Recognition Scheme
+
+

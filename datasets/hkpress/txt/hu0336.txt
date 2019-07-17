@@ -1,0 +1,29 @@
+[title]HKU botanists discover a new plant growth technology 
+that may alleviate climate change and food shortage[/title]
+[date]15 Oct 2015[/date]
+ 
+
+Dr. Lim Boon-leong (left) and his student Dr. Law Yee-song from the School of Biological Sciences develop a new strategy to promote plant growth and increase seed yield by 38% to 57% in a model plant Arabidopsis thaliana.
+
+
+Do you feel the heat? According to NASA and NOAA, 2014 was the hottest year since 1880 and the 10 warmest years in the instrumental record have occurred since 1998. The Intergovernmental Panel of Climate Change (IPCC) of the United Nations confirmed in its Fifth Assessment Report that cumulative emissions of carbon dioxide (CO2) largely determine global mean surface warming and predicted that by 2100, the global mean surface temperature may increase by 3.7 oC to 4.8oC over the average for 1850–1900 for a median climate response if there is no additional effort to reduce greenhouse gas emission is put in place. To alleviate the problem and slow down the rate of global warming, increasing the rate of CO2 absorption by plants or algae is one possible strategy.
+A research team led by Dr. Lim Boon-leong with his former PhD student Dr. Law Yee-song from the School of Biological Sciences, Faculty of Science, the University of Hong Kong (HKU), has developed a new strategy to promote plant growth and seed yield by 38% to 57% in a model plant Arabidopsis thaliana, hence increasing CO2 absorption from the atmosphere. This technology may also have potential in boosting food production and thus could solve another danger of human civilization: food shortage due to overpopulation. According to the World Population Prospect of the United Nations in 2015, the global population will reach more than 9.7 billion by 2050, meaning a 57% increase since 2000.
+In this technology, the researchers have identified a plant-growth promoting gene, designated as “Purple acid phosphatase 2” (AtPAP2) from the model plant Arabidopsis thaliana. AtPAP2 is dually targeted to two energy-generating organelles of plant cells: chloroplasts and mitochondria. Chloroplasts carry out photosynthesis, a process that fixes CO2 in atmosphere into sugars using solar energy. The sugars are then used for plant growth including cell wall, biomass and seeds, or consumed by mitochondria to produce adenosine triphosphate (ATP), an important energy source for many cellular processes.
+This is the first study of AtPAP2 in the world. The research team found that by dual expression of AtPAP2 on chloroplasts and mitochondria, the engineered plants can grow faster (see Figure 1) and produce 38% to 57% more seeds (see Figure 2). It is because AtPAP2 can modulate the import of a number of specific proteins into chloroplasts and mitochondria, and subsequently boost their capability to harvest solar energy and generate ATP. AtPAP2 is found to be the first protein that can modulate energy outputs from these two organelles simultaneously.  
+Dr Lim have reported the findings in two international conferences, the 9th International Conference for Plant Mitochondrial Biology held in May 2015 in Poland and the 2nd FEBS Plant Organellar Signaling Workshop in September 2015 in Croatia, where Dr. Lim was the only speaker from Hong Kong and China respectively. This research has yielded eight research articles in journals including Plant Physiology, Biofuels and Biotechnology, as well as several patent applications with the assistance of Technology Transfer Office, HKU, and we wish the technology can be transformed into applications.
+Figure 1.     Arabidopsis overexpressing AtPAP2 (Experimental) grow faster than control plants (Control) under both short and long days.
+
+
+
+Figure 2.     Arabidopsis overexpressing AtPAP2 (Experimental) matured faster and produced 38% to 57 % more seeds than the control plants at full maturity.
+
+
+Dr. Lim said: “We are happy to make this discovery which has aroused great interest from many plant scientists, as our research findings would allow plant scientists to study the impacts of high energy supply to various biological processes in plant cell, and to study how energy supply affects plants’ abilities to cope with various biotic and abiotic stresses. However, it is just the beginning of a number of research projects, and funding support from the community is certainly essential for future discoveries.”
+This research is supported by the Strategic Research Theme on Clean Energy of the University of Hong Kong.
+For the powerpoint presentation, please click here.
+For videos on the growth rate of the plants, please visit:
+https://www.youtube.com/watch?v=yljJvVv9eP4 and https://www.youtube.com/watch?v=0Arf_rbzvow
+(Video courtesy: Dr. Lim Boon-leong, School of Biological Sciences, HKU)
+Media enquiries:
+Communication and Public Affairs Office Ms Rhea Leung (Tel: 2857 8555/ 9022 7446; email: rhea.leung@hku.hk) or
+Faculty of Science Ms Cindy Chan (Tel: 3917 5286/ 6703 0212; email: cindycst@hku.hk)

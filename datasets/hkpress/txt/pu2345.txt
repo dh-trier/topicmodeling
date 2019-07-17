@@ -1,0 +1,6 @@
+
+[date]2012.09.05[/date]
+[title]PolyU students excel in International Engineering Design Contest[/title]
+Three mechanical engineering students of The Hong Kong Polytechnic University (PolyU) have designed four self-propelled mini-cars which can complete a relay race on a 12-metre track within six seconds. Each car must contain an on-board energy source and trigger the motion on next one. Bonus points will be given to moving devices with different energy sources and smoothness of the initiating action. Mini-cars which can complete the track in the shortest period of time will win the competition.
+Led by Academic Supervisor Ir Lo Kok-keung, the team comprises three members, namely Miss Curie Hau Wing-yi (Team Leader), Miss Chi Yuk-fung, and Mr Ng Ka-kui. The team will be competing against 16 teams from other universities in the final of the International Student Design Contest to be held on 11 November in Houston, Texas, the US.
+The competition is an annual event organized by the American Society of Mechanical Engineers International (ASME). PolyU engineering students have joined the competition since 2003, and it is the eighth time that PolyU team has made it to the contest final within ten years.

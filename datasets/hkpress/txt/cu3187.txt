@@ -1,0 +1,118 @@
+
+[title]Leading Industry Experts and Academics Investigate Collaboration on RFID-enabled Supply Chains and Logistics in Asia[/title]
+
+ 
+
+
+
+
+[date]30 June 2005[/date]
+
+Leading 
+ Industry Experts and Academics Investigate Collaboration on 
+ RFID-enabled Supply Chains and Logistics in Asia 
+ 
+The Center of Cyber Logistics at The Chinese University of Hong 
+ Kong organized an open forum on "RFID-enabled Supply Chains and 
+ Logistics in Asia" today to investigate the relevant issues crucial 
+ to the latest development of the RFID technology in supply chains 
+ and logistics in Asia. 
+With 
+ an aim to accentuate imperative collaboration and highlight the 
+ economic, strategic, technological issues of RFID-enabled supply 
+ chains and logistics in Asia, the forum successfully brought together 
+ experts and researchers in Asia to share and exchange their own 
+ experience with other partners in the region. The forum attracted 
+ around 100 participants including academics, government representatives 
+ and key industry players such as the Airport Authority Hong Kong, 
+ Hong Kong Air Cargo Terminals Ltd, Asia Airfreight Terminal, Cathay 
+ Pacific Cargo, DHL, Dimerco Air Forwarders (HK) Ltd, Hong Kong Science 
+ and Technology Parks Corporation, GS1 Hong Kong, Kerry Logistics 
+ and Liand Fung etc. 
+Researchers 
+ from the CUHK's Center of Cyber Logistics, including Professor Waiman 
+ Cheung, Professor Chu Sung-Chi and Professor Timon Du shared with 
+ the audience crucial issues including privacy and security, standardization 
+ and IT architecture and development on RFID. Other industry speakers 
+ included Mr. Howard Eng Liu-chor, Airport Management Director of 
+ the Airport Authority Hong Kong who talked about RFID for baggage 
+ handling at the Hong Kong International Airport; Mr. Nienchu Wu, 
+ Director of ClarIdy Solutions in Taiwan who talked about RFID Applications 
+ and Technological Approaches in Taiwan and Mr. Yeoh Wooi Gan, Technical 
+ Manager of Institute of Microelectronics in Singapore who talked 
+ about RFID landscape in Singapore. Academics included Ms Yukiko 
+ Yumoto, Associate Director of the Auto-ID Lab of Keio University 
+ in Japan and Professor Min Mao, Director of the Auto-ID Lab of Fudan 
+ University in Shanghai. They also shared the issues and research 
+ findings in their respective countries. Ms Janice Tse, Deputy Secretary 
+ for Economic Development and Labour of the HKSAR Government also 
+ delivered opening remarks to the audience and Mr. Elwin Loomis, 
+ Chief Information Officer of SML Group Limited talked about RFID 
+ for retailing. 
+The 
+ forum featured a roundtable discussion titled "Sifting Through RFID 
+ Hodgepodge in Asia" to begin the process of charting the course 
+ for Asia to lead in the adoption of RFID technologies, and to provide 
+ successful stories, showcases and guidelines for reference and enhancing 
+ harmony in global RFID adoption. Panelists included Ms Anna Lin, 
+ Chief Executive of GS1, Ms Yukiko Yumoto, Associate Director of 
+ the Auto-ID Lab at Keio University, Professor Ming Mao, Director 
+ of the Auto-ID Lab of Fudan University, Mr. Yeoh Wooi Gan, Technical 
+ Manager of Institute of Microelectronics and Mr. Paul Cheng, CEO 
+ of Autotoll HK Limited. 
+Pervasive 
+ RFID technologies present opportunities and challenges to partners 
+ in supply chains and logistics globally. Individually, companies 
+ in supply chains discern the positive benefits of RFID. Costs remain 
+ to be the key concern though amenable in the near future. When partners 
+ leverage the same exact technologies collectively to achieve advantages 
+ over competitive supply chains and logistics services, costs effectiveness 
+ may not be the only one concern. That is, one of the challenges 
+ revolves around end-to-end information management, especially related 
+ to privacy and security, coupled likely with a neutral global third 
+ party EPC-based information network. The Hong Kong SAR government 
+ through the Innovation and Technology Commission (ITC) has committed 
+ supports for the development of the first EPCglobal Network locally 
+ by GS1. The network facilitates supply chain visibility for companies 
+ with manufacturing base in the PRD. Technology solutions providers 
+ continue to develop software, hardware and middleware to ease the 
+ pain of adopting RFID in business processes. 
+Professor 
+ Waiman Cheung, Director of the CUHK's Center of Cyber Logistics 
+ said, "With wide support from industries in Hong Kong, a consortium 
+ was formed last year to study the privacy and security issue in 
+ the RFID-driven business integration and our Center has been collaborating 
+ and leading research studies in this area. We are grateful to have 
+ received tremendous support from consortium members to carry out 
+ research. We are also pleased to participate and contribute to the 
+ government's project of GS1 on the privacy and security issues." 
+ 
+"Obviously, 
+ RFID technologies and their swift adoption will propel supply chains 
+ and logistics industry into a new era. Yet, the efforts will be 
+ collaborative in nature and involve many: from across business chains, 
+ solution providers, technology companies, standardization organizations, 
+ as well as global and regional policy makers. In Asia region, we 
+ have noted advantages such as the three of seven Auto-ID Labs along 
+ with the localized EPCglobal network development, the vast manufacturing 
+ base of the globe, with about 70,000 manufacturing plants owned 
+ and managed by Hong Kong companies, key supply chain hubs in textiles, 
+ electronics, shoes, and toys, etc. We have a unique opportunity 
+ to expedite collaborative efforts that are pivotal in bringing the 
+ first RFID-enabled business chains online. We must lead and the 
+ time is now. Our aim therefore is to leverage these regional advantages 
+ to facilitate and mobilize the adoption of RFID in supply chain 
+ management and logistics, so that we can enhance collaboration across 
+ the countries in Asia and learn from the experience of each other. 
+ This will allow us to take the initiative to play a key role in 
+ the development of RFID technology." 
+
+Professor 
+ Waiman Cheung, Director, the Center of Cyber Logistics, 
+ CUHK
+  
+ 
+
+
+
+ 

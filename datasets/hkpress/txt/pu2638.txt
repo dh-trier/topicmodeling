@@ -1,0 +1,36 @@
+
+[date]2013.11.08[/date]
+[title]PolyU talents shine in Hong Kong U-21 RFID Awards 2013[/title]
+Talented students of The Hong Kong Polytechnic University (PolyU) and its Hong Kong Community College have captured four Gold Awards, two Silver Awards and one Bronze award in the recent Hong Kong U-21 RFID Awards 2013. The major awards were presented by Miss Janet Wong, Commissioner for Innovation and Technology of the Hong Kong SAR Government today (8 November 2013).
+The award-winning projects are listed as follows:
+Gold Award (Most Innovative EPC/RFID Application, Hong Kong U-21 RFID Awards 2013)
+Project: Design and Development of NFC-based Mobile Application for Anti-counterfeiting in Designer Bag Manufacturer
+Students: Chung Chun Lan, Kwong Kuk Hung, Lau Wing Yu, Wu Wing Sum
+Department: Department of Industrial and Systems Engineering, PolyU
+Gold Award (Most Innovative EPC/RFID Application, Hong Kong U-21 RFID Awards 2013)
+Project: RFIShoe - RFID and Bluetooth-based Intelligent Shoes
+Students: Liu Xi, Sun Ruo Qing, Zhu Jia Chen
+Department: Department of Computing, PolyU
+Acknowledgement: The RFIShoe application was developed based on a special shoe system, called Intelligent Footwear System provided by the Institute of Textiles and Clothing.
+Gold Award (Best EPC/RFID Concept, Hong Kong U-21 RFID Awards 2013)
+Project: SmartBeauty
+Students: Kwong Wing Yi, Lee Hoi Lam, Leung Hiu Kwan, Yeung Po Ling
+Programme: Associate in Business/ Associate in Business (Accounting and Finance), Hong Kong Community College
+Gold Award (Best EPC/RFID Concept, Hong Kong U-21 RFID Awards 2013)
+Project: An RFID-based School Bus Monitoring System for Cross-Boundary Students
+Students: Chen Yao Xing, Wu Wei 
+Department: Department of Industrial and Systems Engineering and Department of Applied Social Sciences, PolyU
+Silver Award (Best EPC/RFID Concept, Hong Kong U-21 RFID Awards 2013)
+Project: Development of an RFID-based Surgery
+Students: Cheung Chun Pong, Tam Hiu Man, Wong Yau Ting
+Department: Department of Industrial and Systems Engineering, PolyU
+Silver Award (Most Innovative EPC/RFID Application, Hong Kong U-21 RFID Awards 2013)
+Project: NF See
+Students: Chiu King Keung, Chung Man Kit, Huang Jie, Li Hoi Yi
+Department: Department of Industrial and Systems Engineering, PolyU
+Bronze Award (Most Innovative EPC/RFID Application, Hong Kong U-21 RFID Awards 2013)
+Project: RFID-based Location Tracking System-Using a Peer-to-Peer Network Architecture
+Students: Hui Chun Pan
+Department: Department of Computing, PolyU
+The project “Design and Development of NFC-based Mobile Application for Anti-counterfeiting in Designer Bag Manufacturer” is awarded the "Best Research Awards", and “SmartBeauty” is awarded the "Most Innovative Awards" in the Hong Kong-Taiwan EPC/RFID Academia Awards 2013 co-organized by GS1 Hong Kong and GS1 Taiwan.
+The Hong Kong U-21 RFID Awards 2013 presentation ceremony was held in conjunction with the GS1 Hong Kong Supply Chain Management Excellence Summit 2013 at Hong Kong Convention and Exhibition Centre.

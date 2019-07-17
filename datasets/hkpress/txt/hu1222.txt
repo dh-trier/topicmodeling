@@ -1,0 +1,40 @@
+[title]Ventilating our high-rise compact city
+HKU Department of Mechanical Engineering tackles the phenomenon of 
+wind weakening to reduce heat island effect[/title]
+[date]02 Apr 2015[/date]
+ 
+
+Professor Li Yuguo, Head of HKU Department of Mechanical Engineering, has carried out studies using water tank modelling of an ideal urban dome to identify the physics of wind.
+Reduced city ventilation is a major cause of the heat island phenomenon, and a determinant of air quality in Hong Kong and other cities. The ventilation of air and wind flows is fundamental for removing heat and airborne pollutants in cities, particularly in Hong Kong with a high population density and a high concentration of tall buildings.
+Hong Kong’s air has become increasingly stagnant. For example at King’s Park, the surface wind speed has reduced from 3.5 m/s in 1968 to 2 m/s in 2014. This worrying trend continues, but no research exists to explain it and no strategy has been developed to stop it.
+Unlike buildings, studying city ventilation is in general challenged by the horizontal and vertical spatial variability; complex interaction of thermal convection along the building walls and wind flows; and difficulties in large-scale field measurement. Detailed computer simulations at the city level are difficult. Existing wind engineering studies have focused on one building or a building cluster, and urban air pollution and heat island research have also been mostly at the scale of the urban street canyon, while meteorological studies have mostly considered urban buildings as roughness elements. It is a great challenge to consider the influence from mesoscale atmosphere, microscale physics and their interactions on city scale wind flows.
+A research group led by Professor Li Yuguo, Head of Department of Mechanical Engineering at the University of Hong Kong (HKU) has carried out some studies using theoretical analyses, wind tunnel and water channel modelling, field measurement and computer modelling for ideal cities in order to identify the physics of wind. Since 2013, the research team has commenced a collaborative research (CRF) project with the Hong Kong Polytechnic University specifically on mechanisms of ventilation of high-rise compact cities, supported by the Research Grants Council (RGC).
+The relevant findings of the research group are as follows:
+1.     Wind can easily penetrate into a low-rise sparse city, but it cannot penetrate into a high-rise compact city due to the large canopy drag. Both the theory and monitored data suggest that the wind speed at street level in Hong Kong is not always associated with the wind speed above. This suggests that further densification of our city is highly not recommended.
+2.     If possible, we can try to provide basal opening such as that of HSBC headquarters, which benefits greatly city ventilation. Effort should also be made not to block up winds in our streets – particularly at low levels.
+3.     The hills on Hong Kong Island have a mean slope of 20o and a height of 400-500 metres. The average building height is 50-100 metres on Hong Kong Island and the maximum height is 450 metres. The slope flows are important for ventilating our city. We should keep the secondary streets wide and short along the northern shore of Hong Kong island to facilitate the slope wind flow for city ventilation.
+4.     The buoyancy driven flows along building walls (wall flows) become dominant in high-rise compact canopy layers because of the building heights and large total wall areas. At weak or no wind conditions, urban dome forms. Currently, there is no artificial “removal” strategy for urban dome. The new computer modelling method developed by his team is encouraging to become future engineering design tools for city climate and environment.
+Hong Kong provides a unique world laboratory for studying city ventilation due to its concentration of very high buildings and complex geographical setting. The new understanding of the research can also be used to guide urban ventilation planning in rapidly developing cities in the region and around the world.
+Professor Li Yuguo is presented with the University Outstanding Researcher Award 2014 for his exceptional achievements in the research area. The Outstanding Researcher Award is conferred for exceptional research accomplishments of international merit. Awards are made annually by the University, and are open to academic staff of all grades and other staff on Term of Service 1 whose main duty is research. The assessment criteria include documented evidence of international recognition of research accomplishments, quality and quantity of their research publications, their ability to attract research grants and their involvement in high-impact applied research work. This year, four academics are honoured with this award; award winners receive a monetary award of HK$250,000 to further their research.
+For the powerpoint presented in the press conference, please click here. Please credit “Professor Li Yuguo, the University of Hong Kong”, for all photos / graphs / information in the powerpoint.
+For media enquiries, please contact:
+HKU Communications and Public Affairs Office Ms. Rhea Leung (tel: 2857 8555 email: rhea.leung@hku.hk) or
+HKU Faculty of Engineering Miss. Nancy Cheung (tel: 2219 4668 email: nccheung@hku.hk).
+
+Professor Li Yuguo, Head of HKU Department of Mechanical Engineering.
+
+The new understanding of the research can be used to guide urban ventilation planning in cities in the region and around the world.
+
+
+
+Water tank modelling of an ideal urban dome.
+
+Water tank modelling of an ideal urban dome.
+
+
+
+According to Professor Li Yuguo, air exchange efficiency is low in high-rise compact urban areas.
+
+The research team suggests to keep the secondary streets wide and short along the northern shore of Hong Kong Island to facilitate the slope wind flow for city ventilation.
+
+

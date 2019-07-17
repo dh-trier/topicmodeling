@@ -1,0 +1,24 @@
+[title]Dental researchers at HKU and Anhui Medical University apply mussel power to fortify teeth [/title]
+[date]09 Sep 2013[/date]
+ 
+The way that mussels firmly stick to underwater objects has inspired scientists from the University of Hong Kong and Anhui Medical University to develop a new laboratory technique of replacing surface minerals on teeth.
+The team found that the formation of mineral crystals on tooth samples increased after the samples were first coated with a substance similar to the protein-based glue that mussels produce to attach themselves to wet solid surfaces.
+The sticky covering promoted mineral addition to the outer enamel layer of the teeth as well as the inner dentine layer, partly restoring the hardness of both. In particular, all the narrow channels (tubules) in the dentine were filled with mineral crystals.
+Noting that exposed tooth dentine leads to pain when people eat hot, cold, sweet, or sour food, the researchers — including Dr Chun-hung Chu and Dr Ying Cao from the HKU Faculty of Dentistry — propose that their technique has implications for developing new treatments for tooth sensitivity.
+According to their report, published in the American Chemical Society’s journal ACS Applied Materials &amp; Interfaces, the researchers first dipped human tooth slices in strong acid to dissolve some of their mineral content. One set of slices was put into a solution of the chemical dopamine, which self-assembled in 1 day into a cross-linked network of polydopamine over the demineralised tooth surface, mimicking how mussels make their powerful adhesive. Then, slices with and without the polydopamine coating were immersed in a solution containing calcium and phosphate for up to 1 week, in an attempt to remineralise the teeth by forming crystals of the mineral hydroxyapatite.
+Close inspection by scanning electron microscopy showed that the polydopamine-coated teeth had remineralised, and new mineral crystals were seen in both enamel and dentine layers. Mineral crystals were seen not only on the surface of the dentine but also inside all the dentine tubules. In the teeth without the polydopamine coating, only the enamel layer had remineralised.
+Hardness testing (for Knoop microhardness) showed that the remineralised dentine in the polydopamine-coated samples was harder than the dentine in the demineralised samples at the acid treatment stage, but not as hard as the dentine in the original samples. Similarly, remineralised enamel in teeth with or without the polydopamine coating was harder than the enamel in the demineralised samples, but not as hard as the enamel in the original samples.
+The researchers conclude that polydopamine alters the tooth surface to stimulate dentine remineralisation but without hindering enamel remineralisation. They reason that the polydopamine binds to the dentine’s protein scaffold of collagen, where it provides “nucleation sites” to attract the calcium and phosphate building blocks and encourage the growth of mineral crystals, especially inside the dentine tubules.
+Commenting that up to three-quarters of all people have sensitive teeth because of exposed dentine tubules (which lead to the teeth’s nerves) and that polydopamine coating followed by addition of calcium and phosphate appears to seal all dentine tubules, the study authors call their method “a potential therapeutic technique” for tooth sensitivity. In addition, their method may represent “a simple universal technique” of mineral replacement for both dentine and enamel. However, one factor to consider when developing this approach for clinical application would be to assess any toxic effects of the polydopamine step in humans, the authors caution.
+This joint mainland China – Hong Kong project was funded by the National Natural Science Foundation of China – Research Grant Council Joint Research Scheme, the Outstanding Youth Fund of the Anhui Province Board of Education, and the Youth Foundation of the Anhui Provincial Natural Science Foundation.
+###
+Source: Zhou YZ, Cao Y, Liu W, Chu CH, Li QL. Polydopamine-induced tooth remineralization. ACS Appl Mater Interfaces 2012;4:6901-10. Medline link to research article: http://www.ncbi.nlm.nih.gov/pubmed/23176019 
+See also, for one cause of tooth sensitivity (dentine hypersensitivity): Dental Acid Erosion factsheet.
+For more information about the HKU Faculty of Dentistry, please visit http://facdent.hku.hk; Facebook page: www.facebook.com/facdent
+Media enquiries:
+Dr Chun-hung Chu, Clinical Associate Professor in Community and Family Dentistry, HKU Faculty of Dentistry; E-mail: chchu@hku.hk
+Mr Oi-sing Au, Communications &amp; Development Officer, HKU Faculty of Dentistry; Tel: 2859 0454; E-mail: singau@hku.hk
+
+Scanning electron micrographs showing that dentine tubules (left) were filled with crystals after polydopamine-based remineralisation (right).
+
+

@@ -1,0 +1,88 @@
+[title]The Evolutionary History of the SARS-coronavirus - the complete story[/title]
+
+[date]30 January 2004[/date]
+
+
+ The Evolutionary History of the SARS-coronavirus 
+ - the complete story 
+ 
+Researchers at the Chinese University of Hong Kong joined over 50 
+ scientists from Mainland China and the United States to form the Chinese 
+ SARS Molecular Epidemiology Consortium to study the complete evolutionary 
+ history of the SARS-coronavirus during last year's SARS epidemic. This 
+ project is partially supported by the Hong Kong Research Grants Council. 
+ The results of the study are published today in the world renowned scientific 
+ journal, Science. This research represents the most extensive 
+ molecular epidemiological study of the SARS-coronavirus to-date. A total 
+ of 63 SARS-coronavirus genomic sequences isolated from SARS patients 
+ infected at various time points, from the beginning until the end, of 
+ the epidemic were analysed. The viral genomic sequences were analysed 
+ in combination with detailed epidemiological data to map the precise 
+ landmarks of the evolution of the SARS-coronavirus. 
+The 
+ study revealed several key findings: 
+1. 
+ Continuous evolution 
+The 
+ analysis revealed that the SARS-coronavirus was mutating continuously 
+ throughout the epidemic. The estimated mutation rate of the virus, 
+ however, is one-third that of the virus responsible for the acquired 
+ immunodeficiency syndrome (AIDS). 
+2. 
+ Active adaptation to the human host 
+The 
+ mutation rate of the virus was most rapid during the early part of 
+ the epidemic between the time of the first emergence of SARS to the 
+ first major outbreak in Guangdong Province. Thereafter, the mutation 
+ rate slowed gradually. The highest rate of mutation is seen in the 
+ part of the virus genome coding for the Spike protein, the component 
+ of the virus which enables human cell entry. These data suggest that 
+ during the early part of the epidemic, the SARS-coronavirus was under 
+ significant pressure to change in order to become an efficient human 
+ virus. 
+3.
+A surprising genotype emerged towards the end of the epidemic
+Most 
+ of the human SARS-coronavirus sequences differ from the sequences 
+ of the coronavirus isolated from Himalayan palm civets by the lack 
+ of 29 units of genetic code in one region of the virus. However, a 
+ surprising finding of the present study was the isolation of a SARS-coronavirus 
+ sequence that had a further deletion of 386 units of the genetic code 
+ in the same region of the virus genome. This sequence was initially 
+ found in 2 patients who were diagnosed with SARS at the North District 
+ Hospital, Hong Kong, in May 2003. The same sequence was subsequently 
+ found in a group of 15 SARS patients whose infections were inter-related. 
+ This sequence represents the largest truncation in the SARS-coronavirus 
+ genome that has been documented to date. 
+Implications 
+ of the study findings: 
+1.
+A blueprint for future outbreak predictions 
+The 
+ completed evolutionary map of the SARS-coronavirus provides a blueprint 
+ for the prediction of the future sequence of events should SARS re-emerges. 
+ This foresight would allow for the better planning of public health 
+ control measures to prevent the occurrence of major outbreaks. 
+2.
+Encouraging news for vaccine development 
+The 
+ mutation rate of the SARS-coronavirus is shown to be moderate in comparison 
+ with those rapidly-mutating viruses, such as the virus for AIDS. This 
+ suggests that there is a greater likelihood that if vaccines are successfully 
+ developed to prevent SARS infection, then they are more likely to 
+ remain effective than vaccines for the more rapidly mutating viruses. 
+ 
+3.
+Implication for the development of diagnostic tests 
+For 
+ diagnostic tests to be effective for the detection of the different 
+ strains of the SARS-coronaviruses, the tests should be developed to 
+ target regions of the virus genome that are less likely to mutate. 
+ 
+In conclusion, 
+ this study pieces together the different chapters of the complete evolutionary 
+ story of the SARS-coronavirus and represents a significant milestone 
+ in the understanding of SARS. 
+ 
+
+ 

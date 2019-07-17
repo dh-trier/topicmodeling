@@ -1,0 +1,22 @@
+[date]26 October 2015[/date]
+[title]CUHK develops ‘Computerized Assessment Tools for Language &amp; Communication Disorders’ to exhibit at InnoCarnival 2015[/title]
+ 
+A set of new computerized assessment tools for language &amp; communication disorders has been developed by an inter-disciplinary team at the Chinese University of Hong Kong (CUHK). Members of the team include Prof. Lee Tan from the Department of Electronic Engineering, Prof. Lee Yuet-sheung Kathy from the Department of Otorhinolaryngology, Head and Neck Surgery, and Prof. Tang Wai-lan Gladys from the Department of Linguistics and Modern Languages.
+Communication via speech and language is one of the most important parts of our everyday life. Impairments in speech, hearing and language abilities not only deteriorate the quality of life, but also hinder social interaction and whole-life development of the individuals concerned. Assessment is a key component of the speech and language rehabilitation process. Conventionally the assessment is operated and administrated by trained audiologists, speech pathologists, or school teachers, according to prescribed procedures and scoring criteria. The validity and accuracy depend greatly on the testers’ experience. There is a strong demand for more efficient and objective assessment methods. Computer-assisted assessment has many advantages, including repeatability, effective control, and high reliability. It facilitates the spread of and popularizes the best and latest clinical practice and hence elevates the quality of rehabilitation services.
+The CUHK team covers expertise from speech pathology, language acquisition, speech science, signal processing and software development. With deep inter-disciplinary collaboration, the team is developing a series of speech and language assessment tools for the Chinese-speaking population. The tools include ‘Hong Kong Cantonese Tone Identification Test’ (CANTIT), and ‘Cantonese Spoken Word Recognition Test’ (CANSWORT). The online version of ‘Chinese Grammar knowledge assessment tool’ has been used for testing in about 20 kindergartens and primary schools since 2013, with 2,092 children being tested. It is expected that the assessment tools will be widely adopted, and be able to reach more beneficiaries in future.
+CUHK’s participation in InnoCarnival 2015
+CUHK will participate in the InnoCarnival 2015, organized by the Innovation and Technology Commission of the Hong Kong Special Administrative Region Government, from 31 October to 8 November at the Hong Kong Science Park.  Members of the public are welcome to visit CUHK’s booth at the InnoCarnival 2015, to learn more about the ‘Technology-assisted Assessment &amp; Rehabilitation of Language &amp; Communication Disorders’ and other recent innovative projects. Interactive games are also available to deepen visitors’ knowledge of the showcased projects.
+
+Date: 
+31 October to 8 November 2015
+
+Time:
+10:00 am to 7:00 pm
+
+Venue:
+Concourse of Convention Centre 3, 1/F., 12W, Phase 3, Hong Kong Science Park, Sha Tin
+
+Booth No.:
+F35
+
+Website of InnoCarnival 2015: http://www.itm.gov.hk/

@@ -1,0 +1,20 @@
+
+[date]2012.12.25[/date]
+[title]PolyU-developed AI-based RFID system raises efficiency of apparel industry[/title]
+
+
+By integrating the use of artificial intelligence (AI) and cloud computing technology on the Radio Frequency Identification Technology (RFID) platform, a pioneering researcher of The Hong Kong Polytechnic University (PolyU) has developed the 'RFID-based Apparel Management Expert (RAME) System' which can help apparel industry to increase their production efficiency by 20 percent and achieve much cost-saving.
+With this innovation, Associate Professor Dr Calvin Wong Wai-keung of PolyU's Institute of Textiles and Clothing has recently scooped the top prizes in the Hong Kong Radio Frequency Identification Technology (RFID) Awards 2012 organised by GS1 Hong Kong.  These included the Gold Award in the category of 'Innovative Use of RFID Technology' and Silver Award in 'Best Implementation of RFID Technology'.
+The winning innovation RAME is developed by Dr Wong in collaboration with B&amp;S Equipment Development Limited, with over $3 million funding support from The Hong Kong Research Institute of Textiles and Apparel (HKRITA). Since the project was kicked off two years ago, Dr Calvin Wong has filed a patent. More recently, the team has gone through the stage of pilot testing with at the front line of haute couture production with the support of an apparel manufacturer based in Dongguan, China.
+According to Dr Calvin Wong, the RAME System was designed not just to capture useful production data on a real-time basis, but also analyze the data and then adopt artificial intelligence (AI) algorithms to enable optimal production planning and control decisions for apparel manufacturing enterprises.
+The RAME system consists of two modules. The first one is a cloud computing-based production tracking and monitoring module utilizing RFID technology to capture production data on a real time basis. As the system is cloud-based, it is able to collect and consolidate production data from different manufacturing plants located in different regions. In addition, this module includes effective quality monitoring and control functions so that production management can track and monitor quality defects of each product, and provides in-depth analysis and diagnosis of production progress and identifies potential production issues.
+The second one is an AI-based production decision-making module in which AI-based algorithms can predict individual worker's efficiency using historical and real-time data, and recommend how workers should be assigned to achieve production targets. It is also able to monitor whether assembly lines need re-balancing and how it is done on a real-time basis.
+Upon implementation of the RAME System on pilot run, the apparel manufacturer was able to reduce labor costs by 8 per cent; increase production efficiency by 25 per cent and reduce production waste by 10 per cent. Efficient and accurate production planning and control decisions can now be made promptly by shop-floor managers who no longer need to rely on subjective assessment and quick fixes. Better supply chain coordination can be achieved to provide customers with better services.
+In the next stage, Dr Calvin Wong and his partner will seek to achieve knowledge transfer through promoting the new technology to apparel manufacturers. Dr Wong was also invited to deliver a speech on his winning case with the industrialists, researchers, and practitioners at the Supply Chain Management Summit.
+About GS1 Hong Kong
+With over 110 member organizations around the world, GS1 is a non-profit, industry-led global organization dedicated to design and implementation of global standards and solutions, including barcodes, B2B e-Commerce, global data synchronization and electronic product code/radio frequency identification (EPC/RFID), to improve the efficiency and visibility of supply chains. Established by GS1 Hong Kong, the Hong Kong RFID Awards are highly recognized as remarkable contribution to research and development as well as implementation of RFID technology.
+
+
+
+
+

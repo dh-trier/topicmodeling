@@ -1,0 +1,14 @@
+[title]Safety and Risk of Common Respiratory Therapy to Healthcare Workers in the Medical Ward[/title]
+
+[date]27 June 2006[/date]
+
+
+ Safety and Risk of Common Respiratory Therapy
+ to Healthcare Workers in the Medical Ward 
+ During the major outbreak of SARS in 2003, healthcare workers accounted for 23% of the SARS cases in HK. With the recent emergence of avian flu, healthcare workers are concerned about the risk of acquiring contagious diseases. Researchers at The Chinese University of Hong Kong have recently studied the potential risk of common respiratory therapy including non-invasive positive pressure ventilation (NPPV) and delivery of supplemental oxygen in spreading infection on the medical ward.
+Using a human patient simulator and laser visualization technique, a jet plume of air leaked through the mask exhaust holes to a radial distance of 0.25 m from the mask during application of NPPV at low pressure of 10 cmH2O. When NPPV was increased to a high pressure of 18 cmH2O, the vertical plume extended to 0.45 m above the patient with some horizontal spreading along the ward ceiling. Using the same laser visualization method, we have shown that during the delivery of oxygen via a simple face mask to the HPS, the exhaled air particles could reach a distance of approximately 0.40 m.
+The study shows that there will be substantial exposure to exhaled air which occurs within 0.5 m radius of patients receiving common respiratory therapy for respiratory failure. Healthcare workers should take stringent precautions during provision of respiratory therapy to patients with severe pneumonia.
+ 
+
+
+ 

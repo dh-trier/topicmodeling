@@ -1,0 +1,61 @@
+[title]HKU Study: Prospect for immunotherapy in the treatment of human swine influenza[/title]
+[date]08 Feb 2011[/date]
+ 
+
+
+(Note: Numbers in the brackets refer to the reference paper number at the back)
+Researchers from The University of Hong Kong Li Ka Shing Faculty of Medicine have conducted a series of important research last year on the pandemic influenza H1N1 2009 (swine flu), in which they found that patients who developed severe swine flu was associated with chaos of the immune system, which led to a decrease in an important kind of antibody in the blood of these patients.  This kind of antibody is called immunoglobulin G2 (IgG2), which is important in our defence against many bacteria that cause secondary infection in patients with severe influenza.  The result echoes with the previous findings in a group of Australian patients.  The finding is published in the current issue of the journal Clinical and Vaccine Immunology (1).
+Professor YUEN Kwok-yung, Henry Fok Professor in Infectious Diseases and Head of the Department of Microbiology of the University of Hong Kong Li Ka Shing Faculty of Medicine says, "Previous study in many pregnant Australian patients with severe swine flu had lower IgG2 level. Our team further studied and found that, immune dysregulation even in nonpregnant Chinese patients, which was caused by serious inflammation and high viral load, was actually the key factor leading to severe swine flu among Asians.  It is also the cause of the low IgG2 level."
+Dr. Ivan HUNG Fan-ngai, Clinical Assistant Professor of the Department of Medicine of the University of Hong Kong Li Ka Shing Faculty of Medicine and also another leader of the team further explains, "Immunotherapy, such as convalescent plasma, contains antibodies that can boost up the immune system and reduce the viral load, and our convalescent plasma study clearly demonstrated the beneficial effect in severe influenza (2)."  The team had previously revealed that convalescent plasma treatment reduced mortality by 50% in patients with severe swine flu in a study which was published in journal Clinical Infectious Diseases.
+Recent data suggest that the influenza epidemic in Hong Kong is more severe this winter. This may be explained by a 2-4 fold decrease in antibody titre in the previously infected population in 2009.  The colder and drier weather this year also enhance virus survival and therefore increase the transmission.  However, there is no evidence of significant antigenic drift in the virus at the moment.
+The impact of the study
+a.  Severe cases of human swine influenza usually present late to hospitals &gt;5 days after onset of symptoms when the golden opportunity of antiviral treatment has passed.  No study has clearly demonstrated the benefit of any form of antiviral treatment beyond 5 days.
+b.  Salvage of such severe cases depends on breakthrough in basic scientific research.
+c.   We find that severe cases have immune dysregulation and persistent high viral load, leading to excessive inflammation and low level of an antibody called IgG2.
+d.  Immunotherapy will help to reduce viral load and decrease secondary bacterial infection respectively.
+e.  Our recent success of treating severe cases with convalescent plasma from recovered patients strongly supported this research finding.
+f.   Further treatment trial with concentrated immunoglobulin prepared from convalescent plasma is on-going.
+Research methodology for the immune dysregulation study (1)
+A total of 74 Asian patients who were admitted to hospitals in Hong Kong for pandemic influenza H1N1 2009 between May 2009 and January 2010 were included in the study.  Among the patients, 38 were with severe pandemic influenza, while the other 36 were mild cases. 
+Background of the study
+The HKU Infectious Diseases and Microbiology team has been engaged in the study and research on the pandemic influenza H1N1 2009 since its outbreak in 2009.  Previous studies by the team published in various top rank journals last year have demonstrated that most adult patients with severe swine flu infection are below 65 years, instead of the usual above 65 in seasonal flu cases (3).  Severe cases often have genetic mutations of the key surface protein of the virus called D225G (D222G) which adapts well to the lower airway (4), resulting in more severe inflammation and have a slow clearance of viral load (5).  Antiviral therapy when given early in the course of the disease reduces the viral load but its benefit is doubtful in severe cases especially when the presentation is late, usually after day 5 (6).
+About the research team
+The study was conducted by a group of doctors and scientists from the Infectious Diseases and Microbiology team at the University of Hong Kong Li Ka Shing Faculty of Medicine.  The team is headed by Professor YUEN Kwok-yung, Henry Fok Professor in Infectious Diseases, Head of the Department of Microbiology; other key researchers include Dr. Ivan HUNG Fan-ngai, Clinical Assistant Professor of the Department of Medicine; Dr. Kelvin TO Kai-wang, Clinical Assistant Professor of Department of Microbiology and Dr. Jasper CHAN Fuk-woo, Honorary Assistant Professor of Department of Microbiology.
+For news photos and powerpoint slides, please visit the website at:
+http://www.med.hku.hk/v1/news-and-events/press-releases/
+References:
+(1).   Lower serum immunoglobulin G2 level is associated with cytokine dysregulation in severe cases of pandemic H1N1 2009 influenza.
+Chan JF, To KK, Tse H, Lau CC, Li IW, Hung IF, Chan KH, Cheng VC, Lai TS, Woo PC, Chan EY, Yuen KY.
+Clin Vaccine Immunol. 2011 Feb;18(2):305-10. Epub 2010 Dec 1. PMID: 21123524
+(2). Convalescent Plasma Treatment Reduced Mortality in Patients With Severe Pandemic Influenza A (H1N1) 2009 Virus Infection.
+Hung IF, To KK, Lee CK, Lee KL, Chan K, Yan WW, Liu R, Watt CL, Chan WM, Lai KY, Koo CK, Buckley T, Chow FL, Wong KK, Chan HS, Ching CK, Tang BS, Lau CC, Li IW, Liu SH, Chan KH, Lin CK, Yuen KY.
+Clin Infect Dis. 2011 Feb;52(4):447-56. Epub 2011 Jan 19. PMID: 21248066
+(3).  Concurrent comparison of epidemiology, clinical presentation and outcome between adult patients suffering from the pandemic influenza A (H1N1) 2009 virus and the seasonal influenza A virus infection.
+To KK, Wong SS, Li IW, Hung IF, Tse H, Woo PC, Chan KH, Yuen KY.
+Postgrad Med J. 2010 Sep;86(1019):515-21. Epub 2010 Aug 5. PMID: 20693151
+(4). Quasispecies of the D225G substitution in the hemagglutinin of pandemic influenza A(H1N1) 2009 virus from patients with severe disease in Hong Kong, China.
+Chen H, Wen X, To KK, Wang P, Tse H, Chan JF, Tsoi HW, Fung KS, Tse CW, Lee RA, Chan KH, Yuen KY.
+J Infect Dis. 2010 May 15;201(10):1517-21. PMID: 20367331
+(5). Delayed clearance of viral load and marked cytokine activation in severe cases of pandemic H1N1 2009 influenza virus infection.
+To KK, Hung IF, Li IW, Lee KL, Koo CK, Yan WW, Liu R, Ho KY, Chu KH, Watt CL, Luk WK, Lai KY, Chow FL, Mok T, Buckley T, Chan JF, Wong SS, Zheng B, Chen H, Lau CC, Tse H, Cheng VC, Chan KH, Yuen KY.
+Clin Infect Dis. 2010 Mar 15;50(6):850-9. PMID: 20136415
+(6). The natural viral load profile of patients with pandemic 2009 influenza A(H1N1) and the effect of oseltamivir treatment.
+Li IW, Hung IF, To KK, Chan KH, Wong SS, Chan JF, Cheng VC, Tsang OT, Lai ST, Lau YL, Yuen KY.
+Chest. 2010 Apr;137(4):759-68. Epub 2010 Jan 8. PMID: 20061398
+
+
+
+ 
+(From left) Dr. Ivan HUNG Fan-ngai, Clinical Assistant Professor of the Department of Medicine, The University of Hong Kong Li Ka Shing Faculty of Medicine; and Dr. Kelvin TO Kai-wang, Clinical Assistant Professor of Department of Microbiology, The University of Hong Kong Li Ka Shing Faculty of Medicine, share the latest findings on the causes and treatment for severe swine flu cases.
+ 
+Dr. Ivan HUNG Fan-ngai, Clinical Assistant Professor of the Department of Medicine, The University of Hong Kong Li Ka Shing Faculty of Medicine, says immunotherapy can boost up the immune system and reduce the viral load of the swine flu patients.
+ 
+Dr. Kelvin TO Kai-wang, Clinical Assistant Professor of Department of Microbiology, The University of Hong Kong Li Ka Shing Faculty of Medicine, says the immune dysregulation of swine flu patients, which was caused by serious inflammation and high viral load, gives rise to the secondary bacterial infection. This is actually the key factor leading to severe swine flu cases.
+ 
+Concentrated immunoglobulin fractionated from convalescent plasma donated by the patients recovered from swine flu
+ 
+Concentrated immunoglobulin fractionated from convalescent plasma donated by the patients recovered from swine flu
+
+
+
+

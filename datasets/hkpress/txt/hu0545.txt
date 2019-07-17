@@ -1,0 +1,36 @@
+[title]HKU releases Report of the Investigation Panel on the Dental Unit Incident[/title]
+[date]05 Dec 2012[/date]
+ 
+
+Professor Kwok-Yung Yuen, Chairman of the Panel  (Left) and Dr Vincent CC Cheng, Member of Panel (Right)
+The Dental Clinic Incident Investigation Panel of the University of Hong Kong (HKU) submitted a report to the University Health Services Committee (UHSC) today (December 5). A briefing session was held by the Panel to explain the findings to the affected patients in the incident.
+The Panel was set up by UHSC to investigate the incident of dental instruments in the Dental Clinic of the University Health Service (UHS) not having gone through the full process of sterilisation and being used in the treatment of patients between the afternoon of October 30, 2012 and the morning of November 2, 2012. It was also tasked to make recommendations on arrangements needed for affected people and measures to prevent recurrence of similar incidents in the future.
+Members of the Panel included Professor Kwok-Yung Yuen, Henry Fok Professor in Infectious Diseases, Department of Microbiology, Li Ka Shing Faculty of Medicine; Professor Edward Lo Chin Man, Faculty of Dentistry, and Dr Vincent CC Cheng, Infection Control Officer, Queen Mary Hospital. Dr Wong Ka Hing, Consultant, Special Preventive Programme of the Department of Health, was invited as an external expert observer.
+
+According to the report, the overall standard of infection control at the Dental Clinic was high as evidenced by the very clean environment and the proper use of personal protective equipment. Clinic staff were conversant with the infection control practices and dental equipment appeared clean. Documentation of the weekly spore strip test results with date and signature was made by the dental surgery assistants.
+In light of the evidence, the incident was found to have been caused by a very rare lapse of the monitoring role by the on-duty dental surgery assistants. Based on the schedule of dental surgeries and sterilisation sessions, the Panel believed it likely that dental staff of the clinic did not press the “Start” button of the autoclave scheduled at 2:15pm and did not check the indicator and printout to ensure the completion of the autoclaving cycle. The unsterilised instrument packages were unloaded from the autoclave and put on the storage shelf.
+As the workload for autoclaving was quite heavy amounting to three to four autoclave loadings per day, dental staff on duty on October 30, 2012 could not recall if they had performed the autoclave duty in the afternoon of the failed autoclaving.
+The Panel recommended that dating of instrument packages and signed documentation of each autoclave printout, colour change of chemical indicators of each load and the daily autoclave performance should be recorded and audited to prevent similar incidents in accordance with the British Dental Association advice sheet - Infection Control in Dentistry and the Australian Dental Association Guidelines for Infection Control.
+It also recommended that UHS should appoint a senior dental surgeon to be the person-in-charge, which should be a more permanent role and who would be ultimately accountable for the dental service, rather than adopting the present rotating system of having the clinic’s three dental surgeons taking turns being in-charge.
+Long term recommendations were made by the Panel, which included regular auditing of compliance on dating, signing and logging of all autoclave printout, chemical indicator and spore tests; assigning a dedicated personnel for cleansing, sterilisation and disinfection process, which will be adopted and followed up by the Dental Clinic.
+Sterilisation comprises two stages, including pre-sterilisation cleansing and a sterilisation process such as autoclaving. Twelve out of 75 types of dental items did not undergo the whole process of pre-sterilisation cleansing before autoclaving, either because of their small size, fragility, or manufacturing materials. These items were rinsed with water and detergent, some were treated with an ultrasonic bath.
+After the incident, UHS had acted according to the advice from the Clinical Microbiologists of HKU, performing blood tests on the affected patients and providing vaccination to susceptible patients as preventive measures for blood borne virus infection. Of the 250 patients who attended the Dental Clinic during the at-risk period, only 248 received dental procedures. While one patient could not be contacted, all other 247 patients showed negative results on HIV and Hepatitis C virus (HCV) antibody. Of these patients, a majority already had immunity against Hepatitis B virus (HBV), a small number were HBV chronic carriers. Immunization with Hepatitis B vaccine was offered to 84 susceptible patients.
+Professor Roland Chin, HKU Deputy Vice-Chancellor and Chairman of the University Health Service Committee, would like to extend his gratitude to Panel members for their dedicated hard work. He said the University will look into the details of the report and consider follow up measures accordingly.
+For the full report, please visit: http://www.cpao.hku.hk./media/Report.pdf
+For media enquiries, please contact Ms Trinni Choy (Assistant Director (Media), Communications and Public Affairs Office) tel: 2859 2606 email: pychoy@hku.hk; or Ms Melanie Wan (Manager (Media), Communications and Public Affairs Office) tel: 2859 2600 email: melwkwan@hku.hk.
+
+
+Instrument pack before autoclaving
+
+Instrument pack after autoclaving (chemical indicator changes colour)
+
+
+Autoclave machine and post autoclaving printouts
+
+Post autoclaving printouts from autoclave machine
+
+
+Chemcal indicator inside autoclave machine changes colour after sterilisation 
+
+
+

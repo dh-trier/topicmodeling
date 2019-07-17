@@ -1,0 +1,14 @@
+
+[date]2011.02.28[/date]
+[title]PolyU hosts Hong Kong Air Cargo Exchange 2011[/title]
+The Department of Computing of The Hong Kong Polytechnic University (PolyU) has organized a Hong Kong Air Cargo Exchange 2011 in collaboration with DHL Global Forwarding, Hongkong Association of Freight Forwarding And logistics (HAFFA), and Hong Kong R&amp;D Centre for Logistics and Supply Chain Management Enabling Technologies (LSCM). During the seminar, the results of a project funded by the Innovation and Technology Fund titled "Enhancing the Competitiveness of the Hong Kong Air Freight Forwarding Industry Using RFID and Software Agent Technologies" were reported.
+In his welcoming remarks, Professor Cao Jiannong, Acting Head of the Department of Computing, said PolyU is known for its application-oriented education and research. PolyU researchers have been conducting research that has practical value, and in many instances, can be applied to real life situations to improve people's life and enhance the competitiveness of business and industry.
+Several distinguished speakers were invited to give an opening address at the seminar. They included: Ir Dr Samson Tam, JP, Legislative Councillor (Information Technology Functional Constituency); Ir Dr Paul Tsui, Chairman, HAFFA, and Dr Kelvin Leung, CEO, North Asia Pacific, DHL Global Forwarding. Mr Alan Thorne, Associate Director of Cambridge Auto-ID Lab, also gave a talk on "Cambridge Auto-ID Lab: Overview and Airport-related Projects".
+The following guests shared their experience on air cargo industry during the seminar:
+"Global Security Compliance ' Way Forward for Hong Kong" by Ir Dr Paul Tsui, Chairman, HAFFA 
+"Outlook for the Air Cargo Industry in South China" by Mr Anthony Wong, Senior Advisor and Former Managing Director, Hong Kong Air Cargo Terminals Limited
+"Experience Sharing on Airfreight and Customer Services in Hong Kong" by Mr Tom Li, Vice President Airfreight and Customer Services, DHL Global Forwarding (Hong Kong)
+Finally, the project team gave a demonstration on the system and presented the project results and achievements. The project has won a number of awards:
+Silver Medal in the 38th International Exhibition of Inventions of Geneva
+Silver Award in the Hong Kong RFID Awards - U-21 Awards 2010 (Best EPC/RFID Concept)
+Certificate of Merit in the Hong Kong RFID Awards 2010 

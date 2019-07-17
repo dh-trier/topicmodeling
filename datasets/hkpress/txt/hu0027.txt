@@ -1,0 +1,33 @@
+[title]HKU Robotics Team among world’s top nine to enter international Robotics Challenge[/title]
+[date]14 Jul 2013[/date]
+ 
+
+
+HKU Advanced Robotics Laboratory
+The Robotics Team of the University of Hong Kong (HKU), the first of its kind in Hong Kong, has been selected and funded to enter the world’s top Robotics Challenge to be held in the US in December this year. 
+The Robotics Challenge was initiated by the US Defense Advanced Research Projects Agency (DARPA) in response to the Fukushima Daiichi nuclear crisis.  It aims to challenge robotics researchers to develop dexterous mobile robots which operate in harsh and/or hazardous environment.   Eligible teams, including the HKU team, will receive funding for their projects, and the winner will receive a USD 2-million prize.
+The HKU team members from the Faculty of Engineering, jointly with the Case Western Reserve University (CWRU) team, entered in the recent Virtual Robotics Challenge organised by the US Defense Research Projects Agency (DARPA) from June 18 to 20 under the name of “Team Case”.
+
+With its remarkable performance clearly demonstrated, the team has won 9th place out of more than 120 teams from eight countries. 
+Besides, in view of the strength of the HKU team, the organizer, DARPA, has exceptionally granted funding in support of the team for entering in the next round of competition under the name of “Team HKU” in Robotics Challenge trials to be held in December, 2013 in collaboration with members from “Team K-Japan” and “Team Case”. 
+This is part of the “Advanced Robotics Initiative” launched by the HKU’s Faculty of Engineering, striving to become a world-class player and Asian leader in the area of robotics. 
+In the last challenge, for example, Carnegie Mellon University was the champion, Stanford University placed 2nd and Massachusetts Institute of Technology placed 4th.  By entering into this high-profile international competition, HKU will bring to the world stage the innovative talent of Hong Kong.
+The first step of the DARPA Robotics Challenge was a Virtual Robotics Challenge, which tested the effectiveness of control of a simulated “humanoid robot” in modeled disaster scenarios.
+The HKU team, collaborating with US’ CWRU team (“Team Case”), managed to place itself in the 9th place, putting HKU in the company of the top teams such as Massachusetts Institute of Technology (MIT), Lockheed Martin, one of the largest defense corporations in the world and CalTech/JPL from NASA's Jet Propulsion Laboratory, and just ahead of Carneige Mellon University.  
+Professor Norman Tien, HKU Dean of Engineering remarked: “It is a significant accomplishment for our new initiative to produce a team that made it into the top 10 worldwide in its first attempt.”
+“It is encouraging to note that researchers from the US, Japan, and partner institution like the University of Edinburgh will join hands with HKU Team in developing advanced and sophisticated software i.e. cultivating a brain for the robot,” he added.
+The robotics technologies, one of the key emerging technologies identified by HKU Faculty of Engineering, are attracting more and more attention from research agencies, the industrial and manufacturing sectors.
+Research and development in pursuit of this competition will help HKU produce leading-edge technologies in machine control, computational intelligence and human/machine interfaces.  Application areas include industrial automation, disaster response technology, telepresence in harsh environment, medical applications and as-yet unforeseen future “smart” mechatronic products.
+In addition to the December, 2013 trials, Team HKU will also participate in the DARPA final competition in December 2014 using its own Atlas Robot, an advance model of humanoid robot, to complete the physical task objectives in the Challenge.
+For the DARPA website regarding the VRC Challenge results: http://www.darpa.mil/NewsEvents/Releases/2013/06/27.aspx
+DARPA Virtual Robotic Challenge (VRC) tasks competed by “Team Case”:
+
+Task 1: robot picking up a hose
+
+Task 2: robot connecting a hose to a pipe 
+
+
+
+Task 3: robot turning a valve
+
+For enquiries please contact Miss Karen Tam, Manager (Fund-raising &amp; Marketing), Faculty of Engineering, HKU (Tel: 2219 4668 / E-mail: karenwy@hku.hk ) or Ms Melanie Wan, Communications and Public Affairs Office, HKU (Tel: 2859 2600 / Email: melwkwan@hku.hk ).

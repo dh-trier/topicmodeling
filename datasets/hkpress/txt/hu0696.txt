@@ -1,0 +1,15 @@
+[title]Two HKU Teams Enter Imagine Cup Semi-Final[/title]
+[date]11 May 2010[/date]
+ 
+Two HKU teams beat 546 teams around the world and enter the Semi-Final of the 2010 Imagine Cup Game Design Competition. Members of these 2 teams are BEng(CS) students currently taking the Computer Game Design and Programming course instructed by Dr Vincent Lau and assisted by Mr. Chim Tat Wing (CS PhD candidate) of the Department of Computer Science.
+The Imagine Cup is a technology competition opens to students around the world. The contest spans a year, beginning with local, regional and online contests whose winners go on to attend the global finals held in a different location every year. The objective of the Game Design competition is to create a new game that uses both Microsoft's XNA Game Studio 3.1 and Visual C#. The games developed are also required to illustrate the theme of the Imagine Cup - "Imagine a world where technology helps solve the toughest problems".
+This year, a total of 696 teams (11 from HK and among them 6 are from HKU) participate in the Game Design Competition, and 150 teams (2 from HKU and they are the only 2 from HK) enter the semi-final.
+The first HKU team, "Nana" is formed by Ho Chung Yin Billy (CS2), Ma Cheuk Kiu (CS2), Ngai Ka Kit (CS2) and Tse Ho (CS2). The game developed is called "Detective Virus Layer"
+The second HKU team, "Sky Studio" is formed by Cheung Chin Long Jeanno (CS2), Cho Jacky (CS2), Fung Divine (CS2) and Ho Kok Sum Ivan (CS1).  The game developed is called "Tears in Lionheart".
+Trailers of these two games are posted on youtube and can be viewed from the following links:
+Detective Virus Layer: 
+http://www.youtube.com/watch?v=VG9Hw4bpzqQ 
+Tears in Lionheart:
+http://www.youtube.com/watch?v=VVtL4zTAyGY
+Among the 696 competing teams, there are 11 teams from HK and 2 can enter the semi-final; 31 teams from China and 2 can enter the semi-final; 11 teams from Taiwan but none can enter the semi-final; 77 teams from India and 3 can enter the semi-final.
+For enquiries regarding the games developed by the students, please contact Mr. Chim at 2857-8265; for general enquiries regarding general information of the Department of Computer Science, please contact Ms. Ng at  2859-2181.

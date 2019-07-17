@@ -1,0 +1,37 @@
+[title]HKU advances new technology ATOM for spotting rare cancer cells and early cancer detection[/title]
+[date]20 Feb 2014[/date]
+ 
+ In a multi-disciplinary research project led by the Faculty of Engineering, the University of Hong Kong (HKU) has successfully developed a new optical microcopy approach which integrates existing fiber-optic and laser technologies, called Asymmetric-detection Time-stretch Optical Microscopy (ATOM) that can capture images of moving cells up to 10,000 times faster than existing camera technologies. This achieves unusually fast, more accurate and more efficient optical imaging of biological cells and will certainly benefit rare cancer cells detection and other high-throughput clinical diagnostics.
+Traditionally, flow cytometry is used for counting and differentiating microscopic blood cells for medical diagnostics based on quantitative analysis without grasping the features of each cell. When incorporated with ATOM, it will become a valuable tool for studying the characteristics of individual cells in a very large population with high accuracy and efficiency. This technology can capture images of the ultrafast-moving living cells (such as blood cells) with cellular resolution in flow at a speed as high as 10 meters per second, which corresponds to an imaging throughput of 100,000 cells-per-second, and is 1,000 to 10,000 times faster than any existing CCD/CMOS camera technologies. Moreover, it can analyze massive data in a short period of time and can thus improve the accuracy of early cancer cells detection and post-treatment relapse monitoring.  As regards industrial application, this technique can potentially be used in "Web Inspection" and "Surface Inspection" for quality control.
+The research group is led by Dr. Kevin Tsia Kin-man of the Department of Electrical and Electronic Engineering (also in Medical Engineering Program) with members including Dr. Anderson Shum Ho-cheung of the Department of Mechanical Engineering, Dr. Kenneth Wong Kin-yip of the Department of Electrical and Electronic Engineering and Professor Godfrey Chan Chi-fung of the Department of Pediatrics and Adolescent Medicine, Li Ka Shing Faculty of Medicine.
+Dr. Kevin Tsia Kin-man said: “Biomedical and Health Technologies have been identified as one of the strategic research areas of the Faculty of Engineering, HKU. Over the past few years, we have been undertaking researches in Biomedical Engineering, particularly in biomedical imaging technologies. ATOM is one of the key technologies developed in our group that provides the best combination of high-contrast cellular microscopy and high-speed imaging. Realizing such capability has been challenging, yet mandated for high-precision, high-throughput screening in clinical diagnostics and basic research in life sciences. For example, existing imaging technologies are unable to efficiently spot a few rare cancer cells out of millions to billions of blood cells in a drop of blood. ATOM is especially pertinent to early cancer detection or post-chemotherapy relapse detection and could play an important role in advancing early cancer diagnosis. This will also be the main focus of our on-going research with this new technique”. 
+Professor Godfrey Chan Chi-fung added: “ATOM is an important advance in imaging technology that enables medical professions to visualize a great number of cells in ultrafast speed. Given the dynamics of cells are closely linked with human disease, this technology can facilitate identification of early cancer cells in flowing blood more accurately and efficiently. The development and application of ATOM holds great assistance and promise for biomedical diagnostics in the future.”
+For the research paper, please click here. 
+For the summary of the new technology ATOM, please click here. 
+
+
+
+
+
+Caption :
+The imaging speed of asymmetric-detection time-stretch optical microscopy (ATOM) Camera (left) in capturing ultrafast-flowing cells is 26 million frames per second, much faster than 23 thousands frames per second of the existing CMOS Camera (right).
+For media enquiries, please contact:
+HKU Communication &amp; Public Affairs Office Ms Trinni Choy (tel: 2859 2606 email: pychoy@hku.hk);
+Ms Rhea Leung (tel: 2857 8555 email: rhea.leung@hku.hk) ; or
+HKU Faculty of Engineering Ms Jolly Li (tel: 2241 5953 email: jollyli@hku.hk).
+
+
+The research group introduces the new optical microcopy approach --- Asymmetric-detection Time-stretch Optical Microscopy (ATOM)。
+
+HKU advances new technology ATOM.  Members of the research group  includes (from left) Dr. Kenneth Wong Kin-yip and Dr. Kevin Tsia Kin-man of the Department of Electrical and Electronic Engineering, Faculty of Engineering, Professor Godfrey Chan Chi-fung of the Department of Pediatrics and Adolescent Medicine, Li Ka Shing Faculty of Medicine, and Dr. Anderson Shum Ho-cheung of the Department of Mechanical Engineering, Faculty of Engineering.
+
+
+
+
+
+The research group is led by Dr. Kevin Tsia Kin-man of the Department of Electrical and Electronic Engineering, Faculty of Engineering.
+
+
+
+
+

@@ -1,0 +1,20 @@
+[title]HKU Geographic Information System (GIS) researcher receives world recognition[/title]
+[date]04 May 2008[/date]
+ 
+
+The University of Hong Kong (HKU) is at the global forefront with its research and expertise in Geographic Information Systems (GIS).
+Two of the papers by Professor Anthony Yeh, HKU's world-renowned expert on GIS and urban planning, ranked 1st and 6th amongst the 10 most cited papers published in the International Journal of Geographical Information Science, the top international journal in GIS, in 2000-2007.
+The two papers are the ones solely written by academics in China and Asia amongst the top 10 list.
+"Modelling sustainable urban development by the integration of constrained cellular automata and GIS" (published in 2000) is co-ranked 1st with another paper in the 2000-2007 top 10 list; and ranked 3rd in the weighted impact factor citations.
+"Neural-network-based cellular automata for simulating multiple land use changes using GIS" (published in 2002) is co-ranked 6th together with another 2 papers in the list.
+GIS refers to any system capable of capturing, analysing, managing and displaying  geographically referenced information. It has been widely used in urban planning, land management, environmental protection, environmental impact assessment, automated mapping and facility management, real estates development, logistics, or even used by companies to find business locations to take advantage of previously under-served markets.
+The two papers that Professor Yeh published are related to his research on a family of general constrained cellular automata (CA) urban planning models that can be used to generate different planning options according to different environmental considerations, urban forms and densities for the evaluation and planning for sustainable urban development which can minimize urban sprawls and better protect environmental sensitive areas, such as fertile agricultural land and wetland. 
+Professor Yeh, Chair Professor of the Centre of Urban Planning and Environmental Management at HKU, said GIS has been a significant tool for urban planning, and its proper application could help greatly in the planning and development of sustainable cities. 
+"My HKU team is aiming at developing GIS models for the planning of sustainable cities and closer monitoring of land use changes and environment degradation through advanced applications of remote sensing technology and GIS," he said.  
+Professor Yeh is also the Dean of HKU's Graduate School, as well as Director of the University's GIS Research Centre and Institute of Transport Studies.
+He has published 13 books and 97 journal papers and book chapters on the applications of GIS in urban planning.
+For media enquiries, please contact Ms Denise Wong, Manager (Media), HKU (Tel: 2859 2600 / E-mail: denise.wong@hku.hk ); or Professor Anthony Yeh (Tel: 2859 2721)
+Professor Anthony Yeh
+Professor Anthony Yeh
+
+

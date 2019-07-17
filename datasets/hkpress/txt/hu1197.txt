@@ -1,0 +1,25 @@
+[title]A New Hypothesis for the SARS Outbreak in Amoy Gardens Block E[/title]
+[date]17 Apr 2003[/date]
+ 
+A new scientific hypothesis for the rapid spread of the severe acute respiratory syndrome (SARS) viruses in Block E of Amoy Gardens is proposed by a research team of the Faculty of Engineering in The University of Hong Kong.The outbreak is a consequence of a combination of unfavourable events. 
+Buoyant moist and warm air plumes in the re-entrant space are suggested and shown to be responsible for the rapid virus spread in the Flats 7 and 8, Block E, Amoy Gardens where more than 80 SARS cases were confirmed between 21st March and 3rd April 2003.Supported by advanced computational fluid dynamics simulations, detailed thermo-fluid analyses, and physical experiments, the new hypothesis has successfully explained the main infection pattern and characteristics of the outbreak. The main characteristics of the outbreak are:
+1. Flats 7 and 8 had more infected residents than other flats;
+2. Most infections occurred on the middle and upper floors;
+3. There were more infections in Flats 8 than Flats 7;
+4. There were fewer infections on lower floors than the upper floors; and
+5. The infection apparently occurred over a very short period of time. 
+Once exhausted from a seriously contaminated bathroom, the virus-laden moist air flows upwards and is dispersed in the poorly ventilated 1.5 m wide by 6 m deep re-entrant space. The contamination of the virus may come from:
+1. Various activities of the suspected"super-spreader"such as sneezing, coughing and spill of contaminated fluids;
+2. Generation of aerosols or fine water droplets by hot shower; and
+3. Backflow of virus-laden water droplets due to vigorous hydraulic interaction between the water closet discharge and the flow in the main drainage stack.
+The virus-laden buoyant moist air can find its way into bathrooms or living rooms of upper floors due to negative pressure created by exhaust fans or the action of wind flows around the building.A kitchen in the path of the invading polluted moist air may also be contaminated.
+A number of preventive measures are recommended:
+1. "Ventilate right".Windows facing the re-entrant space should be closed at all times. Open other windows for fresh outdoor air.
+2. When exhaust fans are turned on, open the door at the same time.
+3. Water the floor drains monthly and check if traps for sanitary fixtures are installed to prevent entry of contaminated water droplets.
+Should you have any questions, please contact any of the following teachers from Department of Mechanical Engineering:
+Dr. D.Y.C. Leung, Associate Professor, Tel: 2859-7911
+Dr. Y. Li, Associate Professor, Tel: 2859-2625
+Mr. H.N. Lam, Associate Professor, Tel: 2859-2640
+Dr. A.T.Y. Chan, Assistant Professor, Tel: 2859-7905
+ 

@@ -1,0 +1,18 @@
+[title]HKU Computer Science Students Outshone Competitorsfrom Top International Universities[/title]
+[date]08 Apr 2005[/date]
+ 
+Awarded first runner-up at the Asia regional competition in December last year, The University of Hong Kong (HKU) team proceeded to further success at the World Finals of the Association for Computing Machinery International Collegiate Programming Contest (ACM-ICPC).
+Beating strong teams from institutions such as MIT, Tsinghua University, University of Texas at Austin, University of British Columbia and University of Tokyo; the HKU team solved 6 questions out of 10 in 1145 minutes to win a Bronze Medal in the 12th place.The Shanghai Jiaotong University won the championship by solving 8 questions in 1517 minutes.
+The World Finals of the contest held in Shanghai on April 6, 2005, was participated by 78 teams which were selected out of 4,109 teams from 71 countries.Participating teams wrote computer programmes to solve various problems, competing for the largest number of problems solved using minimum amount of time.
+Coached by Dr K.W. Chong, Teaching Consultant of the Department of Computer Science, the HKU team consists of Liu Chi Man (BSc – Computer Science and Information Systems, Year 2), Tam Siu Lung (MPhil – Computer Science) and Tse Chi Yung (BEng – Software Engineering, Year 4).
+Professor T.S. Ng, Dean of HKU's Faculty of Engineering, is very delighted by the result."The ACM-ICPC is the most prestigious of all competitions in computer science for university students," he said."We are very pleased to see our students performing so outstandingly when representing Hong Kong."
+Dr F.C.M. Lau, Head of Computer Science Department, was proud of the students' achievement."This shows that intellectual ability of Hong Kong students is comparable to top students in any parts of the world," he said.
+Contest result can be found at: http://icpc.baylor.edu/icpc/Finals/default.htm.
+Photos of the HKU Team can be downloaded at:
+http://engg.hku.hk/pdf/ASM_2005/Polo/photo_1.jpg;
+http://engg.hku.hk/pdf/ASM_2005/Polo/photo_2.jpg;
+http://engg.hku.hk/pdf/ASM_2005/Polo/photo_3.jpg; http://engg.hku.hk/pdf/ASM_2005/Polo/photo_4.jpg; http://engg.hku.hk/pdf/ASM_2005/Polo/photo_5.jpg; 
+and the photo caption can be viewed at:
+http://engg.hku.hk/pdf/ASM_2005/Polo/caption.doc
+For enquires, please contact Mr. Patrick Tai (tel: 2857 8520) or Ms. Eunice Chan (tel: 2857 8259) of the Faculty of Engineering.
+ 

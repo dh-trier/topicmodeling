@@ -1,0 +1,62 @@
+[title]A Pioneering CUHK Scientist Elected IEEE Fellow[/title]
+
+[date]7 February 2004[/date]
+
+
+ A Pioneering CUHK Scientist Elected IEEE Fellow 
+ 
+Professor Michael Rung-Tsong Lyu of The Chinese University of Hong 
+ Kong has been elected Fellow of the prestigious Institute of Electrical 
+ and Electronics Engineers (IEEE) for his outstanding accomplishments 
+ in engineering, science and technology. Cited for his "contributions 
+ to software reliability engineering and software fault tolerance," Professor 
+ Lyu is the first scientist in China, including Hong Kong, for being 
+ elected IEEE Fellow in software engineering.
+Currently 
+ Professor at the Department of Computer Science and Engineering, CUHK, 
+ Professor Lyu obtained his BS from National Taiwan University, his MS 
+ from University of California, Santa Barbara, and his Ph.D. from University 
+ of California, Los Angeles. He has extensive research and teaching experience 
+ before joining CUHK in 1997, and has worked for Jet Propulsion Laboratory, 
+ University of Iowa, Bellcore Morristown and Bell Laboratories, Murray 
+ Hill.
+An international-known 
+ expert in the area of software reliability engineering including software 
+ reliability design, testing, modeling and analysis, Professor Lyu was 
+ the first to propose a design paradigm for N-version programming and 
+ multi-version software. He further conducted real-world experiments 
+ with multiple project teams to demonstrate the significance of this 
+ paradigm in exploring software design diversity. Novel reliability modeling 
+ and analysis schemes to assess and compare fault tolerant software architectures 
+ were also initially proposed and evaluated by Professor Lyu. He was 
+ among the first pioneers to show the effective application and interpretation 
+ of software reliability models for software projects. Based on his extensive 
+ experience in both industry and academia, he proposed several unique 
+ approaches for software reliability modeling, which were widely recognized 
+ in the software engineering society.
+Professor 
+ Lyu is a general chair or a program chair for many international conferences 
+ in the software engineering areas. He has been serving on various advisory 
+ and editorial boards in government, industry, and academic research 
+ organizations. He initiated the annual International Symposium on Software 
+ Reliability Engineering (ISSRE) in 1990, and received best paper awards 
+ in this world premier conference in 1993, 1996, 1998, and 2003, respectively. 
+ In addition to over 150 research papers, he published two major books 
+ with long-term significance and influence: the Handbook of Software 
+ Reliability Engineering (IEEE/McGraw-Hill, 1996) was proclaimed 
+ as "A watershed software reliability book," and the Software Fault 
+ Tolerance book (Wiley, 1995) was selected by the majority experts 
+ in the fault-tolerant computing field as one of the four most seminal 
+ papers or books in that field.
+In addition 
+ to software engineering, Professor Lyu has extended his research interests 
+ to include distributed systems, wireless communication networks, mobile 
+ computing, Web technologies, multimedia, and E-commerce systems since 
+ joining CUHK. He initiates and directs the Video over Internet and Wireless 
+ (VIEW) Technologies Laboratory at CUHK, which has received over HK$15 
+ million funding in the past five years. 
+
+ 
+ 
+
+ 

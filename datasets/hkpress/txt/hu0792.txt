@@ -1,0 +1,103 @@
+[title]HKU Study demonstrates that the government’s proposed Air Quality Objectives won’t protect health[/title]
+[date]21 Feb 2011[/date]
+ 
+
+
+Key Findings from this new analysis
+Researchers in the School of Public Health, The University of Hong Kong Li Ka Shing Faculty of Medicine analyzed air pollutant data from the Environmental Protection Department (EPD) from 2005 to 2010 and predicted the changes in annual mean pollutant levels, which may result from the government's proposed AQO.
+The results show that the new proposed AQO limits are unlikely to provide effective environmental regulation and cannot lead to sustained air quality improvement towards the levels of the 2005 WHO guidelines. Pollutant levels resulting from the new AQO limits may be even worse than Hong Kong's existing levels in 2010 if the new legal limits are exploited under the Environmental Impact Assessment Ordinance.
+The researchers conclude that all of the government's new proposed AQO limits will not provide protection to public health. They may be, compared to compliance with WHOAQG, associated annually with at least an additional 1860 avoidable deaths, 92,745 hospital bed-days, and 5.2 million doctor visits, with a total recurrent community cost of about HK$20 billion.
+The research team emphasized that most of the current harm to health, caused by air pollution in Hong Kong, occurs at pollutant levels which are well below the limits of both the existing 1987 AQO and the new proposed AQO.
+The research methodology
+The research team based the analysis on a new statistical model together with previously published methodology and estimates of health risks in Hong Kong air pollution studies, time-activity patterns for population exposure, and the application of health economics to assess the health burden and costs attributable to pollution which exceeds the World Health Organization (WHO) guidelines.
+The research findings have been published in The Open Epidemiology Journal. (http://bentham.org/open/toepij/articles/V004/SI0001TOEPIJ/106TOEPIJ.pdf)
+Lead author of the report Dr LAI Hak-kan, Honorary Assistant Professor of the School of Public Health, The University of Hong Kong Li Ka Shing Faculty of Medicine says,
+"There has been a lack of understanding about the consequences of setting lax hourly or daily AQO on the longer term annual pollutant concentrations." 
+"We have now developed a new analytical method, based on consistent statistical relationships in patterns of air pollutant data, which provides a useful tool for setting reliable AQO for health protection in Hong Kong. There is an urgent need for the government to adopt a scientifically valid approach to the setting of air quality regulations which will protect population health."
+Professor Anthony J HEDLEY, Honorary Professor, School of Public Health, Li Ka Shing Faculty of Medicine says,
+"Environmental health research should make a critically important contribution to policy formulation and decision making. The government must make use of the Hong Kong and international evidence on the health risks of pollution its first priority in environmental strategic planning for air quality improvement".
+About the research team: 
+The study was performed by the Environmental Health Research Group and the Health Economics Group of the School of Public Health, The University of Hong Kong Li Ka Shing Faculty of Medicine.  The Environmental Health Group is led by Dr. WONG Chit-ming with Professor Anthony J Hedley as the advisor. Other members include Dr. LAI Hak-kan, Dr. THACH Thuan-quoc, Dr YANG Lin, Ms Patsy Chau, Mr Eric Chan and the Health Economics Group by Prof SM McGhee with the support of Ms June Chau.
+For news photos and powerpoint slides, please visit the website at:
+http://www.med.hku.hk/v1/news-and-events/press-releases/
+ADDITIONAL INFORMATION 
+HKU Study demonstrates why the government's proposed
+Air Quality Objectives won't protect health
+BACKGROUND INFORMATION ON THE NEW STUDY RESULTS
+The threat to population health
+The progressive decline in air quality in Hong Kong, signaled by decades of continuing degradation of visibility, is now one of our most pressing public health priorities.
+Nevertheless, the Hong Kong SAR Government has not revised the existing Hong Kong Air Quality Objectives (HKAQO) since they were established in 1987, despite updates of the World Health Organization (WHO) Air Quality Guidelines (AQG) in 2000 and 2005.
+Dr WONG Chit-ming, Associate Professor of the School of Public Health said, "Prediction of air pollution trends and the outcome of interventions are vitally important for health protection and must be based on scientifically sound methodology." "With excellent monitoring data and health care statistics in Hong Kong, there is no excuse for the current gaps in health impact assessments."
+The slow progress with the government's review of the Hong Kong Air Quality Objectives.
+Current annual trends in the concentrations of air pollutants are either increasing, or decreasing so slowly, that it will be decades before there are any meaningful improvements in terms of health protection. The government began its review of the HKAQO in 2007 and conducted a public consultation from July to November 2009. There was no decision in 2010. 
+Furthermore the government's new proposed AQO are extremely lax and permit additional allowable exceedances of both hourly and daily limits, which will likely prevent Hong Kong from reaching the WHO currently recommended limits for pollutants in the foreseeable future. This is a further major threat to public health and particularly the current and future health of children.
+Details of the new study
+1. A new model for setting air quality standard
+In this new study, the research team developed a statistical model to predict the annual mean from the short-term limit values and the allowable exceedances. Short term limits are based on 1 hour averaging time for NO2; the daily maximum averaging time for O3 is 8 hours; and 24 hours for PM10, PM2.5 and SO2. 
+The model is based the EPD 2008 pollutant data during the period when the government conducted the review and proposed the new AQO. The analysis shows that the highest recorded pollutant level in a year, after exclusion of the small number of most extreme values (less than 0.3% of the total), can be used to accurately predict mean pollutant concentration in that year.
+The research team has validated the model using data from years 2005 to 2007 and 2009 to 2010. The model is robust because it excludes extreme values which may be due to unusual natural events such as a sandstorm. The prediction errors are small and show less than 2.5% difference between the predicted data and monitoring results from EPD. So the research team is confident that the predicted annual means are reliable for health impact assessment.
+2. The model shows the problem of the government's new proposed HKAQO 
+This analysis has shown how important increasing exceedances may be in causing high average annual mean levels. This relationship between the highest recorded and overall air quality, reflected by the annual mean pollutant concentration, is an important characteristic of the WHO guidelines. That is why allowable exceedances of the short-term limits are severely restricted in WHO guidelines.
+
+
+Permitted exceedances
+
+Pollutants
+WHO
+HKAQO
+
+PM2.5
+3
+9
+
+PM10
+3
+9
+
+NO2
+0
+18
+
+SO2
+0
+3
+
+O3
+0
+9
+
+What do these exceedances mean in terms of exposure to pollution over a year?
+Based on the model prediction, the new proposed short-term HKAQO for PM10  leads to 341 pollutant-days above the WHO annual AQG (20μgm-3) and the short-term WHOAQG for PM10 (50μgm-3) leads to 169 days above WHO annual AQG. The exposure due to the proposed HKAQO is 2 times the exposure level which would result if we achieved the short-term WHOAQG.
+This table shows how the government has ignored the WHO decision rules by introducing a large number of additional permitted exceedances. The research team showed that these additional allowable exceedances will predictably allow the annual concentrations of pollutants to rise to even higher levels than the original selected WHO limits. These have important implications for maternal and child health, children's lung growth and development, the prevention of heart disease, strokes, pneumonia, chronic bronchitis and many other health problems which may lead to premature deaths. These bad health outcomes will be directly related to non-compliance with the WHO guidelines and the government's permissive approach to allowing additional exceedances of already lax limits.
+Professor Sarah M McGHEE, Professor of the School of Public Health pointed to the importance of the economic burden imposed by air pollution through stress on the health care system and lost productivity. Professor McGHEE said, "The monetized value of the short fall in air quality management and resulting external costs is a penalty paid by every Hong Kong citizen."
+The government's proposed short-term HKAQO are not the WHO air quality benchmarks which the Environmental Protection Department misleadingly claims. The proposed HKAQO are based either on the more lax (i.e. entry level or "Interim Targets") of the WHO air quality limits, or in the case of NO2 on the full air quality guideline, but both are further degraded because the government has further modified them by permitting additional exceedances above these short-term limits.
+3. The model enhances understanding of the WHO guidelines
+Using the Hong Kong monitoring data and the WHO short-term limits as inputs to the model, the model reliably predicts the annual WHOAQG for PM10 of 20μg m-3 within 1.5μg m-3 and for PM2.5 of 10μg m-3 within 0.3μg m-3.
+For the first time in Hong Kong the model also provides a robust estimate of the expected annual means for SO2 (5.1μg m-3) and O3 (23.5μg m-3) if there is full compliance with the WHO short-term AQG of 20μg m-3 (SO2) and 100μg m-3 (O3). The expected annual mean levels for SO2 (5.1μg m-3) and O3 (23.5μg m-3) are critically important from a public health view point. Epidemiologic evidence from Canada, Finland and Australia shows increase risks for mortality, reduced foetal growth and hospital admission for asthma at these relatively lower levels of pollutants.
+The research team has demonstrated the importance of minimizing exposure and they point to the fact that even when WHO annual guideline is achieved, there are still nearly half of days in a year when these annual mean value is exceeded.
+The team emphasizes the WHO advice that the guidelines only represent safer, but not absolutely safe air quality.
+Public Health Implications 
+Professor Anthony J HEDLEY, Honorary Professor, School of Public Health, said, "This analysis demonstrates just how important it is to take a public health approach to the reduction of exposures from air pollution. Every single day of avoidable exposure contributes to the community burden of illness and health care costs in Hong Kong. The complete absence of any meaningful professional medical and health input to decisions on air quality management has led to a breakdown in environmental health protection."
+Professor LAM Tai-hing, Director of the School of Public Health emphasized, "The government has totally failed to use the available medical and epidemiological sciences to plan an effective strategy for pollution reduction. If the proposals for the new Air Quality Objectives are enshrined in the EIA Ordinance, then Hong Kong children will continue to be exposed to air which is unfit to breathe for the indefinite future. The community cannot afford the health of children to be traded off in this way, in favour of short-term vested interests."
+Implications to Hedley Environmental Index
+The Environmental Health Research Group in the School of Public Health said that the continuing poor air quality in Hong Kong is a major cause of health problems.  This is demonstrated on an hourly basis by the Hedley Environmental Index (HEI) jointly launched by the School of Public Health and Civic Exchange with the support of its principal donors, Fuk Tak Iam Foundation and ADM Capital Foundation. (http://hedleyindex.sph.hku.hk )
+The HEI team plans to upgrade the Index using the newly predicted annual WHOAQG for SO2 (5.1μg m-3) and O3 (23.5μg m-3) to replace the 24-hour (20μg m-3) and maximum 8-hour limits (100μg m-3) respectively, which are used in the current version of HEI for assessing exceedances of the expected annual limits. This evidence-based re-calibration of the Index will show increased estimates of bad health outcomes from pollution exposures.
+
+
+
+ 
+(From left) Researchers from the School of Public Health, The University of Hong Kong Li Ka Shing Faculty of Medicine: Professor Anthony J HEDLEY, Honorary Professor; Professor LAM Tai-hing, Sir Robert Kotewall Professor in Public Health, Director of School of Public Health; Dr. WONG Chit-ming, Associate Professor; and Dr. LAI Hak-kan, Honorary Assistant Professor.
+ 
+Professor Anthony J HEDLEY, Honorary Professor of the School of Public Health, The University of Hong Kong Li Ka Shing Faculty of Medicine says, compared with the WHO annual air quality guidelines, the proposed air quality objectives of Hong Kong will cause an additional community cost of HK$200 billion annually.
+
+ 
+Dr. LAI Hak-kan, Honorary Assistant Professor of the School of Public Health, The University of Hong Kong Li Ka Shing Faculty of Medicine says, there is an urgent need for the government to adopt a scientifically valid approach to the setting of air quality regulations which will protect population health.
+ 
+Professor LAM Tai-hing, Sir Robert Kotewall Professor in Public Health, Director of the School of Public Health, The University of Hong Kong Li Ka Shing Faculty of Medicine, says the proposed air quality objectives are misleading to the general public because they are actually poorer than the WHO benchmarks and even some existing Hong Kong pollution levels.
+
+ 
+Dr. WONG Chit-ming, Associate Professor of School of Public health, says with excellent monitoring data and health care statistics in Hong Kong, there is no excuse for the current gaps in health impact assessments.
+
+
+
+

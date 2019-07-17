@@ -1,0 +1,32 @@
+[title]HKU Finds that Extending Statutory No Smoking Areas
+Reduces Childhood Lower Respiratory Tract Infections[/title]
+[date]27 Jan 2016[/date]
+ 
+
+Members of research team, Professor Lau Yu-lung (Middle), Doris Zimmern Professor in Community Child Health, Chair Professor of Paediatrics, Department of Paediatrics and Adolescent Medicine, Dr Lee So-lun (Left 2), Honorary Clinical Associate Professor, Department of Paediatrics and Adolescent Medicine, Mr Wilfred Wong Hing-sang (Right 2), Honorary Tutor, Department of Paediatrics and Adolescent Medicine, Li Ka Shing Faculty of Medicine, HKU, and guests, Professor Lam Tai-hing (Left 1), Sir Robert Kotewall Professor in Public Health, Chair Professor of Community Medicine, School of Public Health of Li Ka Shing Faculty of Medicine, HKU and Ms Vienna Lai Wai-yin (Right 1), Executive Director of Hong Kong Council on Smoking and Health took a group photo after the press conference.
+
+Smoke-free legislation has been implemented in many countries to reduce the adverse effects of environmental tobacco smoke (ETS).  With effect from January 1, 2007, the newly amended Smoking (Public Health) Ordinance was enforced in Hong Kong and the statutory no smoking areas were further extended.  The Department of Paediatrics and Adolescent Medicine of Li Ka Shing Faculty of Medicine, The University of Hong Kong (HKU) conducted a study to explore the impacts of extending statutory no smoking areas on childhood respiratory illnesses in Hong Kong.  It shows that the extension of statutory no smoking areas has reduced hospital admissions for childhood lower respiratory tract infection (LRTI).  The research result has been published in the international medical journal Tobacco Control.
+Background
+Only one previous study in adults and a recent Western study in children investigated hospital admissions for LRTI admission as a health outcome of smoke-free legislation.  In addition, all previous studies on the effects of smoke-free legislation adjusted for seasonality, secular trends, etc., but did not adjust for the possible simultaneous effects of outdoor air pollution.  To address these knowledge gaps, the Department of Paediatrics and Adolescent Medicine aimed to evaluate the impacts of extending statutory no smoking areas implemented in Hong Kong in January 2007 on hospital admission count for childhood LRTI.
+Research Method
+75,870 daily unplanned hospital admission counts for LRTI among children &lt;18 years of age between January 2004 and December 2012 were obtained from the Hospital Authority database.  Data on environmental air pollutants including sulphur dioxide (SO2), nitrogen dioxide (NO2), respirable suspended particulates defined as particulate matterwith an aerodynamic diameter of 10 μm or less and 2.5 μm or less (PM10 and PM2.5), and ozone (O3) were obtained from the Environmental Protection Department.
+The research team used a special statistical model (negative binomial regression model) to assess the impacts of extending statutory no smoking areas on the hospital admission counts for childhood LRTI, with adjustments of the effects of environmental air pollutants and other potential confounding factors like climate, population counts and influenza epidemics.
+Results
+Smoke-free legislation was associated with a net 47.4% reduction in hospital admission counts for LRTI in the first year and a sustained reduction of 13.9% per year in the subsequent 5 years.  The effect was more apparent among school-age than preschool children.  In total, it was associated with a reduction of 13,635 hospital admissions in the first 6 years after implementation.
+Outdoor air pollution levels, notably PM10 and O3 were important risk factors for admission for childhood LRTI.  One day after increase in ambient level of PM10 and O3, an increase in hospital admission counts for LRTI was observed.  Harmful effects from air pollutants were more apparent in preschool than school-age children.
+Conclusion
+Implementation of extending statutory no smoking areas in Hong Kong was associated with a significant reduction in hospital admissions for childhood LRTI, while outdoor air pollutants including O3 and PM10 continue to cause adverse effects on the health of children.
+Implications on Public Health
+Professor Lau Yu-lung, Doris Zimmern Professor in Community Child Health and Chair Professor of Paediatrics, Department of Paediatrics and Adolescent Medicine, Li Ka Shing Faculty of Medicine, HKU points out, “LRTI poses a heavy burden to the public health.  Our study provides novel evidence about the beneficial effect of extending statutory no smoking areas on reducing LRTI admission, in spite of worsening air pollution.  The evidence may help to accelerate the implementation of smoke-free legislation worldwide.”
+Recommendation
+Parents are advised to quit smoking so as to protect children from being hospitalised for LRTI.  To achieve a smoke-free home, parents should ask visitors to put off the cigarette before entering.  Smoking should not be allowed in the vicinity of schools, playgrounds and childcare centres, etc.  Further extension of the statutory no smoking areas is highly recommended to protect the public from the harms of secondhand smoke.
+About the Research Team
+This research is jointly conducted by Professor Lau Yu-lung, Doris Zimmern Professor in Community Child Health and Chair Professor of Paediatrics, Department of Paediatrics and Adolescent Medicine, Dr Lee So-lun, Honorary Clinical Associate Professor of Department of Paediatrics and Adolescent Medicine, and Mr Wilfred Wong Hing-sang, Honorary Tutor of Department of Paediatrics and Adolescent Medicine, Li Ka Shing Faculty of Medicine, HKU.
+For photos and powerpoint presentation, please click the below link：
+http://www.med.hku.hk/v1/news-and-events/press-releases
+
+Professor Lau Yu-lung, Doris Zimmern Professor in Community Child Health and Chair Professor of Paediatrics, Department of Paediatrics and Adolescent Medicine, Li Ka Shing Faculty of Medicine, HKU points out that there is beneficial effect of extending statutory no smoking areas on reducing LRTI admission, in spite of worsening air pollution.
+
+To protect children from the harms of secondhand smoke, the research team highly recommends the government to further extend the statutory no smoking areas, particularly the areas in the vicinity of schools, playgrounds and childcare centres where more children stay.
+
+

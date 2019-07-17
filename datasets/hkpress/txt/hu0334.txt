@@ -1,0 +1,27 @@
+[title]HKU Faculty of Engineering holds “Invention for Schools Contest” 
+Award Presentation Ceremony[/title]
+[date]22 May 2016[/date]
+ 
+
+
+An award presentation ceremony for the Invention for Schools Contest was held on May 21 (Saturday) at Theatre A in Chow Yei Ching Building, the University of Hong Kong (HKU).
+The contest was organised by the Faculty of Engineering at HKU, with the support of the HKU Knowledge Exchange Fund and RS Components Limited.
+Science, Technology, Engineering and Mathematics (STEM) education is one of the main focuses in teaching and learning in 21st century education. The HKU Faculty of Engineering considers it important to enhance young people’s interest and creativity in STEM. With proper programming skills and the ability to integrate hardware and software, young people can solve problems better, and be able to turn their innovative ideas into practical and valuable outputs. Now with increased availability of low cost and easily programmable credit card-sized computers, such as Raspberry Pi or Arduino that can be connected to a computer or TV, students can demonstrate their creativity and make innovations easier than ever.
+Over a hundred students from primary 2 to secondary 5 joined the competition. They were required to use credit card-sized computers to make inventions that could be turned into useful applications in their schools, to compete for the Champion, first runner-up, second runner-up, the most innovative invention award, the most practical invention award and the best presentation award in the Primary School and Secondary School categories respectively. A series of talks were conducted from October to December 2015 to enhance participants' skills and knowledge in credit card-sized computers such as Raspberry Pi and Arduino.
+At the award presentation ceremony, HKU Dean of Engineering Professor Norman C. Tien said: “Our participating students have demonstrated very ingenious ideas in this competition.  I am most delighted that they were so observant in identifying practical problems in their schools and experimented tirelessly to invent the tools we have all seen here today.  I will encourage all students to continue their pursuance on STEM education which will equip them to become bright engineers and scientists some day in their life.”
+Asia Pacific Technical Manager of RS Components Ltd Mr. K. M. Tse said: “RS believes in putting innovation in the hands of future engineers. We are glad to be able to offer our support to these young engineers and I am very delighted that the students who joined the contest demonstrated the ability to cope with the latest information technology, such as programming with Raspberry Pis and Arduino Development Kits, and were able to implement their creative ideas into real applications that can improve our society as a whole.”
+HKU Associate Dean of Engineering and the Principal Investigator of the project Professor Francis C. M. Lau appreciated the creativity demonstrated by students in using credit card-sized computers to make a wide variety of practical inventions for their schools.
+
+Secondary School Category:
+Champion
+Pok Oi Hospital 80th Anniversary Tang Ying Hei College
+Queue jumper revealer
+
+Primary School Category:
+Champion; The Most Practical Invention for School Award
+Yaumati Catholic Primary School (Hoi Wang Road)
+e-Helper
+
+The list of winners and photos at the ceremony can be downloaded at: 
+http://www.cs.hku.hk/~i4s/AwardWinnerList-English.php.
+For media enquiries, please contact: Ms Melanie Wan, Communications and Public Affairs Office, HKU (Tel: 2859 2600 / Email: melwkwan@hku.hk) or Miss Nancy Cheung, Faculty of Engineering, HKU (Tel: 3917 4668 / E-mail: nccheung@hku.hk).

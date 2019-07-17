@@ -1,0 +1,86 @@
+[title]HKU holds “The 8th International Conference on Marine Pollution and Ecotoxicology” to advance theunderstanding of marine pollution and changes of marine ecosystems
+[/title]
+[date]21 Jun 2016[/date]
+ 
+
+
+The opening ceremony of “The 8th International Conference on Marine Pollution and Ecotoxicology” (ICMPE-8) co-organized by the School of Biological Sciences of the University of Hong Kong (HKU) and State Key Laboratory in Marine Pollution of City University of Hong Kong was held today (June 21, 2016) at the Rayson Wong Theatre, HKU.  Officiating guests of the opening ceremony are Secretary for the Environment, Mr Wong Kam-sing, JP, Executive Director of United Nations’ Partnerships in Environmental Management for the Seas of East Asia (PEMSEA) Mr Stephen Adrian Ross, HKU Vice-Chancellor and President, Professor Peter Mathieson and HKU Associate Dean of Science Professor Kenneth Leung Mei-yee.
+This conference aims to discuss and advance the understanding of local, regional and global marine pollution problems, and to reveal the latest technologies, methods and policies for pollution monitoring, pollution effect diagnosis, pollution control and environmental remediation.  
+Twenty-eight world renowned experts have been invited to share their knowledge and latest advancements in the field with some 200 scientists, environmental professionals and environmental regulators from 16 different countries.  With a concerted effort, we hope that marine pollution problems will be more easily solved while the marine biodiversity and fisheries resources can be protected and sustained. 
+Due to the excessive nutrients like nitrogen and phosphate being continuously discharged into coastal waters, there are increasing incidences of coastal eutrophication worldwide, leading to the formation of harmful algal blooms (i.e. red tides) and ocean “dead zones” with low dissolved oxygen level.  According to United Nations, the total number of dead zones has increased from 400 in 2008 to over 600 in 2016 around the globe.   At the same time, accidental oil spills, habitat destruction caused by coastal development, over fishing and biological invasion are continuously threatening our oceans.  More recently, discharges of emerging synthetic micro-pollutants and endocrine disrupting chemicals (EDCs), the ever increasing loads of micro-plastics and plastic debris, and extreme conditions driven by climate change have come to the forefront of our concerns regarding human-induced environmental damage.  Based on a United Nations assessment, around 75% of the world’s coral reefs, including Australia’s Great Barrier Reef, are now classified as threatened from either local pollution or the effects of climate change.  The ICMPE-8 Conference will specially disclose and discuss these pressing issues.  Here, the EDC pollution, monitoring and control are highlighted below as a recent local example.
+An Example from Hong Kong
+Marine Protected Areas (MPAs) in Hong Kong are situated in close proximity to urbanized areas, and inevitably influenced by wastewater discharges and antifouling biocides leached from vessels.  Thus, marine organisms inhabiting these MPAs are probably at risk.  Researchers of HKU, Professor Kenneth Leung and his team, have discovered that our treated sewage effluents commonly contain 12 common phenolic EDCs; some of them are environmental estrogens including nonylphenol, bisphenol-A and 4-tert-octylphenol, and both nonylphenol and bisphenol-A are the most dominant EDCs [1].   The treated effluent from Shek O preliminary wastewater treatment plant with 10 time dilution could significantly increase the mortality and reduce the hatchability of the marine medaka fish [1].  At the Cape D’Aguilar Marine Reserve, seawater concentrations of nonlyphenol and bisphenol-A are higher in summer than in winter, with a range between 91.7- 473.9 ng/L and 14.1-206.5 ng/L, respectively [2].  Both EDCs are commonly detected in marine organisms collected from the Reserve, and ecological risk to these organisms is found to be high; for example, the tissues of purple sea urchin contain 788 and 306 ng/g dry wt of nonylphenol and bisphenol-A, respectively [2].   The seawater from the Reserve containing estrogenic EDCs could trigger up-regulation of the aromatase gene (Cyp19a) in juveniles of the madaka fish, implying the potential sex change in fish from male to female [2].   
+More recently, Professor Kenneth Leung’s team has further collaborated with Professor Ho Shu-leong (Henry G Leong Professor in Neurology), Department of Medicine, Li Ka Shing Faculty of Medicine, HKU, to develop an integrative approach to comprehensively assess ecological risks of EDCs in the marine environment [3].  In this latest study, they have quantified the concentrations of eight common EDCs in environmental and biota samples collected in four different Marine Protected Areas (MPAs) in Hong Kong, while mussels and semipermeable membrane devices have been deployed to determine the extent of accumulation of the EDCs.  A novel human cell-based catechol-O-methyltransferase enzyme-linked immunosorbent assay has been developed to evaluate the estrogenic activities of seawater and sediment samples.  The results indicated an elevated ecological risk of EDCs in the Cape d'Aguilar Marine Reserve.  This integrated approach can effectively evaluate ecological risks of EDCs through linking their concentrations to biological effects. 
+The research team also showed that secondary biological wastewater treatment can remove nonylphenol and bisphenol-A up to about 75% but the preliminary wastewater treatment cannot remove noylphenol and can only remove 48% of bisphenol-A [1].  To control the release of these EDCs, it is necessary to upgrade the wastewater treatment facilities in Hong Kong.  
+Cited references:
+[1]  Xu, E.G.B., Liu, S., Ying, G.G., Zheng, G.J.S., Lee, J.H.W., Leung, K.M.Y. (2014). The occurrence and ecological risks of endocrine disrupting chemicals in sewage effluents from three sewage treatment plants, and in natural seawater from a marine reserve of Hong Kong. Marine Pollution Bulletin 85(2): 352-362.
+[2] Xu, E.G.B., Morton, B., Lee, J.H.W., Leung, K.M.Y. (2015). Environmental fate and ecological risks of nonylphenols and bisphenol A in the Cape D’Aguilar Marine Reserve, Hong Kong. Marine Pollution Bulletin 91: 128-138.
+[3]  Xu, E.G.B., Ho, P.W.L., Tse, Z., Ho, S.L., Leung, K.M.Y. (2016). Revealing ecological risks of priority endocrine disrupting chemicals in four marine protected areas in Hong Kong through an integrative approach. Environmental Pollution 215: 103-112.
+Scientific Themes of the Conference:
+
+Date
+Topics of invited talks and platform presentations
+Topics of the keynote lectures
+
+21 June 2016 (Tuesday)
+
+Sediment remediation
+Sediment quality issues
+Advances in fish toxicology
+Issues on emerging pollutants
+Phenolic endocrine disrupting chemicals in a wetland
+
+Long-term impacts of climate change and pollution on marine organisms
+Transgenerational impact of hypoxia in fish via epigenetic change
+Environmental education
+Relationship between environmental changes and harmful algal blooms
+Autonomous biosensors for harmful algal blooms
+
+22 June 2016 (Wednesday)
+
+Mussel Watch Program in the US
+Micro-plastics and multiple stressor issues
+Model organisms for ecotoxicology studies
+Innovative technologies for toxic mechanism studies
+Pharmaceuticals and consumer products in sewage effluents in Hong Kong
+Issues on emerging pollutants
+
+Multiple stressors
+Recent advances in marine ecotoxicology
+Pollution threats and management of the Great Barrier Reef, Australia
+Ecotoxicology of nano-particles
+Pollution in Bohai Bay and Yellow Sea, China
+Emerging chemical pollutants of concern
+
+23 June 2016 (Thursday)
+
+Ecotoxicology of flame retardants
+Policy to improve chemical assessments
+Field-based studies
+Eutrophication, hypoxia and algal toxins
+Metal pollution issues
+
+Chemical impact assessment
+Hazard assessment of chemicals
+Sustainable mariculture
+Hypoxia problem in Bohai Sea, China
+Molecular toxicology on marine organisms
+Ocean acidification
+
+24 June 2016 (Friday)
+
+Oyster farming and pollution
+Toxicity reference values for mercury in ecological risk assessment
+Ocean acidification
+Environmental remediation and management
+Environmental impacts on corals
+
+Assessing and managing stressors in a changing world
+How to build a successful academic career?
+
+For detailed programme rundown, please visit: http://www.biosch.hku.hk/icmpe8/programme.html
+Further information of the conference can be obtained from:  http://www.biosch.hku.hk/icmpe8/. 
+For media enquiry, please contact:
+Communications and Public Affairs Office Ms Rhea Leung (Tel: 2857 8555 / 9022 7446;
+Email: rhea.leung@hku.hk) or
+School of Biological Sciences Ms Esther Liu (Tel: 2299 0803; Email: epyliu@hku.hk)

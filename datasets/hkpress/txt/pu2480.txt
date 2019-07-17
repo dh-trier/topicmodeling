@@ -1,0 +1,16 @@
+
+[date]2013.03.20[/date]
+[title]PolyU achieves new breakthrough in mannequin technology[/title]
+At its first glance, the mannequin âi.Dummy' developed by researchers of The Hong Kong Polytechnic University (PolyU) looks no different from an ordinary dummy but it is no plain stuff - this sophisticated mannequin can change its body shape and size or even elongate at the point of a fingertip on computer. 
+This revolutionary breakthrough, coined âi.Dummy' for intelligent dummy, is expected to streamline the operations of the apparel and garment industry, which rely strongly on the use of dummies for designing and fitting different sizes of apparel products before mass production takes place. Instead of keeping a big number of fixed sized dummies in the stock of design houses, buying offices or factories for fitting purpose, one single âi.Dummy' will transform itself to fit various sizes and dimension, be it Asian or Western, etc. Customised measurements can also be inputted.
+
+ 
+// 
+
+This project is led by Dr Allan Chan Chee-kooi, Associate Professor at PolyU's Institute of Textiles and Clothing (ITC), with team members Mr Steven Peng Sixiang and Dr Ameersing Luximon. PolyU has already filed two patents for this invention.
+The development of this purpose-built robotic mannequin has come a long way. In developing the âi.Dummy', Dr Allan Chan and his team members have collected massive anthropometric data and information from the literatures of the American, European, Japanese and Chinese population; together with the data collected from ITC's 3D Body Scanner, plus the clever application of mechatronics on the platform of mannequin development.
+'This robotic mannequin âi.Dummy' is unique in the sense that all changes are three-dimensional, varying in width, thickness and length all at once automatically. It can also rotate automatically for viewing in 360 degrees, so that every angle of clothes fitting can be assessed,' said Dr Chan. 'The robust design is therefore suitable for many types of garments, ranging from ball gowns to occasional wear, and tight fitting swimwear.'
+Moreover, the iDummy can be easily controlled via a user-friendly Graphic User Interface (GUI) run on the computer, and the use of Bluetooth technology on a smart phone is not a problem at all. It means potential clients can input their measurements on the computer to achieve fitting across geographical boundaries through to on-line purchasing.
+Since fitting mannequins are required by fashion designers, pattern masters, merchandisers, quality and production personnel at home and abroad, there is a huge potential market for âi.Dummy'. PolyU researchers will focus on the need of the industry and offer their expertise through the licensing of patented technology.
+Dr Allan Chan added that iDummy is also an excellent education and training facility for students and apprentices of fashion design and pattern development alike, because it can mimic the body profile of different sizes and dimension.
+The project was kicked off in 2008 with the support of industry. It is also partly funded by the General Research Fund of the Research Grants Council.

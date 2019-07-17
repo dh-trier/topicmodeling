@@ -1,0 +1,6 @@
+[date]26 March 2015[/date]
+[title]CUHK Establishes the Stanley Ho Big Data Decision Analytics Research Centre
+The First among All Tertiary Institutions in Hong Kong[/title]
+CUHK’s Stanley Ho Big Data Decision Analytics Research Centre, the first among all tertiary institutions in Hong Kong, brings together faculty members and researchers from different disciplines in CUHK to address challenges posed by the unprecedented volumes of data that can be analyzed to bring new insights in applications across many domains.  The research of the Centre aims to address important issues spanning 6 major areas: Healthcare, Environment, Social Networks, Finance, Logistics and Learning.  The Centre also actively collaborates with industry and major partners include IBM and Microsoft. 
+The Centre has initiated a number of novel research projects related to big data in various domains, including urban transportation, air pollution and health, hospital logistics in emergency departments, mortality risks for different drugs, and online language learning.  Recently, the Centre organized a joint workshop with MIT to address new opportunities in education afforded by elearning – addressing issues related to pedagogy, technology and learning behavior. 
+Prof. Helen Meng is the founding director of the Centre.

@@ -1,0 +1,43 @@
+[title]World Community Grid Gains Momentum in Hong Kong[/title]
+[date]20 Sep 2005[/date]
+ 
+HKU leads local academia in joining IBM grid computing humanitarian initiative
+Hong Kong, 20 September, 2005 – IBM China/Hong Kong Limited (IBM) and The University of Hong Kong (HKU) today announced that HKU has become the first academic institution to join World Community Grid in Asia Pacific.Launched by IBM Corporation last year, World Community Grid is a global initiative committed to applying the unused computing power of the world’s estimated 650 million computers to address the most challenging humanitarian issues, such as new and existing infectious disease research, genomic disease research, natural disasters and hunger and environmental research. 
+"World Community Grid represents a new model for philanthropic giving," said Timothy Cheung, General Manager, IBM China/Hong Kong Limited."We are pleased to have HKU as our first partner in Hong Kong and Asia Pacific to help drive World Community Grid which demonstrates our commitment to bring together the best technologies to address critical health and humanitarian issues in an innovative way."
+"Joining IBM to support World Community Grid was a logical step to take for HKU, we are glad to be the pioneer in the higher education sector," said Professor Lap-Chee Tsui, Vice-Chancellor of HKU. "With our emphasis on technology and education, and our commitment to partner with the community to serve society, we saw this opportunity as a great way to get our staff and students directly involved in a very innovative and meaningful project. By participating in World Community Grid, they are learning the power of grid computing while at the same time giving back to society by better utilizing existing resources."
+If 10% of the HKU alumni join together with students and staff on campus, the University of Hong Kong will be able to contribute significant power to World Community Grid from potentially more than 30,000 PCs.
+By downloading a free software program from www.worldcommunitygrid.org, participants can contribute their unused processing power during idle computing time.World Community Grid’s mission is to create the largest public computing grid to benefit humanity. Grid computing is a rapidly emerging technology that can bring together the collective power of thousands or millions of individual computers to create a giant "virtual" system with massive computational strength.The technology provides collective processing power far in excess of the world’s largest supercomputers, which can help expedite calculations, and reduce the time it takes to do medical and environmental research from years to months.
+The research projects World Community Grid will support range from genomic and disease research to natural disaster and environmental research.To date, globally, more than 90,000 individuals have signed on to donate their idle computer time from more than 145,000 devices to the initiative. 
+The first project for World Community Grid is the Human Proteome Folding Project, which is essential to advancing our knowledge of human diseases.The project aims to identify the proteins that make up the human proteome and, in doing so, better understand the causes and potential cures for diseases like malaria and tuberculosis.
+World Community Grid aims to address global humanitarian issues, such as: 
+- New and existing infectious disease research: Researching cures for HIV and AIDS, Severe Acute Respiratory Syndrome (SARS), malaria and others.
+- Genomic and disease research: The Human Proteome Folding project - seeks to help identify the functions of the proteins that are coded by human genes.
+- Natural disasters and hunger: World Community Grid applications can help researchers and scientists with earthquake predictions, improving crop yields and evaluating the supply of critical natural resources like water.
+- Environmental research: Meteorology and severe weather prediction, pollution remediation, climate modelling, and others.
+World Community Grid is built upon an IBM infrastructure and with IBM support, as well as software from United Devices, and features an Advisory Board made up of distinguished international experts in health sciences, technology and philanthropy.
+"World Community Grid demonstrates that government, business, and society can be the direct beneficiary of innovation if we are willing to rethink the way we utilize resources.The collaborative effort with HKU is the first major step in support of World Community Grid in Hong Kong and in the region.We look forward to cooperating with more organizations to help Hong Kong reap the benefits of technology through innovation," Timothy concluded.
+About IBM
+IBM, the world's largest information technology and business solutions company, is the global leader in innovative systems, services, consulting, research and financing that help organizations transform into on demand enterprises. IBM opened for business in Hong Kong in April 1957. For details, please visit www.ibm.com/hk.
+About HKU
+The University of Hong Kong, founded in 1911, emerged from the Hong Kong College of Medicine (established in 1887) and is the oldest tertiary institution in Hong Kong.The main estate is situated on the north-western slopes of Hong Kong Island and overlooks the wide sweep of Victoria Harbour.
+With a particular mission of making contribution to China as well as Hong Kong since its foundation, the University has built up a tradition of excellence with many of its graduates going on to become leaders for society.It has to date produced over 100,000 graduates, many of whom occupy leading positions in such walks of life as education, industry, commerce, the public sector and the professions. 
+HKU has ten faculties – Architecture, Arts, Business and Economics, Dentistry, Education, Engineering, Law, Medicine, Science and Social Sciences, and the Graduate School. HKU SPACE is an integral part of the University and has been the largest tertiary level institution providing lifelong and continuing education in the territory since 1956. The University has a student population of 20,000, among which about 15,000 are undergraduates and postgraduates enrolled in the programmes funded by the UGC.
+The University is committed to playing its part on the international stage of academia through leading edge contributions in education and research. Through its ongoing dedication to the highest standards in the pursuit of scholarship, it seeks to serve Hong Kong, the Mainland and the wider international community.
+For photo of the press conference please visit: http://www.hku.hk/eroesite/html/press/ibm.doc.
+# # #
+Media contacts: 
+Sammie Lee
+IBM China/Hong Kong Limited
+Tel: (852) 2825 0031 
+Fax: (852) 2537 1783
+Email: sammieky@hk1.ibm.com
+Cherry Cheung, Senior Press Officer 
+The University of Hong Kong 
+Tel: (852) 2859 2606
+Fax: (852) 2858 4986 
+Email: cherry.cheung@hku.hk 
+May Sze 
+Text 100 Public Relations (For IBM)
+Tel: (852) 2251 8247
+Fax: (852) 2251 8225
+Email: may.sze@text100.com.hk

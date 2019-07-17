@@ -1,0 +1,26 @@
+[date]10 December 2014[/date]
+[title]CUHK Joint Research Sets a New Global Direction for Lung Cancer Treatment 
+Molecular Targeted Therapy Proved more Effective in Treating Patients with ALK-Positive Lung Cancer[/title]
+The Faculty of Medicine of The Chinese University of Hong Kong (CUHK) has proved that molecular targeted therapy is superior to standard first-line chemotherapy in ALK-positive lung cancer patients.  From now on, in addition to the testing of epidermal growth factor receptor (EGFR), patients with lung adenocarcinoma will also undergo EML4-ALK gene mutation (an abnormal gene fusion) test before considering the preferred cancer treatment, whether it should be molecular targeted therapy or standard chemotherapy. This personalized therapy based on human genomic information has set a new global direction for lung cancer treatment. The findings have been published in the latest issue of The New England Journal of Medicine. 
+Lung cancer is the leading cause of cancer deaths worldwide, accounting for 1.6 million deaths every year. In Hong Kong, there are around 4,000 new cases of lung cancer annually. Among which, 70% of patients suffer from lung adenocarcinoma and many of them are female and non-smokers. 
+It was found that EML4-ALK mutation is a driver oncogene leading to lung adenocarcinoma in 2007, which is present in 3% to 5% of non-small-cell lung cancer cases. Professor Tony Mok from the Department of Clinical Oncology at CUHK and Dr. Benjamin Solomon, an Australian expert, jointly conducted an international research from May 2011 to July 2013. In the study, 343 patients with ALK-positive lung adenocarcinoma from 27 countries were randomly divided into 2 groups, receiving molecular targeted therapy and standard chemotherapy respectively. The results revealed that molecular targeted therapy was more effective with more than 10 months of progression-free survival, 50% higher than standard chemotherapy. In addition, the probability of 1-year survival was over 80% with molecular targeted therapy. As compared to chemotherapy, it also had fewer side effects and was associated with greater reduction in lung cancer symptoms and greater improvement in quality of life. 
+
+ 
+Molecular Targeted Therapy(172 ppx)
+Standard Chemotherapy (171 ppx)
+
+Progression-free survival (Median)
+10.9 months
+7.0 months
+
+Objective response
+74%
+45%
+
+Probability of 1-year survival
+84%
+79%
+
+Professor Tony Mok, Li Shu Fan Medical Foundation Professor of Clinical Oncology from Department of Clinical Oncology at CUHK described the research as ground breaking which set a new global direction for lung cancer treatment.  He said, “From now on, patients with lung adenocarcinoma should undergo both EGFR and EML4-ALK gene mutation test before any treatments. If one of the tests shows positive result, molecular targeted therapy will be more effective than the standard chemotherapy.” 
+Professor Mok added that physicians are now able to provide patients with tailor-made therapy by targeting the cancer cause based on genomic information. This personalized therapy approach will bring greater hope to advanced lung cancer patients. 
+This remarkable research result by Professor Mok marks another milestone in lung cancer treatment after his landmark study in 2009, which had established the role of first-line treatment in patients with EGFR mutation. These two studies not only bring the personalized medicine development of lung cancer into a new stage, but also establish the international leadership of Asian scholars in research and treatment of Clinical Oncology.

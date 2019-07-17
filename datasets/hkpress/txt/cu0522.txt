@@ -1,0 +1,29 @@
+[date]13 August 2007[/date]
+[title]Multi-centre Study by CUHK Proves a New Treatment Option 
+for Asian Chronic Hepatitis C Patients[/title]
+Chronic hepatitis C is an important cause of liver cirrhosis and liver cancer. According to the 2005 updated report by the Department of Health, approximately 10% of people with history of blood transfusion and over 50% of intravenous drug abusers in Hong Kong are infected by hepatitis C virus. One-fifth of chronic hepatitis C patients will progress to liver cirrhosis in 20 years, and 1%-4% of cirrhotic patients will develop liver cancer every year. Currently, the standard treatment of chronic hepatitis C is combination of peginterferon-alfa and ribavirin. For genotype 1 hepatitis C virus, which is the commonest yet the difficult-to-treat viral genotype, 1-year combination treatment is associated with approximately 50% sustained virological response, i.e. viral clearance at 6 months after stopping treatment.
+The use of this treatment combination, however, is limited by the adverse effects of peginterferon-alfa. Common adverse effects include fever and flu-like symptoms, injection site reaction, depression and bone marrow suppression. Approximately 7% to 12% of patients required discontinuation of medication and 11% to 42% of patients required dosage modification due the adverse effects of the drug. The decrease in patient compliance will in turn reduce the treatment effect. Hence, The Chinese University of Hong Kong led 16 centers in Hong Kong, Singapore and Mainland China to conduct a randomized, controlled phase III trial to assess the use of interferon beta-1a, a safer interferon, and its combination with ribavirin in the treatment of Asian chronic hepatitis C patients from 2002 to 2005.
+257 Asian chronic hepatitis C patients with active disease were recruited and randomly assigned in 1:1 ratio to receive interferon beta-1a or placebo treatment for 12 weeks in a double-blinded manner. At week 12, patients on interferon beta-1a would receive 12 more weeks of interferon-beta-1 while patients on placebo would receive 24 weeks of interferon beta-1a and ribavirin combination treatment.
+Interferon beta-1a has superior viral suppression than placebo at week 12. Combination of interferon beta-1a and ribavirin has superior viral suppression than interferon beta-1a alone both at the end of treatment and 6 months after stopping treatment (Table). Among the patients infected by genotype 1 HCV, sustained viral clearance in the combination group was 46% and that of interferon beta-1a alone group was 22%. Most of the adverse events were mild to moderate in severity. 2.3% patients on interferon beta alone discontinued treatment due to injection-site reaction; fever and arthralgia; and thrombocytopenia, respectively. 5.5% patients in the IFN beta-1a/ribavirin group had their ribavirin dose adjusted because of anemia or a hemoglobin decrease.
+
+Viral Response
+Interferon beta 1a alone
+Interferon beta-1a and ribavirin
+Placebo
+
+Week 12
+74%
+-
+0%
+
+End of 24 week treatment
+56%
+78%
+-
+
+6 months after stopping treatment
+27%
+56%
+-
+
+In summary, interferon beta-1a and ribavirin combination treatment can achieve a similar rate of viral clearance but a low rate of adverse event and patient discontinuation as compared to the existing peginterferon-alfa based treatment. Therefore it is recommended that interferon-beta-1 and ribavirin combination treatment be considered as an alternative to the existing peginterferon-alfa based therapy for Asian patients with chronic hepatitis C infection. The shorter duration of treatment for genotype 1 HCV and good safety profile is likely to contribute to good treatment compliance and therefore offers the opportunity of a good treatment response.

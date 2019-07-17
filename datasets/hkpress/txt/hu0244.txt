@@ -1,0 +1,34 @@
+[title]HKU-led study finds natural food dye can stop fungus in its tracks[/title]
+[date]09 Oct 2013[/date]
+ 
+A research team led by Dr Paul WK Tsang from the HKU Faculty of Dentistry has found that the growth of a disease-causing fungus can be blocked by adding a plant substance that is often used as a red food colouring.  
+Extracted from the roots of the madder plant (Latin name, Rubia tinctorum L.), the red pigment purpurin is widely used as a food dye and also as an ingredient in herbal medicines. The researchers showed that in laboratory tests, the addition of purpurin curbed the growth of Candida albicans, a fungus that is commonly responsible for human infections—especially those picked up by patients in hospitals—and in serious cases can lead to death.
+Purpurin prevented C. albicans from multiplying and forming a sheet of cells, known as a biofilm, across a plastic surface. It also caused fully formed biofilms to break up.
+The formation of biofilms is a key step in how C. albicans attaches to surfaces and causes human infections and diseases. Given that C. albicans biofilms are becoming more and more resistant to standard antifungal drugs, purpurin “deserves further investigations in the development of antifungal strategies”, the team concludes in their research paper published in the online journal PLoS ONE.
+Earlier this year, the journal article won the research team the HKU Faculty of Dentistry Research Output Prize 2012-13. The other team members were Dr HMHN Bandara, now at The University of Texas at Austin, USA, and Dr Wing-ping Fong from The Chinese University of Hong Kong.
+According to the article, the quantity of C. albicans living on a plastic surface dropped sharply 1 day after the addition of purpurin. The effect depended on the concentration of purpurin added—for example, 3 µg/mL of the dye removed about 44% of living material and 10 µg/mL removed about 64%. The corresponding reductions were smaller (about 6% and 37%) when purpurin was added to pre-formed biofilms, probably because of reduced exposure of the cells to the dye, the researchers suggest.
+Magnification of the plastic surfaces (by scanning electron microscopy) confirmed that exposure to 3 µg/mL purpurin prevented the formation of biofilms and disrupted pre-formed biofilms. Furthermore, tentacle-like filaments (hyphae) that normally project out from C. albicans cells in biofilms were no longer present. 
+Filaments were also absent when cells were grown on a gel or in a liquid containing purpurin in addition to nutrients that would normally encourage filamentation.
+Further analysis of C. albicans cells growing on plastic showed that purpurin suppressed the expression of four filament-specific genes (ALS3, ECE1, HWP1, and HYR1), as well as one gene that is known to affect the production of filaments (RAS1). From these results, the researchers conclude that instead of directly killing fungal cells, purpurin disrupts biofilms by interfering with cell wall integrity.
+Noting that cell filaments are needed for C. albicans to grow and develop into a biofilm on a surface, such as on dentures and in medical tubes, the researchers suggest that purpurin’s ability to block filament production “could be a viable antifungal strategy”. Moreover, because purpurin was not toxic to human cells grown in the laboratory, the dye “may have clinical relevance” as a new way of treating C. albicans infections in humans, they propose.
+This research was supported by the HKU Seed Funding Programme for Basic Research and by the Research Fund for the Control of Infectious Diseases from the Food and Health Bureau of the HKSAR Government.
+###
+Source: Tsang PWK, Bandara HMHN, Fong WP. Purpurin suppresses Candida albicans biofilm formation and hyphal development. PLoS ONE 2012;7:e50866.
+Medline link to research article: http://www.ncbi.nlm.nih.gov/pubmed/23226409
+Free full-text research article: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0050866
+For more information about the HKU Faculty of Dentistry, please visit http://facdent.hku.hk; Facebook page: www.facebook.com/facdent
+Media enquiries:
+Dr Paul WK Tsang, Research Assistant Professor in Oral Biosciences, HKU Faculty of Dentistry; Tel: 2859 0484; E-mail: pwktsang@hku.hk
+Mr Oi-sing Au, Communications &amp; Development Officer, HKU Faculty of Dentistry; Tel: 2859 0454; E-mail: singau@hku.hk 
+
+Confocal laser scanning microscopy shows that C. albicans develops biofilms on a plastic surface (left photo), and addition of purpurin suppresses biofilm formation (right photo). Green cells are living and red cells are dead.
+
+ 
+
+
+
+The ability of C. albicans to grow in filament form and develop into biofilms on a plastic surface (left photo) is blocked by the addition of purpurin (right photo).
+
+ 
+
+

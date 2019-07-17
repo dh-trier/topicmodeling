@@ -1,0 +1,11 @@
+[title]Electrical Engineering Expert to Deliver William Mong Distinguished Lecture[/title]
+[date]07 May 2004[/date]
+ 
+The latest in the series of William Mong Distinguished Lectures 2003-2004 features Professor Graham C. Goodwin, from the University of Newcastle in Australia, on signal processing optimization.
+Entitled "What do Elvis Presley, Mobile Phones &amp; Lap Top Computers have in Common?", the lecture will take place at 5:30pm on Monday, May 10, 2004, at Lecture Theatre A, Chow Yei Ching Building, the University of Hong Kong. 
+Professor Goodwin is a Fellow of the British, Australian and Swedish Academies of Sciences.In his lecture, Professor Goodwin will illustrate the common link between Elvis Presley, mobile phones and lap top computers through a particular optimization problem involving a finite set of decision variables.
+This problem arises in a vast range of applications including: production of audio CDs, power supplies for lap top computers, equalization of digital communication channels, and more technical problems such as: filter design with quantized coefficients, and multi-bank filters.
+Professor Goodwin has been with the Department of Electrical and Computer Engineering, The University of Newcastle, Australia since 1974.He obtained a B.Sc (Physics), B.E (Electrical Engineering), and Ph.D from the University of New South Wales.From 1970 until 1974, he was a lecturer in the Department of Computing and Control, Imperial College, London. He is the co-author of eight monographs, four edited volumes and several hundred technical papers.
+Professor Goodwin is the recipient of several international prizes including the USA Control Systems Society 1999 Hendrik Bode Lecture Prize, a Best Paper award by IEEE Trans. Automatic Control, a Best Paper award by Asian Journal of Control, and Best Engineering Text Book award from the International Federation of Automatic Control.
+Members of the Press and interested parties are cordially invited to attend.For enquiries, please contact the Faculty of Engineering at 2859 2803.
+ 

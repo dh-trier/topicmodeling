@@ -1,0 +1,16 @@
+[date]11 October 2013[/date]
+[title]CUHK Innovates ‘Authenticated Paper’
+To be Exhibited in Hong Kong Electronics Fair[/title]
+A postgraduate engineering student at The Chinese University of Hong Kong (CUHK), LI Chak-man, under the supervision of Prof. LAU Wing-cheong, Department of Information Engineering, has developed ‘Authenticated Paper’ – an anti-counterfeiting technology that is cost-effective, simple-to-use and secure.  The technology can be used to create authenticated paper-based documents or credentials which can be easily verified by handheld devices such as smartphones and tablets, without requiring network access.  The technology has won the Professor Charles K. Kao Student Creativity Award 2013, and will be showcased, along with four other projects of CUHK, in the coming Hong Kong Electronics Fair (Autumn Edition) 2013 at the Hong Kong Convention and Exhibition Centre from 13 to 16 October.  Members of the public are welcome to visit the CUHK booth to learn more about them. 
+Offline verification protects data privacy 
+All printed documents or credentials are potentially subject to counterfeiting and forgery.  Conventional counterfeiting solutions such as watermarking or printing using special-quality papers are not cost-effective.  Other common low-cost solutions such as authorized chops or stamps may only provide a false sense of security.  The use of online verification may also be vulnerable to data leakage or limited by network service availability. 
+The Authenticated Paper technology developed by Professor Lau and Li Chak-man allows issuing authority to create paper-based documents and credentials embedded with 2D barcodes which can carry a large amount of authenticated data which can easily be verified by handheld devices such as smartphones and tablets without requiring network access. 
+Professor Lau said, ‘Our system does not require personal data to be stored online and thus minimizes the risk of privacy leakage.  The self-authenticating document can also be readily replicated by photocopiers or printers without compromising its security properties.  This technology can be applied in the production of low-cost, forgery-proof credentials such as education diplomas, cheques, medical certificates, invoices, payment receipts, and other identity documents.’ 
+Professor Charles K. Kao Student Creativity Awards 2013 
+Li Chak-man’s project has won the second runner-up award in the Professor Charles K. Kao Student Creativity Awards 2013.  The award is a biennial competition in technological innovation for full-time students of CUHK.  It was first introduced in 2004–05 as the Vice-Chancellor's Cup of Student Innovation.  The competition under the theme ‘Innovation for Better Life’ this year aims at promoting the culture of innovation and encouraging inter-disciplinary collaboration among undergraduate and postgraduate students.
+Hong Kong Electronics Fair (Autumn Edition) 
+Date: 13-16 October 2013
+Time: 9:30am – 6:30pm (It will be closed at 5:00pm on 16 October)
+Venue:Hong KongConvention and Exhibition Centre Hall 1A Concourse (CUHK Booth No.: 1CON-038). 
+Please find more details about ‘Authenticated Paper’ from the following website:
+http://mobitec.ie.cuhk.edu.hk/authpaper/index.php

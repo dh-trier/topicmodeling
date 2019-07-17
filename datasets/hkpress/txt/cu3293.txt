@@ -1,0 +1,16 @@
+[title]CUHK Economics No. 1 in East Asia[/title]
+
+[date]1 May 2006[/date]
+
+
+ CUHK Invention Wisers System Gains National Recognition
+ Wisers Knowledge Management and Content Service System (Wisers System), developed by Prof. William Wong Kam-fai, associate dean of the Faculty of Engineering and professor in the Department of Systems Engineering and Engineering Management, has received the Innovation Award of the China Computer Federation. The Chinese University is the only university outside mainland China to win the award.
+The Innovation Award is set up by the China Computer Federation on behalf of the Ministry of Science and Technology to recognize important technological discoveries and breakthroughs in basic and applied research in computer engineering. Three level 2 prizes and six merit prizes were awarded this year.
+The China Computer Federation (CCF) applauded Wisers System, developed by Prof. Wong, for its innovative contributions to technology transfer, pointing out that 'Wisers System has combined Chinese information processing technology to provide large-scale clipping, processing and management of newspaper articles. Its editorial function is comprehensive and in-depth, and comprises innovative indexing, categorization, content analysis and information extraction technologies, which are significant for modern Chinese cultural development.'
+ Prof. Wong has harnessed the Information Processing of Chinese (IPOC) System and the Electronic News Media Processing Operating System (ENMPOS) to provide timely on-line news service to Internet users. This service in turn formed the core of Wisers Information Ltd., which was established in 1998 by a group of CUHK graduates led by Prof. Wong, with the support of CUHK Foundation Ltd. After a series of successful commercial deals, Wisers received the first venture capital investment in 1999 through the Applied Research Fund of the HKSAR and Walden International Investment Group.
+Today Wisers Information Ltd. is valued at over HK$10 million and employs over 150 staff throughout China. WiseNews, one of the company's most successful products, distributes up-to-date information from over 1,500 sources across the Asia-Pacific region to some 500 international clients, including multinational corporations, media firms, news websites, professional bodies, government bodies, and academic institutions.
+ 
+ Professor Wong Kam-fai
+
+
+ 

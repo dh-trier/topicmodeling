@@ -1,0 +1,25 @@
+[title]HKU chemists develop new strategy to synthesize molecule 
+that could help mitigate cancer tumour development 
+[/title]
+[date]01 Dec 2015[/date]
+ 
+A team of researchers led by Professor Pauline Chiu from Department of Chemistry, the University of Hong Kong, has successfully achieved a formal total synthesis of cortistatin A, a molecule which could help mitigate the growth of cancer tumours. The findings were published in Chemistry-A European Journal recently.  This novel strategy of synthesizing the molecule was deemed to be “highly important” by the refereeing panel, and usually less than 10% of manuscripts receive such a positive review.
+Cancer is a disease characterized by an abnormal and unregulated growth of cells.  Nevertheless, cancer tumours cannot grow larger than two millimetres unless it is accompanied by angiogenesis, which is a development of the blood vessel network needed to nourish the tumour and enable it to metastasize. Thus, angiogenesis-inhibiting molecules could help to mitigate the growth of cancer tumours.   Currently, Avastin® is an anti-angiogenic drug in clinical use for the treatment a range of cancers. Cortistatin A is a natural product isolated from an Indonesian marine sponge that has been shown to have potent anti-angiogenic activity at low dosages.  Apart from being a lead compound in the development of anti-cancer therapies, a derivative of cortistatin A has also been found to be a powerful anti-HIV agent.
+It is difficult to harvest Cortistatin A from natural sources, and thus its laboratory synthesis is a way to obtain quantities of it for further research and drug development.  Professor Chiu’s strategy to this molecule, implemented together with two PhD students Kuang Liping and Liu Lok-lok, applied a (4+3) cycloaddition reaction which was developed and optimized in her lab to make the central seven membered ring structure (see Figure 1 below). 
+
+Figure 1      Key step in the synthetic route to cortistatin A
+
+“The invention of new chemistry reactions is an extremely important field of research, because each new reaction is an enabling tool, and can open doors to the synthesis of many important molecules. In this case, the cycloaddition reaction we developed is the key step in our strategy that enabled our synthesis of cortistatin A to be accomplished efficiently,” said Professor Chiu.
+The impressive biological properties and complexity of the structure of cortistatin A have motivated many renowned chemists worldwide to synthesize this molecule.  The efficient route that Professor Chiu developed affords the highest total synthesis yield of cortistatin A reported in the world so far. The yield exceeds that of a semi-synthetic route developed in the Scripps Research Institute, and is over 7-fold higher than the total synthesis developed at Harvard University. Using this route, cortistatin A and its analogues can be more efficiently synthesized to facilitate further medicinal chemistry research to improve its efficacies toward drug development.
+For press enquiry, please contact Ms Cindy Chan, Senior Communication Manager of Faculty of Science, at 3917-5286/ 6703- 0212 or by email at cindycst@hku.hk.
+The paper 
+“Formal total synthesis of (+)-cortistatins A and J” in Chemistry-A European Journal.  Volume 21, Issue 41. October 5, 2015.
+DOI: 10.1002/chem.201502890
+Chemistry-A European Journal is an international journal with top quality contributions (2014 ISI Impact Factor: 5.731). It publishes a wide range of outstanding Reviews, Minireviews, Concepts, Full Papers, and Communications from all areas of chemistry and related fields.  Based in Europe, Chemistry—A European Journal provides an excellent platform for increasing the visibility of European chemistry as well as for featuring the best research from authors from around the world.
+
+
+Professor Pauline Chiu from Department of Chemistry, HKU
+
+Professor Pauline Chiu from Department of Chemistry, HKU
+
+

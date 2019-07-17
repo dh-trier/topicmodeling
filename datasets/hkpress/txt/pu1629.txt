@@ -1,0 +1,6 @@
+
+[date]2008.09.24[/date]
+[title]Honour for young engineering talents[/title]
+Three mechanical engineering students of The Hong Kong Polytechnic University (PolyU) have made it to the final round of the international competition organized by the American Society of Mechanical Engineers International (ASME).
+They were asked to design and build a robot which can wash a window pane autonomously. This device should be able to operate under remote control and clean both sides of a window. The robot must carry with itself sufficient amount of water to simulate the cleaning solution necessary in the final process. This device is expected to be of help to many homeowners, especially those with mobility problems. Being able to clean the outside of the window should provide a safety benefit to all homeowners.
+The PolyU team has advanced to the final round amidst fierce competition in the regional contest, which covers nearly all non-US territories and regions, and including teams sent forth by universities in Japan, South Korea, Singapore, Taiwan, Malaysia, New Zealand, India, and Australia. They will compete against 12 teams from different parts of US and Canada in the final contest to be held on 2 November in Boston.

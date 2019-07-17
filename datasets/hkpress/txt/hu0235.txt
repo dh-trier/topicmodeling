@@ -1,0 +1,43 @@
+[title]HKU wins five Gold Awards in 
+government Web Accessibility Recognition Scheme[/title]
+[date]14 Apr 2014[/date]
+ 
+The University of Hong Kong (HKU) has won five Gold Awards in the Web Accessibility Recognition Scheme, co-organized by the Office of the Government Chief Information Officer and the Equal Opportunities Commission. An award presentation ceremony was held today (April 14).
+This year, HKU was the only university to receive five gold awards out of some 100 entries. The gold accreditation logo was granted to four websites and one mobile app of the University.
+HKU Director of Communications Ms Katherine Ma, who received four of the awards on behalf of the Communications and Public Affairs Office, said: “The University has always encouraged its members to make their faculty/department websites barrier-free, so that the web contents will be accessible by the widest possible audience.”
+HKU’s gold award winning websites and mobile app are:
+The University of Hong Kong http://www.hku.hk/ (awarded for a second year running)
+
+U-Vision http://uvision.hku.hk/
+
+
+Information Technology Services http://www.its.hku.hk/
+
+
+
+Communications and Public Affairs Office http://www.cpao.hku.hk/
+
+
+HKU News app (iOS platform) https://itunes.apple.com/hk/app/hku-news/id581455414
+
+
+The aim of the scheme is to show appreciation to organisations which have made their websites and mobile applications accessible, with an aim to encourage the adoption of accessibility designs to facilitate access to online information and services by all segments of the community, including persons with disabilities.
+To fulfill the Gold requirement, these websites have to meet all 24 judging criteria listed under the Gold Category to incorporate basic and key web accessibility features, while the mobile app has to meet all 18 judging criteria under Gold Category to provide basic mobile application accessibility features.
+Accessibility features of these websites and mobile app are:
+A “high contrast” version and a text re-sizing function are provided for visually impaired users to switch to read using a high colour contrast mode or resize the text up to two times the displaying text without loss of content. 
+The U-Vision website is responsive to users’ devices (desktops, laptops, tablets or mobile phones), optimising the elements on each page to suit the screen size.
+All operations can be performed through a keyboard interface for those who cannot access a website with a mouse
+Captions are provided for videos for the hearing impaired users. The sound of videos can be easily turned off too.
+Clear and informative links are provided to facilitate those who have cognitive and learning difficulties.
+HKU news app, supporting iOS 7.1 user interface design, provides multiple ways to access a webpage such as using a search function, site map and standard navigation.
+For details about the scheme, please refer to the government website at:
+http://www.ogcio.gov.hk/en/community/web_accessibility/recognition_scheme/
+For media enquiries, please contact Ms Trinni Choy, Assistant Director (Media) (Tel: 2859 2606/Email: pychoy@hku.hk), or Ms Melanie Wan, Senior Manager (Media) (Tel: 2859 2600/Email: melwkwan@hku.hk), Communications &amp; Public Affairs Office, HKU.
+
+
+
+The HKU Communications and Public Affairs Office and Information Technology Services teams with Mr Gregory So Kam-leung, Secretary for Commerce and Economic Development.
+
+HKU was the only university to receive 5 gold awards.
+
+

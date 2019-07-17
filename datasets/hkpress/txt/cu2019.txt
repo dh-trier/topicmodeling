@@ -1,0 +1,59 @@
+[date]28 April 2015[/date]
+[title]CUHK Reveals Hepatitis B Prevalence Among Pregnant Women Remains High 
+Despite More Than 25 Years of Universal Hepatitis B Vaccination[/title]
+Hepatitis B virus (HBV) can be transmitted vertically from mother to newborn, and horizontally via sexual intercourse and contact with contaminated blood and body fluids. A proportion of the infected people will become carriers, who may develop severe complications including liver cirrhosis and liver cancer. As transmission from mother to newborn is the principle source of carriers, the most effective prevention is neonatal immunization given shortly after birth. 
+HBV vaccination programme was introduced to Hong Kong in 1983 to neonates born to mothers who are carriers. Since November 1988, neonatal HBV vaccination has become universal for all newborns.However, research at The Chinese University of Hong Kong (CUHK) reveals that the prevalence of HBV carrier remained high among pregnant women. 
+Professor Terence Tzu Hsi LAO, Professor, Department of Obstetrics and Gynaecology, CUHK stated, “The standard method of screening for infection with HBV is to perform a blood test to detect the presence of the hepatitis B surface antigen (HBsAg), a protein found on the surface of the viral particle. In Hong Kong, pregnant women presenting for antenatal care are routinely screened for HBsAg status. By comparing the current prevalence with figures published from Hong Kong in previous years, we can see that there is no decline in the prevalence of hepatitis B infection after the implementation of vaccination (see Table 1). ” 
+Table 1
+
+ 
+Previous statistics published from Hong Kong
+Results of studies conducted by CUHK
+
+Year
+1976
+1981 to 1983
+1996
+1998 to 2001
+1998
+2008
+2010
+
+Maternal HBsAg Carriage (%)
+6.6%
+7.4%
+10%
+8%
+10.1%
+10.4%
+9.1%
+
+In an earlier study on teenage mothers, it is noted a transition to high prevalence occurring at late adolescence. In order to confirm this phenomenon in young mothers born in Hong Kong, the Department of Obstetrics and Gynaecology at CUHK has examined the prevalence among 10,808 local mothers aged from £16 years to 25 years during the years of 1998 and 2011, who delivered in the Prince of Wales Hospital (PWH), and found it to be progressively increased and correlated with age (see Table 2). 
+Table 2 – Study on Young Mothers (N=10,808)
+
+Age
+≤16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Prevalence of HBV Infection
+2.3%
+2.6%
+6.9%
+6.5%
+7.1%
+6.5%
+8%
+8.4%
+7.9%
+7.9%
+
+Professor Paul Kay Sheung CHAN, Chairman, Department of Microbiology, CUHK, further elaborated, “In a research of new entrants to CUHK’s medical and health related programs, when a booster dose of vaccine was given to students without detectable antibody, 15% did not mount any response, and the response was unsatisfactory in another 29%. This result suggests that immune memory has declined in a substantial proportion of individuals despite a full course of vaccination in infancy. In view of this, we recommend subjects who are at a high-risk of exposure to HBV such as healthcare workers, to consider undertaking a 3-dose booster, rather than a single dose if necessary.” 
+Professor LAO supplemented, “This series of studies indicated that we cannot be complacent about the progress in prevention of HBV infection in children, as this may not last beyond adolescence. We will be collecting more data and conducting further studies to determine the long-term protective effect of the current HBV immunization programme and review the recommendation for general public. Persons at risk of exposure to HBV should be evaluated for the need of booster vaccination. For example, if women planning for pregnancy are tested HBsAg and antibody negative, they may consider sparing 6 months to complete the 3-dose booster before having a baby.”

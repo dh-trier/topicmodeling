@@ -1,0 +1,19 @@
+
+[date]2004.04.26[/date]
+[title]PolyU wins five invention awards in Geneva[/title]
+The Hong Kong Polytechnic University (PolyU) has recently won two Gold and three Silver Medals in the 32nd International Exhibition of Inventions, New Techniques and Products, which was held earlier this month in Geneva.
+It was also the first time that PolyU participated in this large-scale international event. Under the patronage of the Swiss Federal Government and the City Government of Geneva, the exhibition has put together some 1,000 inventions and 585 exhibitors from 42 countries, drawing a total of 58,950 visitors from all over the world.
+The winning entries presented by PolyU and their respective Principal Investigators are listed and briefly described as follows:
+I. Gold Medals :
+(1) Advanced Fibre Bragg Grating Railway Monitoring System by Prof. Tam Hwa-yaw, Department of Electrical Engineering
+Making use of high-sensitivity, light-weight, small and EMI immune optical sensors, Prof. Tam's invention helps create a multi-point railway monitoring and measurement system that can be used for monitoring arbitrary locations along the rail. The compact system helps maintain the health of infrastructures such as bridges and railways.
+(2) Walter ' the world's first 'sweating' manikin by Dr. Fan Jintu, Associate Professor, Institute of Textiles and Clothing
+Nicknamed 'Walter', the manikin can simulate human perspiration and thus be used to test the thermal insulation and moisture vapour resistance of functional clothing. The simulation process is made possible with Walter's special skin, which is made of moisture-permeable fabric. In addition, Walter's motorised limbs can be moved to simulate the process of walking and help create a realistic test.
+II. Silver Medals:
+(3) Cubicam Body Scanner by Dr Winnie Yu, Assistant Professor, Institute of Textiles and Clothing
+This unique body scanner makes use of advanced Moire image processing and advanced optical design. The scanner is small and slim enough to be fitted within a boutique's changing room to provide 3D images for automatic body measurements and create perfectly fit garments. It is also safe and easy to use under normal light condition.
+(4) Nano-Fotocide-Plus Catalyst by Prof. Chua Hong, Department of Civil and Structural Engineering
+This nano-coated catalyst can be applied in aquacultural water treatment. Upon photo- and electro-activation, the catalyst generates hydroxyl radicals and activates chloride ions respectively, making it an extremely effective agent for disinfection and water treatment. The system is developed by Acumen Environmental Engineering and Technologies Co. Ltd, a joint-venture of PolyU.
+(5) Online Basic Competency Assessments System by Dr Stephen Mak, Associate Professor; and Mr Lennon Choy, Lecturer Department of Building and Real Estate
+Developed by PolyU's subsidiary Smile Technologies Ltd, the web-based system is designed for primary students to assess their competency in Chinese, English and Mathematics. The system is capable of accommodating 54,000 concurrent users to take assessments and monitoring their longitudinal performance. This project is commissioned by the Hong Kong Examinations and Assessment Authority.
+For more details about the International Exhibition of Inventions, please refer to its official website at URL: www.inventions-geneva.ch/gb-index.html.

@@ -1,0 +1,6 @@
+[date]9 April 2010[/date]
+[title]CUHK Student Receives the IBM Ph.D. Fellowship[/title]
+Mr. Zibin Zheng, a PhD student of the Department of Computer Science &amp; Engineering, The Chinese University of Hong Kong (CUHK), has been awarded the IBM Ph.D. Fellowship.
+The IBM Ph.D. Fellowship Awards Program is an intensely competitive worldwide program, which honors exceptional Ph.D. students who have an interest in solving problems that are important to IBM and fundamental to innovation in many academic disciplines and areas of study. These include: computer science and engineering, electrical and mechanical engineering, physical sciences (including chemistry, material sciences, and physics), mathematical sciences (including optimization), business sciences (including financial services, communication, and learning/knowledge), and service science, management, and engineering (SSME).
+Award recipients are selected based on their overall potential for research excellence, the degree to which their technical interests align with those of IBM, and their progress to-date.
+IBM Ph.D. Fellows are awarded tuition fees, and stipend of US$14,000 for one academic year. All IBM Ph.D. Fellows are matched with an IBM Mentor according to their technical interests, and they are encouraged to intern at an IBM research or development laboratory under their Mentor's guidance.

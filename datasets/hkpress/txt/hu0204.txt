@@ -1,0 +1,13 @@
+[title]HKU Computer Centre wins Best Green ICT Gold Award[/title]
+[date]21 Apr 2011[/date]
+ 
+ 
+The Computer Centre of the University of Hong Kong (HKU) was honoured with the Best Green ICT (Adoption - Organisations) Gold Award in the Hong Kong ICT Awards 2011.
+The Hong Kong ICT Awards 2011 was organized by the Green ICT Consortium to honour companies in the Information and Communications Technology (ICT) industry for the distinguishing environmental friendly initiatives demonstrated in their operations which made contributions to the ICT industry as a whole.
+The Cloud Computing, Server &amp; Storage Virtualization and HPC &amp; Grid Computing System developed by the Computer Centre of HKU has been commended by the Judging Panel as demonstrating good cost effectiveness in deploying the cloud computing solution. The need for data centre space and the consumption of electrical power have also been reduced with the virtualization of servers and storages as well as the adoption of cloud technology.
+Over the years, the Computer Centre have introduced a number of innovative Green ICT measures to maximize system performance and to reduce electricity and cooling requirements. HKU's Computer Centre has embarked on the Green ICT journey since 2002 with duplex printing, electronic forms and recycling of toner cartridge &amp; obsolete equipment. In recent years, the centre has been undertaking major developments in cloud computing infrastructure, which has generated good savings in power, space requirement for equipment as well as reduced carbon emissions. Besides, the High Performance Computing (HPC) and the largest Grid Computing systems in Hong Kong developed by the centre has proved to be vital in supporting cutting edge compute-intensive research projects.
+HKU Computer Centre homepage: http://www.hku.hk/cc/
+For media enquiries, please contact Ms Trinni Choy (Assistant Director (Media), Communications and Public Affairs Office) tel: 2859 2606 / email: pychoy@hku.hk  or Ms Melanie Wan (Manager (Media), Communications and Public Affairs Office) tel: 2859 2600 / email: melwkwan@hku.hk .
+from left to right, HKU members Mr. Peter Li - Associate IT Director (IT Infrastructure), Mr. Geoffrey Dengate - Director, Information Technology Services, and award presenter Mr. Gabriel Leung, Founding Chairman of Executive Committee, Green ICT Consortium
+from left to right, HKU members Mr. Geoffrey Dengate - Director, Information Technology Services, Mr. Frankie Cheung – Senior IT Manager, Cloud Computing, Mr. Peter Li - Associate IT Director (IT Infrastructure), Mr. Walter Li – Senior IT Manager, Operations
+

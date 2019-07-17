@@ -1,0 +1,85 @@
+[title]Two Outstanding CUHK Scientists Elected IEEE Fellows[/title]
+
+[date]29 January, 2003[/date]
+
+
+Two Outstanding CUHK Scientists Elected IEEE Fellows 
+ 
+ Professors Xu Yangsheng and Raymond Yeung Wai-ho of The Chinese 
+ University of Hong Kong have been elected Fellows of the prestigious 
+ Institute of Electrical and Electronics Engineers (IEEE) for their extraordinary 
+ records of accomplishments in engineering science and technology.
+For his "contributions to the design and control of space robots 
+ and dynamically stabilized systems", Professor Xu Yangsheng is the first 
+ scientist in China including Hong Kong being elected IEEE Fellow in 
+ robotics and automation.
+Professor Xu is Professor and Chairman of the Department of Automation 
+ and Computer-aided Engineering at CUHK. He obtained his BS and MS from 
+ Zhejiang University and his PhD from University of Pennsylvania in the 
+ area of Robotics. Before joining CUHK, he was a faculty member at the 
+ Robotics Institute, School of Computer Science, Carnegie Mellon University 
+ where he directed the Space Robotics Laboratory and developed the world 
+ first zero-gravity laboratory environment and various real-time controlled 
+ space robots systems.
+He has developed prototypes of robots that can walk or climb and 
+ perform tasks on the space station, which has been used as a model for 
+ robots working in today's international space station. Well-known robot 
+ concepts such as the self-mobile space manipulator, detachable mobile 
+ manipulator, and under-actuated robot with hybrid passive and active 
+ joints were among the many of his achievements. He also developed the 
+ world first dynamically stable robot system in a single wheel, gyroscopically 
+ stabilized configuration. More recently he is researching in robots 
+ for service and entertainment purposes, such as a wearable robot, a 
+ medical diagnose robot and smart toys. He has also made contributions 
+ to modeling and transfer of human control strategy to autonomous systems 
+ and implemented in the world first autonomous land vehicle that drove 
+ across the American Continent in 1997.
+Professor Xu is a fellow of the Hong Kong Institute of Engineers, 
+ an Academician of Euroasian Academy of Sciences, a Council Member of 
+ the Chinese Society of Automation, a Council Member of Hong Kong Productivity 
+ Council, and has been serving on various advisory and editorial boards 
+ in government and industry and academic research organizations. He has 
+ served as Chief Advisor to Chinese High-Tech Development Program on 
+ Aerospace in Telescience and led The Chinese National Space Technology 
+ Program in automation and robotics for space vehicle systems, and developed 
+ the first national testbed in Beijing. Currently, he is leading research 
+ projects in Mainland China on satellite chasing and capture for maintenance 
+ and new generation of micro-satellite.
+A leading figure in information theory, Professor Raymond Yeung was 
+ elected Fellow of IEEE for his "contributions to network coding theory". 
+ In fact, network coding is a theory invented by Professor Yeung and 
+ his colleagues in 2000 and since then, has become an active research 
+ area in communications engineering. Network coding theory totally changes 
+ the way we understand how information is transmitted in a network by 
+ refuting the common belief that information to be transmitted on a network 
+ only needs to be stored and forwarded (very much like in a mailroom). 
+ Instead, Professor Yeung proved that by means of coding, the information 
+ transmission capacity of a network can be expanded. Network coding finds 
+ applications in computer networks (e.g., the Internet), wireless and 
+ satellite communications, distributed information storage, and network 
+ security. Besides network coding theory, Professor Yeung also has made 
+ breakthrough contributions in recently years to the research on the 
+ mathematical structure of information measures.
+Last year, Professor Yeung finished the book A First Course in Information 
+ Theory published by Kluwer Academic/Plenum Publishers. This book is 
+ an up-to-date treatment of information theory, and it has been adopted 
+ in 2002 - 03 by top US universities including Cornell, MIT, and Stanford.
+Professor Yeung joined CUHK in 1991. He obtained his BS, MEng and 
+ PhD in Electrical Engineering from Cornell University, USA. Before joining 
+ CUHK, Professor Yeung worked for ATandT Bell Laboratories. He is currently 
+ Professor at the Department of Information Engineering and Director 
+ of the Internet Engineering Programme of The Chinese University of Hong 
+ Kong.
+Professor Yeung is the Founding Chairman of IEEE Information Theory 
+ Hong Kong Chapter and also a Fellow of the Hong Kong Institute of Engineers. 
+ He also has served as Member of the Board of Governors of IEEE Information 
+ Theory Society. Professor Yeung has been awarded the Senior Research 
+ Fellowship of Croucher Foundation and served as a consultant in the 
+ NASA project for salvaging the malfunctioning Galileo spacecraft. His 
+ current research covers Information Storage Systems and Quantum Information 
+ Theory. 
+Professor XU Yangsheng, Dept of Automation and Computer-Aided 
+ Engineering (left) and Professor YEUNG Wai Ho Raymond, Dept of 
+ Information Engineering (right) .
+
+ 

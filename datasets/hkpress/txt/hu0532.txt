@@ -1,0 +1,11 @@
+[title]Electronic Commerce Expert to Deliver Public Lecture in HKU[/title]
+[date]09 Feb 2004[/date]
+ 
+Professor Michael Ian Shamos is to deliver a public lecture entitled Electronic Voting: The Technology of Democracy at 10:30am on Wednesday, February 11, 2004 at Wang Gungwu Lecture Hall, Graduate House, University Drive, the University of Hong Kong.This public lecture is co-hosted by HKU's Faculty of Law and the Department of Computer Science and Information Systems at the Faculty of Engineering.
+Professor Michael Ian Shamos, lawyer, computer scientist, and an electronic commerce expert, will review the principal methods of electronic voting, their advantages and disadvantages, including such phenomena as tampering, vote-buying, hacking and other methods used to influence the outcome of elections, and talk about Project SERVE (Secure Electronic Registration and Voting Experiment) a comprehensive Internet voting system developed by the US Department of Defense.It is designed to let Americans who are overseas cast ballots in the coming presidential election over the Internet.On 5 February, the US Department of Defense backed off plans for this voting system.The Pentagon will scrap the Project SERVE until the current system can guarantee the security of the voting process. 
+Details of the lecture as follows:
+Date &amp; time: Wednesday, 11 February 2004, 10:30 am-12:30 pm
+Venue: Wang Gungwu Lecture Hall, Graduate House, University Drive, the University of Hong Kong.
+For free registration: http://www.ecom-icom.hku.hk/seminar/upcoming.asp
+For media enquiries, please contact Miss Polo Leung of HKU's External Relations Office at 2859 2600.
+ 

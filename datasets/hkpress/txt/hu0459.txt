@@ -1,0 +1,81 @@
+[title]HKU Faculty of Education announces research findings on “Understanding the digital generation and digital divide in education: A Hong Kong story”
+[/title]
+[date]24 Mar 2015[/date]
+ 
+Public Policy Research Project ‘Digital Divide in Education: An Experiential Understanding’
+Principal Investigator: Dr. Allan H.K. Yuen, Associate Professor, Faculty of Education, HKU; tel: 28592540; Email: hkyuen@hku.hk.
+Research Team: Dr. Wilfred Lau, Dr. Jae Park, Dr. Dan Wang, Dr. Lu Chen, and Miss M. Cheng
+In responding to the challenges of information technology development, many countries have already launched policies on information technology in education. Students are now engaging with a range of new and rapidly changing technology tools for their formal and informal learning. However, are all students receiving adequate access to information and communications technologies?
+Given the many thousands of studies that have been dedicated to exploring the promise and potential of using information technology in education, the issues of the digital equity in education deserve special attention. We see the digital equity in education should not be only constructed as an issue of technical support or resource distribution. Unpacking the social and cultural dynamics of how students use digital technology in and outside school is important.
+BACKGROUND OF STUDY
+The research team on ‘Digital Divide in Education’ at the University of Hong Kong has conducted a two-year project (2012-2014) entitled ‘Digital Divide in Education: An Experiential Understanding’ (HKU7032-PPR-12) to investigate issues on the digital equity in education. This project is funded by the Government’s Central Policy Unit, and the Research Grants Council of the Hong Kong Special Administrative Region; it aims to conduct in-depth case studies of 22 students from junior primary to senior secondary to investigate their use of information and communication technology (ICT) for formal and informal learning in school and outside school. Multiple sources of data were collected through direct observations, related school documents, self-reports, student work, and interviews of students, teachers, principals and parents.
+The digital divide has initially been defined as the gap between those who do and those who do not have access to computers and the Internet. It is clear that the issues of access and the barriers to access are dynamic and complex. Gradually, the focus of digital divide research shifted from physical access to digital skills to effectively use ICT and usage access. In this study, the use of ICT refers to a wider context of students’ everyday use of digital technologies in and outside school. We also adopt the four successive types of access suggested by van Dijk (2012):
+Motivation for access, in which people see a relevant or potential benefits for themselves in using ICT
+Physical and material access to ICT, i.e. have a computer and Internet connection
+Digital skills to effectively use ICT, which is a collection of media-related and content-related digital skills including operational skills, formal skills, information skills, communication skills, content-creation skills, and strategic skills
+Usage access in terms of the number and diversity of applications, and the amount of usage time, available to a person
+A conceptual framework based on cultural capital (Bourdieu, 1986) and parental mediation theory (Clark, 2011; 2013) is applied to understand the complexity of digital equity in education. Key questions include:
+How do students use ICT in school and at home?
+Do some students have too much access? Or too little?
+How do the school factors and parental mediations influence students’ ICT use?
+Are all students receiving adequate access to ICT? What are the challenges for the digitally disadvantaged students in ICT use?
+What are the recommendations that we can make to policy-makers, schools, and parents?
+MAJOR RESEARCH FINDINGS
+1. General pattern of digital orientations
+We observed a general pattern of digital orientations among students.
+Extensive integration into students’ everyday lives
+ICT has almost completely integrated into the everyday lives of students, including learning, entertainment, communication, and social life.
+New pathways for learning
+ICT has blurred the traditional boundary between formal and informal learning. Students search online information as references or suggestions to solve the problems they encounter in school and daily life. They could learn from apps or online games. ICT could function as new pathways for learning, e.g. when the students ‘play’ online, it actually could be a self-determined exploration and exposure to new knowledge.
+Digital experience and expectations
+The students have similar experience and expectations on ICT. Characteristics of technologies such as speed, mobility, user-friendly, multifunctional and multi-presentation would strongly influence students’ ICT use and experience.
+Sophisticated ICT knowledge and skills is not prevalent
+ICT use does not necessarily improve the digital skills of students. Generally speaking, students in Hong Kong are not tech-savvy. Typing is one of the major barriers in using computer encountered by students from primary to junior secondary students.
+Relationship to the online community
+ICT has impacts on the way students relate to the outside world and their social life. They are willing to learn better digital skills from their peers. However, at the same time, some students could recognize their peers behave differently in online and offline life. Also, most students exhibit strong awareness of online risks including online communication, disclosure of privacy, and hacking. They acquire such awareness from their parents and friends.
+2. Differences in ICT use
+The differences in the patterns of ICT use among students are also revealed.
+Socio-economic status
+Students from higher SES family are more likely to have a balanced ICT use for learning and entertainment.
+Academic performance and information literacy
+Students with good academic performance generally have better information literacy and digital skills, and integration ICT into learning process.
+Gender
+The male students are more likely to play online games while female students are more likely to engage in chatting and watching television online. The female students are not interested in programming.
+Levels of study
+For primary students, their use of social media is under heavy parental monitoring. The ethical use ICT including plagiarism, cyber bullying, privacy invasion, and hacking exist widely among secondary students. Students in primary school rely more on parents while secondary students trust more on peer-to-peer opinion and social media. The formation of peer culture among the secondary students is accompanied with the proliferation of social media. The popularity of ‘Martian Language’ indicates that the secondary students have already developed their own social network and peer culture.
+3. Types of usage pattern
+Four types ICT usage in school and at home were reported by students, namely, information search and learning (ISL), creative use (CU), social life and entertainment (SLE), and online risk behavior (ORB). In general, students’ ICT use at home is more than in school. Secondary students engage more ISL activities at home than in school. Senior secondary students do not have CU activities in school, but they have CU activities at home. In terms of SLE activities, all students reported that they have more SLE activities at home than in school, the gap is getting wider in secondary level.
+As a result of cluster analysis and qualitative data analysis, the 22 cases are classified into three groups of users, namely productive users (4 primary and 1 junior secondary students), average users (6 primary and 4 secondary students), and struggling users (7 secondary students).
+The productive users are able to produce positive and effective use of ICT. They are from high SES family, and ICT has been completely integrated into their everyday life. They actively use ICT for ISL, CU and SLE in a balanced way under supportive and participating parental mediation. Parents are good models. They possess good digital skills and have intrinsic interest in exploring advanced use of ICT for learning, social communication, and entertainment. They are able to utilize ICT in formal and informal learning, and achieve good academic results. Their schools have great emphasis on using ICT in teaching and learning.
+The average users are general users, more precisely, neither very good nor bad in ICT use. Compared to productive users, average users are less balanced use of ICT. While they use ICT for ISL and CU, they spend more time on SLE. Unlike productive users, average users’ usage of ICT for ISL and CU are mostly related to schools tasks. In their spare time, they spend more time for SLE, such as watching online videos, playing online games, and browsing social websites. Parental mediations are more supportive among primary students than secondary. Their schools do not have a systematic plan for ICT in education.
+The struggling users are those students who present some problems in using ICT. It is noteworthy that while most of productive users are primary students, all of the struggling users are secondary students. Their usage of ICT is imbalanced because they spend most of their available time to use ICT for SLE rather than ISL or CU. They are not able to control their use of ICT for SLE in various degrees. However, gender difference in ICT practices is evident. While male students spent more of their time for massively online multiplayer games, female students use ICT largely and mostly to watch online videos.
+There are a number of differences among these three groups of users. First, the emphasis on school development of ICT in education and home-school collaboration is only observed among productive users. Second, supportive parental mediation is not evident among the struggling users. Third, ICT provides opportunities for students to enjoy in their personal playground and to explore in a freer social world. The productive users take ICT use as wonderful opportunities for learning and exploration, the average users take ICT as an instrument for learning as well as entertainment, whereas the struggling users take ICT use as a pathway for self-indulgences.
+A SUMMARY OF FINDINGS
+ICT has almost completely integrated into the everyday lives of students, including learning, entertainment, communication, and social life.
+ICT has blurred the traditional boundary between formal and informal learning, functions as new pathways for student learning. In general, students’ ICT use at home is more than in school.
+Generally speaking, students in Hong Kong are not tech-savvy.
+Some students are lack of cultural or educational resources to build digital skills to effectively use of ICT and have a diversity of applications.
+School development as well as parental mediation has a key role in students’ use of ICT.
+RECOMMENDATIONS
+We would make the following recommendations to relevant stakeholders.
+1. Policy-makers should:
+Provide a clear vision and direction at policy level for the development of ICT in education and curriculum framework to embrace information literacy, new media literacy, and the 21st century skills
+Coordinate multi-stakeholder efforts to bring about greater levels of online safety and ensure there are meaningful opportunities for formal and informal learning
+Extend the concept of ICT access to include digital skills and usage access in continuing efforts to support digitally disadvantaged students, parents, and households
+Promote positive ICT use, and encourage content developers and entrepreneurs to develop content tailored to the needs of different age groups of students
+Provide ICT-related parental mediation programs
+2. Schools should:
+Have a vision on the development of ICT in education, aligned with overall school goals, focusing on using ICT to transform teaching and learning
+Develop whole-school plan for ICT in education and teacher development, and school policies regarding positive uses of technology as well as protocols to deal with instances of online risks
+Adopt ICT along with the increasingly changing wireless and mobile technologies, and ensure provision of digital skills development for teachers and students to explore and enjoy learning opportunities online
+Design and reshape learning environments for the digital generation both in and outside schools
+Promote pedagogical innovation to integrate digital technologies and skills across the curriculum, and provide more opportunities for students’ use of ICT
+Establish home-school collaboration to foster positive, safe, and effective use of technology by students in all educational contexts
+3. Parents should:
+Understand the value of ICT use for empowerment as well as its benefits and risks
+Maintain good family cohesion and set good models for children in ICT use
+Support and guide children’s exploration online from an early age
+Be clear about expectations and rules relating to online behavior
+Enhance children’s ICT use opportunities, coping skills and resilience to potential harm, so that they can effectively negotiate with cyberspace and avoid the risks
+Communicate and discuss regularly with children about what they may find problematic online
+For media enquiries, please contact Ms Queenie Wong, Senior Manager (Development and Communications), Faculty of Education (tel.: 2219 4270 / email: qlpwong@hku.hk). Please visit http://web.edu.hku.hk/media/20150324/ to view the e-version of the press release, powerpoint slides and photos.

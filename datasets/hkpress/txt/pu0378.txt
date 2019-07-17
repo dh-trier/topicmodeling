@@ -1,0 +1,10 @@
+
+[date]2003.11.10[/date]
+[title]PACS helps create "filmless" environment in hospitals[/title]
+Top-notch researchers of The Hong Kong Polytechnic University (PolyU) have expedited the use of a state-of-the-art Picture Archiving and Communication System (PACS) to help create a totally filmless environment for viewing medical images; thereby greatly reducing the risk of contracting SARS and other communicable diseases within the hospital settings.
+Prof. Bernie H.K. Huang, a pioneering expert in using PACS for medical images and Chair Professor of Medical Informatics at PolyU's Faculty of Health and Social Sciences, has introduced to the territory the first home-grown PACS. With the support of the Chinese Academy of Sciences' Shanghai Institute of Technical Physics, the system was successfully installed at PolyU as an unique model for clinic operation and teaching and research purposes.
+Not only does the sophisticated system provides better quality images than film, it also runs much faster on the computer network - especially with PolyU's successful and stable connection to Internet2 since October 2002.
+At the same time, PACS is being gradually phased in three major hospitals, and the system was fully installed in the newly established Tseung Kwan O Hospital.
+Elaborating on its mechanism, Assistant Professor Ms Maria Law Yuen-yee said PACS is essentially a system integration of many components, including radiological image acquisition devices, gateways, computing servers, image display workstations, archival and database management in its communication networks.
+"The PACS system enables hospital networks to manage an increasing number of medical images for patients as more than one physician can view and access high-resolutions image instantly and also via the Internet. It will also streamline workflow and enable hospital to accommodate a larger patient volume more efficiently."
+She added that PACS is capable of incorporating with the rest of clinical data that constitutes a patient record, and the system is commonly adopted as a benchmark of storing medical images in many major hospitals in the United States.

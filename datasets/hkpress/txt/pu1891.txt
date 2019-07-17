@@ -1,0 +1,12 @@
+
+[date]2010.05.20[/date]
+[title]PolyU advances technology for optimizing digital images[/title]
+Computing experts of The Hong Kong Polytechnic University (PolyU) have successfully developed a Digital Video Signals Optimization System which can be applied for digital camera, HDTV and other consumer electronics, enabling consumers to enjoy higher-quality digital images and videos.
+Developed by a research team led by Assistant Professor Dr. Zhang Lei of PolyU Department of Computing, the project was kicked off in 2009 with a $1 million grant from the Government's Innovation and Technology Fund. PolyU researchers have filed a patent for this innovation in Hong Kong and the US.
+The study is purposed to enhance the quality of the digital videos. Compared to the current techniques, PolyU-developed system is better in terms of its multiple functions and potential applications. It can improve the quality of image right from the raw video stage and process short films shot by common home video cameras and mobile phones and even traditional film movies, solving such problems as too many noises and blurs.
+Besides, this optimization system can be used for repairing static digital images. It can reconstruct the blurred videos with its super resolution technology, sharpen the fineness of the image profile, and improve the overall quality of images to the point of meeting the requirement of enlarged poster output. Experiment results proved that the new system is superior to the current ones both in terms of subjective aspect of visual sense and objective measure of PSNR (Peak Signal to Noise Ratio). Its distinct advantageous functions include: (1) Remove the noises of the full-color videos; (2) remove the noises from the raw colour filter array (CFA) videos shot with single CCD cameras; (3) restore the full colour videos from the raw CFA videos; and (4) super resolution.
+Another merit of this system is its super resolution technology, with which it can optimize the video resolution from the standard to the high. The reconstructed videos have no such blurs and lattice effect, and the edge outline can still keep its sharpness and fineness. It is anticipated the new system can be integrated with many kinds of digital image products for the benefits of the consumers.
+On top of filing patent application, the research paper on this technology has been published in the Video Technology periodical of the IEEE Circuit and Systems Society. The innovation will be also shown at the international seminar hosted by the Society.
+
+// 
+

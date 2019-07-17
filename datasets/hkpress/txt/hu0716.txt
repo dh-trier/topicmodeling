@@ -1,0 +1,46 @@
+[title]HKU picks ResearcherID as tool to enhance HKU Scholars Hub Repository[/title]
+[date]16 Dec 2009[/date]
+ 
+                                                  
+HKU is the first institution worldwide to implement ResearcherID successfully across faculties to standardize researcher identifiers and reduce author name ambiguity 
+Hong Kong, Philadelphia, PA, December 16, 2009 - The University of Hong Kong (HKU) has selected ResearcherID by Thomson Reuters to reduce author ambiguity and enhance the robustness of its institutional repository. 
+Known as the HKU Scholars Hub, the repository provides open access support to the university's scholarly content.  To date, more than 900 profiles have been uploaded for the faculties of dentistry, medicine and engineering, making HKU the first institution worldwide to implement ResearcherID on this scale. 
+ResearcherID  (http://www.researcherid.com/)  is a global, multi-disciplinary scholarly research community of authors who are each assigned a unique identifier that eliminates author misidentification and enables instant viewing of his/her citation metrics. 
+HKU worked with a team of Thomson Reuters development technicians to integrate ResearcherID features seamlessly with its institutional repository and workflow in this project spearheaded by HKU's David Palmer, systems librarian and manager of HKU Scholars Hub.
+The researcher, department, faculty and institution will benefit from updated citation counts, profiles and publication data as ResearcherID provides index data from Web of Science®, the largest and most comprehensive citation database available. 
+Said Mr Palmer: "With over 20,000 students and 1,400 faculty members, HKU requires a robust and equally dynamic repository. 
+"When we saw how easily a researcher could solve author misidentification while simultaneously adding relevant citation metrics and collaboration networks to his/her personal profile, we immediately thought of the great benefits ResearcherID could bring our repository if implemented on an institutional scale. The fact that our Romanized Chinese names we face increased chance of name ambiguity only made the matter more pressing." 
+ "The metrics needed to measure HKU research and knowledge exchange with the community are provided by the HKU Scholars Hub and the Web of Science®.  ResearcherID neatly solves the common problems of author and institutional misidentification and allows metrics such as paper and citation counts to be quickly retrieved," he added. 
+"For the first time, Researcher Pages for each HKU researcher in the enhanced Hub show research and metric details in one place. Individual researchers will be able to view their details at one click, as well as those of their colleagues in the next office. Those who seek subject specialists can now easily find our experts. We anticipate a culture change and the appearance of yet more ways the Hub can add and share value," Mr Palmer remarked. 
+A research champion at HKU, Professor Lakshman Samaranayake, Dean of the Faculty of Dentistry, has been very supportive of the ResearcherID initiative and the Hub's display of research of his Faculty.  
+His new Hub Researcher Page (http://hub.hku.hk/rp/rp00023) shows a long history of successful research.  The ResearcherID metrics given there show that this research is of high impact.  
+Professor Samaranayake regarded the new initiatives would help boost the visibility of his Faculty's research: "For research to be relevant, its results must be reported and discussed widely. I see the Hub as pivotal in our efforts to maximize my Faculty's research impact and engage the community with our research."
+With these enhancements, besides a database highlighting the quality research of HKU, the Hub now also acts as: 
+1. an expert finder for Hong Kong Government and industry to find subject specialists for media comment, contract research, and consulting
+2. a system to supply documents and metrics for the upcoming HKU Research Assessment Exercise
+3. a system from which complete publication lists and metrics can easily be exported, to support applications made for the Research Grants Council's grants and others, and
+4. a system that will engage researchers to actively maintain their research profiles and metrics even after publication has been achieved. 
+Web of Science maintains the highest quality through a rigorous selection process, while also being the most comprehensive citation database with unmatched depth. It spans more than a century of cutting-edge research and provides straightforward access to more than 11,000 of the world's leading journals and 110,000 conference proceedings with more than 44 million source records and 700 million references. This coverage, going back as far as 1900 for some journals, includes seminal works of past Nobel laureates that still remain the foundation of today's research.  
+Mr Mark Garlinghouse, senior vice president, Asia Pacific, Healthcare &amp; Science business of Thomson Reuters said: "Name ambiguity is a common issue that impacts research accuracy and quality, tenure, global collaboration and attribution of funding for institutions and individual researchers alike. 
+"ResearcherID represents our continuing effort to simplify institutions' workflow and enhance their institutional repository interface with value-added features that can help them on a larger scale to measure research output and peer benchmarking, and attract more international collaboration as well as funding for research initiatives," he added. 
+Ends 
+About HKU
+Founded in 1911, HKU is Hong Kong's oldest university, with a long heritage of academic excellence and service to the community.  Today, HKU is a world-class comprehensive research-led university, with close to a hundred of its faculty ranked by the Institute for Scientific Information as being among the world's top 1% of scientists. 
+With a strong international outlook and a tradition of English language instruction, HKU attracts the best academic staff and the brightest students from the territory and around the world. The University is committed to nurturing talent and leaders for both the local and global community and to cultivating internationalism on campus. We strongly support international academic collaboration, and staff and student exchanges at all levels, with over 400 higher education institutions. 
+Media contacts:
+Ms Trinni Choy Assistant Director (Media), Communications and Public Affairs Office
++ 852 2859 2606 
+pychoy@hku.hk
+ Ms Melanie Wan (Manager (Media), Communications and Public Affairs Office
++ 852 2859 2600 
+ melwkwan@hku.hk
+About Thomson Reuters
+Thomson Reuters is the world's leading source of intelligent information for businesses and professionals.  We combine industry expertise with innovative technology to deliver critical information to leading decision makers in the financial, legal, tax and accounting, healthcare and science and media markets, powered by the world's most trusted news organization.  With headquarters in New York and major operations in London and Eagan, Minnesota, Thomson Reuters employs more than 50,000 people and operates in over 100 countries. Thomson Reuters shares are listed on the Toronto Stock Exchange (TSX: TRI) and New York Stock Exchange (NYSE: TRI). For more information, go to http://www.thomsonreuters.com/. 
+CONTACT
+Pamela Lim
++65 6411 6737
+pamela.lim@thomsonreuters.com
+Susan Besaw
++1 (215) 823-1840
+susan.besaw@thomsonreuters.com
+

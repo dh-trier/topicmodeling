@@ -1,0 +1,45 @@
+[date]18 February 2016[/date]
+[title]CUHK to Host the Ninth CAS Academicians Lecture Series
+Open for Public Online Registration[/title]
+The Chinese University of Hong Kong (CUHK) will hold the ninth Chinese Academy of Sciences (CAS) Academicians Visit Programme from 23 to 26 February 2016.  Six distinguished CAS academicians including Prof. Yan Jia’an and Prof. Yuan Yaxiang of the Division of Mathematics and Physics, Prof. Shi Yaolin, Prof. Zhang Peizhen and Prof. Chen Fahu of the Division of Earth Sciences, as well as Prof. Zhu Shining of the Division of Technological Sciences will visit CUHK.  During their visit, the academicians will deliver public lectures and meet with CUHK representatives to discuss collaboration opportunities in various fields.
+The academicians will visit the Institute of Space and Earth Information Science, the Departments of Mathematics, Statistics and Electronic Engineering, and also the Earth System Science Programme.  In the afternoon of 24 February 2016 (Wed), they will give public lectures on CUHK campus to share their expertise in their respective fields of research.  The lectures will be conducted in Putonghua.  Members of the public are welcome.  For more information and registration, please visit www.cuhk.edu.hk/oalc/cas_2016 or contact Mr. Simon Leung at 39434412 or via email to simoncnleung@cuhk.edu.hk.
+Prof. Yan Jia’an is well known for his research in probability, particularly in stochastic calculus, the Martingale theory, and the analysis of white noise.  His fundamental contributions in these fields, which include ‘Yan’s lemma’, ‘Yan’s theorem’, ‘Kreps-Yan theorem’, and ‘Meyer-Yan space’, received international recognition and were quoted in the world’s authoritative Encyclopedia of Mathematics.
+Prof. Yuan Yaxiang became the youngest full professor of CAS in 1988.  He is currently the President of the Chinese Mathematical Society (CMS) and the Honorary President of the Operations Research Society of China.  His research interests mainly lie in the fields of computational mathematics, applied mathematics and operations research.  Prof. Yuan is recognized for his contributions to nonlinear optimization, particularly on trust region methods, quasi-Newton methods and nonlinear conjugate gradient methods.
+Prof. Shi Yaolin is an expert on geophysics and geodynamics and a professor of the University of CAS.  He has been instrumental in establishing the Key Laboratory of Computational Geodynamics, CAS, and has yielded a series of fruitful results in quantitative simulated research of geodynamics, thermo-tectonics, analogy of regional geodynamics, physical mechanism of earthquakes and fundamental research in statistical seismology.
+Prof. Zhang Peizhen is a professor of the School of Earth Science and Geological Engineering, Sun Yat-sen University.  He has been conducting research projects on seismic geology and Cenozoic tectonic geology.  Efforts have been put especially into areas like tectonic deformation in mainland China, growth and dynamics of the Tibetan Plateau, current faulting behaviour and recurrence rhythm of strong earthquakes, recent tectonic and climatic changes, as well as the use of GPS technologies in tectonic deformation and seismic activity research.
+Prof. Chen Fahu is the current Director of the Key Laboratory of Western China’s Environmental Systems (Ministry of Education), the Vice-President of the Lanzhou University and the Vice-Chairperson of the Environment Evolution Commission (EEC).  His major research areas include environmental change and also paleoclimate and arid environmental studies, making large contributions to the fields of stratum and climatic records of loess in West China, lake records in arid environments, rapid climatic changes in the late Quaternary period, and also environmental archaeology.
+Prof. Zhu Shining’s research projects focus on nonlinear optics, laser physics, quantum optics and, above all, the development of microstructure metamaterials.  Prof. Zhu is also the President of the Jiangsu Society of Physics, the Vice-Chairperson of the Jiangsu Association for Science and Technology, the Director of the Science and Technology Commission of the State Ministry of Education, and a consultant of the 973 Programme.
+Details of the lecture series are listed below:
+Time
+Speakers
+Topic
+Moderator
+Venue
+14:30
+Prof. Yuan Yaxiang
+A Parallel Line Search Subspace Correction Method for Composite Convex Optimization
+Prof. Zou Jun, Acting Chairman, Department of Mathematics, CUHK
+Room 101, Y.C. Liang Hall
+14:30
+Prof. Chen Fahu
+History and Forcings for Prehistorical Human Occupation of the Tibetan Plateau
+Prof. Lin Hui, Director of the Institute of Space and Earth Information Science, CUHK
+Room 303, Fok Ying Tung Remote Sensing Science Building
+16:30
+Prof. Yan Jia’an
+Stochastic Analysis and Financial Mathematics
+Prof. Shao Qiman, Chairman, Department of Statistics, Choh-Ming Li Professor of Statistics, CUHK
+LT, 9/F, William M.W. Mong Engineering Building
+16:30
+Prof. Zhu Shining
+On Chip Photonics and Optoelectronics
+Prof. Xu Jianbin, Department of Electronic Engineering, CUHK
+L1, Science Centre
+16:30
+Prof. Zhang Peizhen
+Deep Crustal Deformation Constrained From Co-seismic Ruptures Associated with the 2008 Wenchuan Earthquake, Sichuan, China
+Prof. Wong Teng-fong, Programme Director of Earth System Science, CUHK
+LT1, 7/F, Mong Man Wai Building
+17:25
+Prof. Shi Yaolin
+On Earthquake Prediction

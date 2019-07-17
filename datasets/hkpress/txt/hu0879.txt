@@ -1,0 +1,25 @@
+[title]HKU collaborative research discovers a novel molecular mechanism of a new anti-HIV-1 drug candidate[/title]
+[date]23 Apr 2012[/date]
+ 
+HIV-1, the AIDS virus, spreads mainly via unprotected sexual contacts in China including Hong Kong.  Over 90% of recently identified infections is due to sexual transmission in Hong Kong.  After the HIV-1 enters human body, it establishes persistent and latent infections quickly which makes current antiviral therapy fail to cure the patients.  Since an effective AIDS vaccine remains elusive, it is important to develop a highly effective drug to prevent HIV-1 sexual transmission.  With the support of National 11th Five-Year Research Project and HKU Developmental Fund, AIDS Institute of The University of Hong Kong Li Ka Shing Faculty of Medicine discovers a novel molecular mechanism of a potent anti-HIV CCR5 antagonist TD-0680 in close collaboration with Shanghai Targetdrug Co. Ltd, Nanjing University and City University of Hong Kong.  This drug candidate is potent against a clinical CCR5 antagonist-resistant HIV-1, and is an attractive candidate drug for preventing HIV-1 sexual transmission once developed as a topical microbicide gel.  The research article has recently been published in The Journal of Biological Chemistry, a top journal in the area of drug mechanism study.
+Research Background and Methodology
+HIV-1 enters human cells by binding with the human receptor CD4 and a co-receptor CCR5.  Since sexually transmitted HIV-1 strains adhere mainly to CCR5 (i.e. CCR5-tropic), CCR5 antagonist can effectively block the interaction between the virus and CCR5, thus prevent the virus from entering human cells, and thereby, avoid persistent and latent infections.
+To date, Maraviroc is the only CCR5 antagonist approved by the Food and Drug Administration in the United States for clinical treatment.  After almost 5 years of clinical application of this drug, Maraviroc-resistant HIV-1 has already emerged.  It is, therefore, necessary to discover novel CCR5 antagonists and strategies to overcome the resistant virus.  Using viral infection, gene mutagenesis, drug combination assay, molecular modeling and docking, inhibition of monoclonal antibody and other methods, the collaborative team discovered a novel molecular mechanism of a potent anti-HIV CCR5 antagonist (TD-0680).
+Research Results 
+The findings indicated that the small molecule TD-0680 is currently the most potent anti-HIV CCR5 antagonist.  Its antiviral activity is several to over ten-fold higher than Maraviroc.  TD-0680 displays broad reactivity against both human and monkey AIDS viruses.  Besides inhibiting cell-free viruses, it also blocks cell-mediated viral transmissions with similar potency, which is over one thousand-fold better than a reverse transcriptase inhibitor Tenofovir (TDF).  A vaginal microbicide gel containing TDF was shown to reduce HIV-1 infection rates by 39% recently.  In addition, TD-0680 is potent against a known Maraviroc-resistant HIV-1.
+The newly discovered molecular mechanism of TD-0680 involves the blockade of two functional regions of CCR5, which forms a tougher barrier as if a door with double locks to prevent virus from entering the target cell.  The study is the first discovery of a CCR5 antagonist which uses such a unique mechanism.
+Research Implications
+The principal investigator of the study, Dr. Zhiwei CHEN, Director of AIDS Institute of The University of Hong Kong Li Ka Shing Faculty of Medicine emphasises "Unprotected sexual contact is the major risk factor for the spread of HIV/AIDS among general populations in China.  In 2011, it has led to a record high of HIV infections in Hong Kong.  It is urgently needed to discover a biomedical means to prevent HIV sexual transmission, which is important for AIDS prevention in China and in the world."  He adds, "The ideal solution is to develop an effective vaccine.  Since such a vaccine remains elusive, we must explore other strategies such as topical microbicide.  The discovery of the mechanism and potency of TD-0680 is encouraging.  It may not only be developed as a therapy for treating AIDS patients, but may also be used to prevent HIV sexual transmission after being formulated into vaginal or rectal microbicide gels, therefore giving people, especially women, an alternative method to protect themselves from the virus, in addition to condoms."  
+
+
+Dr Zhiwei CHEN, Director of AIDS Institute, The University of Hong Kong Li Ka Shing Faculty of Medicine, says the novel CCR5 antagonist (TD-0680) may be formulated into microbicide gels to prevent spread of HIV/AIDS through sexual transmission.
+ here.
+
+Dr Zhiwei CHEN, Director of AIDS Institute, The University of Hong Kong Li Ka Shing Faculty of Medicine, says the novel CCR5 antagonist (TD-0680) may be formulated into microbicide gels to prevent spread of HIV/AIDS through sexual transmission.
+
+
+
+Dr Zhiwei CHEN, Director of AIDS Institute, The University of Hong Kong Li Ka Shing Faculty of Medicine (middle in the front row), and his research team
+
+
+

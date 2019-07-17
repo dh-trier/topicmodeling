@@ -1,0 +1,26 @@
+[date]23 September 2014[/date]
+[title]CUHK Reveals Effectiveness of TEA for Treating Liver Cancer with a 70% Chance of Completely Destroying Tumor[/title]
+The Faculty of Medicine at The Chinese University of Hong Kong (CUHK) has recently achieved a breakthrough in research on the treatment of primary liver cancer (hepatocellular carcinoma, HCC). Comparing with the conventional Transarterial chemoembolization (TACE), the research team proved that the new Transarterial Ethanol Ablation (TEA) is more effective in killing cancer cells with a 70% chance of completely destroying the tumor. This pioneering research was presented with the Best Paper Award in the Congress of Interventional Oncology in 2013 and published in an international leading medical journal, Radiology, in 2014. 
+Hepatocellular carcinoma (HCC) is the fourth leading cause of cancer deaths worldwide, particularly common in Asian countries. More than 700,000 people are newly diagnosed with the disease globally every year. According to the Department of Health, HKSAR Government, there were on average 1,798 new cases of HCC and 1,501 deaths due to HCC annually in Hong Kong between 2008 and 2013. 
+Patients with early stage of HCC are treated with liver resection or local ablation, which are applicable to about 30% of all patients. For patients with intermediate stage of the cancer, liver resection or local ablation is no longer an option, they account for another 30% of all patients and are treated with transarterial therapy. For patients with advanced disease, molecular targeted therapy or supportive care will be given. 
+Transarterial therapy is the most common treatment for primary liver cancer, it is proved effective in prolonging patient survival, and can be given repeatedly if necessary, therefore it plays an important role in the treatment algorithm of liver cancer. Conventional transarterial chemoembolization (TACE), a method that was introduced thirty years ago, is currently the most common form of transarterial treatment for primary liver cancer in Hong Kong and all over the world. Although other forms of transarterial treatment have been introduced in the recent five to ten years, such as drug-eluting beads and selective internal radiation (radioembolization), these treatments have not gained popularity because they have not been shown to be more effective than conventional TACE in recent researches, and they are much more expensive. 
+Prof. Simon Yu, Professor of the Department of Imaging and Interventional Radiology at CUHK and Director of Vascular &amp; Interventional Radiology Foundation Clinical Science Centre, CUHK, has started his research on the use of TEA for treating HCC since 2001. Through animal experiments, pharmacokinetics and clinical studies, the treatment was found to be safe and effective. According to his research, treatment related mortality was 0%. The median overall survival rate of patients after treatment was 26 months, much longer than the 6 months median overall survival in patients without treatment. To compare the safety and effectiveness of TEA versus TACE for treating HCC, the research team led by Prof. Yu conducted a randomized controlled trial from 2007 to 2012. Patients with intermediate stage HCC, aged 26 to 88, were randomly assigned into two groups. Each group consisted of 48 patients who received TEA and TACE respectively. The findings showed 0% treatment related mortality in both groups and indicated no difference in treatment safety between TEA and TACE. Most importantly, TEA was found to be more effective in completely eradicating tumor cells within the tumor, compared with TACE. 
+
+ 
+TEA
+TACE
+
+Complete absence of tumor in 3 months
+70.5％
+51.3％
+
+Median progression free survival
+14.8 months
+9.3 months
+
+Median overall survival
+24.3 months
+20.1 months
+
+Professor Yu pointed out that the finding is a breakthrough for transarterial treatment of HCC. 'Our research team will continue to conduct research in order to further improve the effectiveness of TEA.'
+The research team is now recruiting patients with HCC for the second round of research. Inclusion criteria include tumors of intermediate tumor stage, not more than 5 tumors, not more than 12cm and not received any treatment before. Interested patients are invited to contact the research team at 26323211 or 26322046.

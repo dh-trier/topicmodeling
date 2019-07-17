@@ -1,0 +1,34 @@
+
+[date]2007.06.11[/date]
+[title]PolyU takes steps to rectify distribution of students’ examination results[/title]
+With the joint efforts of its Academic Secretariat and Information Technology Services Office, The Hong Kong Polytechnic University (PolyU) is taking active steps and all necessary measures to tackle an incident which led to the erroneous distribution of some students' examination results through the campus email system.
+Speaking at a press briefing, Academic Secretary Mrs Nancy Tong and Acting Director of Information Technology Services Mr Fleming Woo said: 'PolyU accords paramount importance in protecting personal information of our students. We deeply regret the occurrence of this most unfortunate incident and fully recognise its seriousness.'
+According to schedule, examination results should have been sent out to 25,365 students through the University's campus email system on 8 June (Friday) by 7.15 pm. The system was suspended at 8.15 pm as soon as the University discovered that some students have received examination results of other students.
+It is estimated that some 1,780 students might have received other students' examination results. The University has issued a circular explaining this matter and strongly urge them to delete such records to protect the privacy of other students. 
+As a precautionary measure, the University has retracted on Sunday all emails containing examination results that were still kept in its campus email system. Meanwhile, students can logon to the University's Intranet to view their examination results.
+The University has also conducted internal investigation on this incident and initial findings suggested that it was probably caused by a human error. 
+The University pledged to further improve its system and workflow to prevent such incident from occurring again in the future.
+A chronology of the incident and actions taken was given in the appendix.
+Appendix
+A Chronology of the Examination Results Notifications Incident
+Date: 8 June (Friday)
+
+6.00 pm
+ As in previous years, the University started sending out Examination Results Notification (ERN) mails through the Campus Email System upon finalisation of the results.
+7.15 pm 
+ Distribution of ERN to 25,365 students completed.
+7.40 pm 
+ The University discovered that some students have received other students' examination results. 
+8.15 pm
+ Campus Email System shutdown.
+Date: 9 June (Saturday)
+
+Morning onwards
+As in previous years, students are given access to view their examination results through the University's Intranet.
+Date: 10 June (Sunday)
+
+Morning Onwards 
+While Campus Email System was still suspended, all ERN that were still stored in the incoming mailbox were retracted. Further checking was also performed on the system.
+It is also estimated that some 1,780 students might have already opened faulty ERN before system shutdown or forwarded the ERN elsewhere through automatic forwarding of messages. 
+8.15 pm
+Campus Email System resumes operation. A circular was sent through email to all students explaining this incident and conveying the university's apology. They were also strongly urged to delete faulty records which they have forwarded elsewhere to protect the personal information of other students. 

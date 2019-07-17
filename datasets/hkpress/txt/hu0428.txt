@@ -1,0 +1,19 @@
+[title]Association for Computing Machinery – Hong Kong Chapter University students take the programming challenge[/title]
+[date]20 Jun 2003[/date]
+ 
+The Collegiate Programming Contest (CPC) and Chinese Checkers Competition (CCC), jointly organized by Association for Computing Machinery --- Hong Kong Chapter (ACM-HK) and the Department of Computer Science and Information Systems, The University of Hong Kong, will be held on 2003-06-24[Tuesday] in Loke Yew Hall of The University of Hong Kong.CPC is the largest programming contest for tertiary institution students in Hong Kong, and CCC is the only competition of its kind.The two events are supported by generous sponsorship from Dell Computer Corporation. Technical and logistics support are also given by the Department of Computer Science and Information Systems, The University of Hong Kong.Last year, 20 teams participated in CPC, including one from University of Macau and an observer team, The Hong Kong Olympiad in Informatics, consisting of secondary school students.This year, the number of teams registered is comparable to last year's. 
+Teams participating in the Collegiate Programming Contest need to solve, as many as possible, the six programming problems distributed to them.Teams solving the same number of questions are differentiated using the accumulated amount of time needed to solve these questions.In order to minimize the number of incorrect submissions, a penalty of 20 minutes are imposed to teams submitting each incorrect answer.A submitted program is considered to be correct if it can pass all the test cases the judges have.Since time is limited and each team has only one set of computer, the contest not only tests how good the team are at programming, but also their problem analysis and problem solving techniques under pressure, as well as their ability to cooperate among themselves. 
+Chinese Checkers Competition participants submit programmes that play Chinese Checkers on Linux. Each program is given five minutes of CPU time to finish all its moves.A judge program running on the same machine will mediate the communication between competing programs to determine the winner, and a graphical display of the progress will be shown. 
+The rundown of the CPC and CCC are as follows: 
+10:45amRegistration at Loke Yew Hall 
+11:00amBriefing by Chair 
+11:15am -12:00nnTesting of machines and system 
+12:00nn - 1:30pmLunch 
+1:30pmReporting and admission to competition venue 
+1:45pmCPC Competition starts 
+2:00pmCCC starts 
+5:45pmCPC Competition ends 
+6:00pmCCC ends 
+7:00pm - 9:00pmDinner and award presentation 
+A dinner will be held at the Asia Pacific Catering in HKU.A prize presentation ceremony will be held during dinner for both the CPC and CCC winners. 
+ 

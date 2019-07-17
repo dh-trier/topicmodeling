@@ -1,0 +1,89 @@
+[date]11 July 2016[/date]
+[title]CUHK Wins Top Prizes at ‘Challenge Cup’ National Competition Hong Kong Regional Final[/title]
+Fourteen teams from The Chinese University of Hong Kong (CUHK) have recently swept up top awards in the ‘Challenge Cup’ National Competition Hong Kong Regional Final – Hong Kong University Student Innovation and Entrepreneurship Competition 2016, including the Grand Prize of the two categories, namely ‘Innovation’ and ‘Entrepreneurship’, 4 first-class awards, 7 second-class awards and 3 third-class awards, as well as the Outstanding Organization Award. CUHK also received the highest number of awards from the competition amongst the participating tertiary institutions.
+More than 200 students from 13 tertiary institutions with over 100 projects participated in the competition.  The winning teams of the Entrepreneurship category will represent Hong Kong at the biennial ‘Chuang Qing Chun’ National Entrepreneurship Competition 2016 held at Sichuan in November.
+The project winning Grand Prize for innovation and also the First-Class Award of Mechanical and Control System is a vacuum nanoimprinting system developed by CHEN Jianwei, a PhD student from the Multiscale Precision Instrumentation Laboratory of the Department of Mechanical and Automation Engineering. Presently, there is no practical way to fabricate patterns on nonplanar substrates. The system can generate a significant impact in the manufacturing industry by presenting a new nanomanufacturing platform for fabricating multi-layer 2D/3D precision structures on nonplanar substrates in a parallel and cost effective way.
+An Anti-loss Solution by two CUHK graduates, Mr. KUO Wai Keung from the Department of Information Engineering and Mr. LAU Pak Lam from the Department of Finance was awarded the Grand Prize in Entrepreneurship. Their project involves the installation of a Bluetooth device in handbags and wallets. With the tailor-made module in mobile applications, the device will alert users if their valuables are located beyond the designated distance. Furthermore, the anti-fake function of the system enables the users to easily check the authenticity of products. The project also won the First-Class Award of Newly Established Enterprise.
+Another winning project First-Class Award of Information Technology is called the Continuous Blood Pressure Monitoring System from Face Recognition. It is by two students, LO Po Wen, an MPhil student, and WANG Chaoqun, a PhD student, both from the Department of Electronic Engineering. The system aims at developing a novel physiological monitoring system based on optical recordings and face recognition technique. It facilitates real time contactless monitoring over a long distance and enables physicians to monitor the real-time situation of multiple patients.
+List of awarded projects:
+
+Award
+Name of Project
+Name of Students
+Affiliated Departmnt
+
+Category: Innovation
+
+Top Prize and First-Class
+Development of a Vacuum Nanoimprinting System for Low-cost Parallel Nanomanufacturing
+CHEN Jianwei
+Department of Mechanical and Automation Engineering
+
+First-Class
+VibroSAC—A Smart Cushion with Intermittent Vibration for Lowering Buttock Pressure Ulcers Risk
+LIU Shiyue, YAO Yifei, JIANG Baiyan
+Biomedical Engineering Programme
+
+First-Class
+Continuous Blood Pressure Monitoring System from Face Recognition
+LO Po Wen, WANG Chaoqun
+Department of Electronic Engineering
+
+Second-Class
+Jamming integrated compliant compressor for SBRT immobilization
+Zhou Xi, Wang Ji, Li Chenglin, Wang Dien
+Department of Mechanical and Automation Engineering
+
+Second-Class
+A novel supramolecular hydrogel with enhanced mechanical properties
+LAU Wing Yee
+Biomedical Engineering Programme
+
+Second-Class
+Unmanned Wireless Underwater Photography Submarine
+ZHANG Yuanming      
+Department of Mechanical and Automation Engineering
+
+Second-Class
+A 3D-Printable, Servo-Motor Driven, Hingeless Prosthetic Hand Under US $100
+CHAN Sau Kin
+Department of Mechanical and Automation Engineering
+
+Category: Entrepreneurship
+
+Top Prize and First-Class
+R-Guardian-Smart Personal belongings solution
+KUO Wai Keung, LAU Pak Lam
+Department of Information Engineering; Department of Finance in Insurance, Financial and Actuarial Analysis
+
+Second-Class
+Knowledge Vending
+LAU Ka Yu, NG Wai Lam, TSANG Yuk Ting, WONG Tsz Ching
+Interdisciplinary Major Programme in Global Economics and Finance; Integrated Bachelor of Business Administration Programme
+
+Second-Class
+Getaway
+WANG Chak Wai William, MUI Ka Chiu James, NG Cheuk Ming Harrison
+Quantitative Finance and Risk Management Science; Insurance, Financial and Actuarial Analysis; Department of Computer Science and Engineering
+
+Second-Class
+Mag-dical
+VONG Chi Ian, LIU Wai Shing
+Department of Mechanical and Automation Engineering
+
+Third-Class
+Wearable Robotic Device for patients of Parkinson's Disease
+Huen Yin Fan Denis
+Department of Physics
+
+Third-Class
+Smart Health &amp; Fitness Device
+ZHOU Li, QIN Lai Yin, MA Hao, ZHONG Chun Hao
+Department of Mechanical and Automation Engineering; Department of Biomedical Engineering
+
+Third-Class
+GETSBY-Finds your Talent, Gets your Hobby (Mobile Application)
+YING Yau Kit Stanley, CHAN Ho Ting Philip
+Centre for Financial Engineering; Quantitative Finance and Risk Management Science
+
+ 

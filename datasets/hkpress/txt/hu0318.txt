@@ -1,0 +1,43 @@
+[title]HKU Science Faculty introduces new major ‘Decision Analytics’ andenhances its Science Research Fellowship Scheme for JUPAS students[/title]
+[date]18 May 2015[/date]
+ 
+Professor Li Wai Keung, Head of Statistics and Actuarial Science, HKU Faculty of Science
+Amidst an upsurge of digital data produced worldwide nowadays, the Faculty of Science at the University of Hong Kong will launch a new major ‘Decision Analytics’ in its 6901 BSc Programme. The new major programme aims to equip students with the skills and expertise in leveraging and managing big data in real time. It is the most comprehensive major locally that integrates computer technologies and statistical techniques to analyse data and formulate data-driven strategies. Realising how early research experiences enrich undergraduates’ studies, the Faculty also aspires to augment such opportunities for exceptionally talented students by introducing the Science Research Fellowship Scheme. Both of the aforementioned will be open to JUPAS students admitted to 6901 Bachelor of Science Programme this September. 
+Decision Analytics — Solution to Megadata
+There are always challenges to complex data processing, be it data extract, analysis and visualisation, as inaccuracy of data processing might hinder confident decision making. The emergence of high-performance analytics opens a new frontier in the aspect. With greater clarity and accuracy, it facilitates better decision-making and resource allocation at minimal risk. Real-life examples of such breakthrough can be best illustrated by the following use of Wi-Fi connection data. For example, most shopping centres now provide free Wi-Fi connection, the location of shoppers can be identified when they connect their devices to Wi-Fi and walk around in a shopping centre. Through analysing consumers’ patterns of shopping behaviour, e.g. shopping routes, duration of their stay at different shops, etc., one can pinpoint interesting features about any specific shopping centres including but not limited to customer flow, degree of accessibility and visibility of different shop locations and facilities, at different times of a year. The extracted information can then be used for rent positioning, operational and manpower management, and promotional event planning. This is just one of the many examples of how Decision Analytics can be applied to our everyday life.
+Core courses in the new major Decision Analytics emphasise the fundamental concepts and methodologies of decision analytics which include but not limited to statistical analysis, data mining and data visualisation, programming, data structuring, mathematical and statistical modelling and implementation of database systems. Elective courses focus on diverse and applied techniques of decision analytics in multidisciplinary fields. The design of the curriculum acquaints students with dynamic analytical tools, enhances their proficiency in implementation of advanced modelling techniques and database management, and allows them to translate and communicate technical information with collaborators effectively.
+Seeing the need of professionals in the discipline, Head of Department of Statistics and Actuarial Science Professor Li Wai Keung remarked that the launch of the new major would place HKU again at the frontier of providing state-of-the-art education for its students. “‘Big Data’ has become a popular topic of conversation in town,” said Professor Li, “much has been said about it but exactly what it means is a kind of mystery. The new major aims at equipping students with the fundamental principles and tools in understanding and coming to terms with ‘Big Data’, so that information embedded in such data may be usefully exploited. Applications of Decision Analytics are virtually to all kinds of disciplines: science, social science, education, engineering, medicine, economics and business, etc. Clearly the new major will also help Hong Kong in maintaining its competitive edge in innovation and technology.”
+For the full list of the 16 majors in 6901 BSc Programme, please see supplementary information.
+Early Research Experience for Talented Undergraduates
+The Science Research Fellowship Scheme, designed to nurture future leaders in science, is launched to provide exceptionally talented undergraduate students with the golden opportunities to earn early research experience during their undergraduate studies. Students admitted to the 6901 Bachelor of Science programme through JUPAS with a total score for the best 5 HKDSE subjects (Category A or C subjects or Extended Module 1 or 2 of  Mathematics)  of 31 or above will be automatically accepted to this scheme from academic year 2015-16.
+Students accepted to the Scheme will be guaranteed of a place to participate in the Faculty’s Summer Research Fellowship (SRF) in a research laboratory of a Science Professor in the summer after the completion of their first year of study. They have further opportunities to participate in other UG research schemes such as another SRF or Overseas Research Fellowship (ORF) in subsequent years subject to satisfactory academic performance. They will also be mentored individually by renowned academics from the start of their undergraduate study. The mentor will offer expert advice in course selection to facilitate them in building a good foundation for research, and assist them in identifying interesting research field and finding a suitable research supervisor.
+To enhance students’ learning experiences, the Faculty has increased both stipend and opportunities available for students. Together with the University Undergraduate Research Fellowship Programme (URFP), students are exposed to ample authentic learning opportunities of research experiences, of which an extensive array of professional and personal benefits are revealed.
+For unique research experience of our students, please view our latest newsletter with the following link: http://www.scifac.hku.hk/file/newsletter/2663/Newsletter_Apr_2015.pdf
+Illustrations can be obtained by internet via http://www.scifac.hku.hk/news/media?page=1
+For press enquiry, please contact Ms Cindy Chan, Senior Communication Manager of Faculty of Science, at 3917-5286/ 6703-0212 or by email at cindycst@hku.hk.
+Supplementary Information
+6901 Bachelor of Science Programme 
+One entry in the application, with a choice of 16 Science majors:
+
+Astronomy   
+Biochemistry       
+Biological Sciences
+Chemistry
+Decision Analytics  
+Earth System Science
+
+Ecology &amp; Biodiversity
+Environmental Science
+Food &amp; Nutritional Science
+Geology
+Mathematics
+
+Mathematics/ Physics
+Molecular Biology &amp; Biotechnology
+Physics
+Risk Management
+Statistics
+
+  (new major to be introduced in 2015-16)
+
+

@@ -1,0 +1,23 @@
+[title]HKU Academic Ranks No. 8 Worldwide in IS Publication Productivity[/title]
+[date]08 Jun 2005[/date]
+ 
+Professor Patrick Y K Chau, Professor of Information Systems and Associate Dean of the Faculty of Business and Economics of the University of Hong Kong (HKU) was ranked 8th productive information systems (IS) scholar worldwide, according to a study on publication productivity of IS researchers published in the recent issue of the Communication of the Association for Information Systems (CAIS)#1.
+In a paper entitled An Evaluation of Publication Productivity in Information Systems: 1999 to 2003, two academics from National Chung Cheng University, Taiwan, collected information about IS papers published in the top twelve academic journals that publish IS research #2 during this period.All research papers published in these journals were included in a database.After removing non-IS papers, 1,597 papers and 2,442 researchers were involved.Professor Chau published 12 papers, ranked No. 8 worldwide and was the only scholar in Asia on the top 10 list. The top ten IS researchers are:
+1. J. Jiang (University of Central Florida, U.S.A.)
+2. G. Klein (Universiyt of Colorado, U.S.A.)
+3. V. Glover (Clemson University, U.S.A.)
+4. A. Whinston (University of Texas at Austin, U.S.A.)
+5. I. Benbasat (University of British Columbia, Canada)
+6. R. Kauffman (University of Minnesota, U.S.A.)
+7. J. Nunamaker (University of Arizona, U.S.A.)
+8. P. Chau (University of Hong Kong, Hong Kong)
+9. D. Straub (Georgia State University, U.S.A.)
+10. R. Agarwal (University of Maryland, U.S.A.)
+Professor Chau was encouraged to learn the news."I am very honoured by the ranking," said Professor Chau, "It certainly encourages me to devote greater effort to IS research."He also said, "One of my recent research projects is how firms in China are assimilating Internet technologies in their business operations to improve its efficiency.I hope my research results can help companies in the Mainland gain further competitive advantage."
+After graduating with a PhD in business administration from the Richard Ivey School of Business, The University of Western Ontario, Canada, Professor Chau returned to Hong Kong in 1992, and joined the School of Business, HKU in May 1999.In 2000, he developed the double-degree undergraduate program in Information Systems and Software Engineering at HKU with an aim to nurture information technology specialists for the business communities in Hong Kong and China.
+For media enquiries, please contact Miss Jamie Lee of Faculty of Business and Economics at 2857 8215.
+A photo of Professor Patrick Y K Chau can be found at: http://www.hku.hk/eroesite/html/press/pchau.jpg.
+Remarks:
+#1 Communication of the Association for Information Systems (CAIS) is an official publication of the Association for Information Systems (AIS) which has its headquarters in Atlanta, Georgia, U.S.A. and is the premier global organisation for academics specialising in information systems with more than 4,000 members worldwide.
+#2 The twelve journals selected in this study include: Communications of the ACM, Decision Sciences, Decision Support Systems, Harvard Business Review, IEEE Transactions on Software Engineering, Information &amp; Management,Information Systems Research, Journal of AIS, Journal of MIS, Management Science, MIS Quarterly, and Sloan Management Review.
+ 
