@@ -11,7 +11,7 @@ import helpers
 
 
 def visualize_model(model, dictcorpus, vectorcorpus, vizfile):
-    visualization = pyLDAvis.gensim.prepare(model, vectorcorpus, dictcorpus, sort_topics=False)
+    visualization = pyLDAvis.gensim.prepare(model, vectorcorpus, dictcorpus, sort_topics=False, mds="mmds")
     pyLDAvis.save_html(visualization, vizfile)
 
 
@@ -22,4 +22,4 @@ def main(workdir, identifier):
     dictcorpus = helpers.load_pickle(workdir, identifier, "dictcorpus.pickle")
     vectorcorpus = helpers.load_pickle(workdir, identifier, "vectorcorpus.pickle")
     visualize_model(model, dictcorpus, vectorcorpus, vizfile)
-    print("done visualizing")
+    print("done making LDAviz")

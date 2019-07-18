@@ -25,22 +25,24 @@ def load_text(textfile):
 
 def prepare_text(text):
     poslist = ["NN", "NNS", "JJ", "JJR", "VB", "VBZ", "VBG", "VBN"]
-    stoplist = ["date", "title", "is", "be", "hku.hk", "have", "say", "make", "use", "eye", "do"]
-    prepared = [item[0].lower() for item in text.tags if item[1] in poslist and len(item[0]) > 5 and item[0].lower not in stoplist]
+    stoplist = ["date", "/date", "title", "/title", "is", "be", "been", "am", "are", "have", "has", "had", "say", "said", "make", "makes", "made", "use", "used", "do", "did", "done"]
+    prepared = [item[0].lower() for item in text.tags if item[1] in poslist]
+    prepared = [item for item in prepared if len(item) > 1 and item not in stoplist]
     return prepared
     
 
-def main(workdir, identifier): 
+def main(workdir, dataset, identifier): 
     print("\n== preprocessing ==")
     alltextids = []
     allprepared = []
-    textpath = join(workdir, "datasets", identifier, "txt", "*.txt")
-    for textfile in glob.glob(textpath):
+    textpath = join(workdir, "datasets", dataset, "txt", "*.txt")
+    for textfile in sorted(glob.glob(textpath)):
         textid = basename(textfile).split(".")[0]
         alltextids.append(textid)
         text = load_text(textfile)
         prepared = prepare_text(text)
         allprepared.append(prepared)
+        #print("done with:", textid)
     helpers.save_pickle(allprepared, workdir, identifier, "allprepared.pickle")
     print("files processed:", len(allprepared))
                           
