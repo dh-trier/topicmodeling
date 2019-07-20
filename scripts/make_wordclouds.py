@@ -2,6 +2,10 @@
 
 """
 Topic modeling with gensim: make wordclouds.
+
+Creates a wordcloud for each topic in the model. 
+
+See: https://amueller.github.io/word_cloud/
 """
 
 

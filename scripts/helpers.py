@@ -1,5 +1,7 @@
 """
 Topic Modeling with gensim: helper functions.
+
+This module provides some helper functions used by various other modules.
 """
 
 import os
@@ -10,6 +12,9 @@ from gensim import models
 
 
 def make_dirs(workdir, identifier):
+    """
+    Creates the folders required by the subsequent modules.
+    """
     picklesfolder = join(workdir, "results", identifier, "pickles", "")
     if not os.path.exists(picklesfolder):
         os.makedirs(picklesfolder)
@@ -22,12 +27,18 @@ def make_dirs(workdir, identifier):
 
 
 def save_pickle(data, workdir, identifier, picklename):
+    """
+    Save any intermediary data to the Python binary file format for retrieval later on.
+    """
     picklesfile = join(workdir, "results", identifier, "pickles", picklename)
     with open(picklesfile, "wb") as filehandle:
         pickle.dump(data, filehandle)
 
 
 def load_pickle(workdir, identifier, picklename):
+    """
+    Load any intermediary data from a previous step for further processing.
+    """
     picklesfile = join(workdir, "results", identifier, "pickles", picklename)
     with open(picklesfile, "rb") as filehandle:
         data = pickle.load(filehandle)
@@ -35,18 +46,17 @@ def load_pickle(workdir, identifier, picklename):
 
 
 def save_model(workdir, identifier, model):
+    """
+    Save a gensim model to file for later use.
+    """
     modelfile = join(workdir, "results", identifier, "model", identifier+".gensim")
     model.save(modelfile)
 
 
 def load_model(workdir, identifier): 
+    """
+    Load a gensim model file for further processing.
+    """
     modelfile = join(workdir, "results", identifier, "model", identifier+".gensim")
     model = models.LdaModel.load(modelfile)
     return model
-
-
-def load_corpus(workdir, identifier):
-    corpusfile = join(workdir, "results", identifier, "pickles", "vectorcorpus.pickle")
-    with open(corpusfile, "rb") as filehandle:
-        corpus = pickle.load(filehandle)
-        return corpus

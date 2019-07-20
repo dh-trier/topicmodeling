@@ -2,6 +2,12 @@
 
 """
 Topic Modeling with gensim: Heatmap.
+
+Based on a split of the data by some metadata category, 
+provide a heatmap visualization of most distinctive topics for
+each category.
+
+See: https://seaborn.pydata.org/
 """
 
 # == Imports ==
@@ -13,11 +19,12 @@ import seaborn as sns
 import numpy as np
 
 
-# == Parameters ==
-
 # == Functions
 
 def load_mastermatrix(mastermatrixfile):
+    """
+    Loads the mastermatrix generated in postprocessing.py. 
+    """
     with open(mastermatrixfile, "r", encoding="utf8") as infile:
         mastermatrix = pd.read_csv(infile, sep=";")
         mastermatrix = mastermatrix.drop("Unnamed: 0", axis=1)
@@ -26,6 +33,11 @@ def load_mastermatrix(mastermatrixfile):
 
 
 def group_data(mastermatrix):
+    """
+    Discards the metadata categories that are not of interest here (drop). 
+    Calculates the mean topic score for the metadata category of interest. 
+    Selects the 10 most varying topics across the metadata category.
+    """
     mastermatrix = mastermatrix.drop(["year", "idno"], axis=1)
     data = mastermatrix.groupby(["univ"]).mean().T
     # select topics with maximum variance for visualization
@@ -37,10 +49,11 @@ def group_data(mastermatrix):
 
 
 def make_heatmap(data, heatmapfile):
+    """
+    Using the seaborn library, creates a heatmap of the selected data.
+    """
     plot = sns.heatmap(data, linewidths=.5, annot=True, cmap="YlGnBu")
     plot.get_figure().savefig(heatmapfile, dpi=400)
-
-
 
 
 # == Coordinating function ==

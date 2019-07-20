@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 
 """
-Topic Modeling with gensim: Visualization.
+Topic Modeling with gensim: Overview visualization.
+
+Using the pyLDAvis library, provides an interactive overview 
+visualisation of the topic model.
+
+See: https://pyldavis.readthedocs.io/en/latest/
 """
 
 from os.path import join

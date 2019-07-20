@@ -1,17 +1,31 @@
 """
 Topic Modeling with gensim: postprocessing.
+
+This module performs postprocessing of the raw gensim model output.  
+It creates a list of words with top probability for each topic. 
+It creates a list of word probabilities in each topic. 
+And it creates a matrix of topic probabilities by document in the corpus. 
+Also, it creates a so-called mastermatrix
+that combines the metadata with the topic scores per document.
+
+See: https://pandas.pydata.org/
+
 """
 
-# == Imports
+# == Imports == 
 
 from os.path import join
 import pandas as pd
 import helpers
 
 
-# == Functions: extract basic information
+# == Functions: extract basic information == 
 
 def get_topics(model, numtopics, resultsfolder): 
+    """
+    Extracts the probabilities for the top 50 words in each topic. 
+    Saves this data to a CSV file.
+    """
     print("get_topics")
     topics = []
     for i in range(0,numtopics): 
@@ -26,6 +40,11 @@ def get_topics(model, numtopics, resultsfolder):
 
 
 def get_topicwords(model, numtopics, resultsfolder): 
+    """
+    Extracts the top 50 words in each topic, 
+    in descending order of probability. 
+    Saves this data to a CSV file.
+    """
     print("get_topicwords")
     topicdata = model.show_topics(num_topics=numtopics, num_words=50,formatted=False)
     topicwords = [(tp[0], [wd[0] for wd in tp[1]]) for tp in topicdata]
@@ -38,6 +57,11 @@ def get_topicwords(model, numtopics, resultsfolder):
     
 
 def get_doc_topic_matrix(vectorcorpus, model, resultsfolder): 
+    """
+    Creates a document y topic matrix that shows the topic probability 
+    for each topic in each document.
+    Saves this data to a CSV file.
+    """
     print("get_topic_matrix")
     document_topics = model.get_document_topics(vectorcorpus, per_word_topics=True)
     doc_number = 0
@@ -54,26 +78,41 @@ def get_doc_topic_matrix(vectorcorpus, model, resultsfolder):
         all_doc_topics.to_csv(outfile, sep="\t")
 
 
-# == Functions: make mastermatrix
+# == Functions: make mastermatrix ==
 
 def load_metadata(metadatafile):
+    """
+    Loads the metadata file from disk.
+    Provides it as a pandas DataFrame.
+    """
     with open(metadatafile, "r", encoding="utf8") as infile:
         metadata = pd.read_csv(infile, sep=",")
         return metadata
 
 
 def load_doc_topic_matrix(dtmatrixfile):
+    """
+    Loads the document x topic matrix from the previous step.
+    Provides it as a pandas DataFrame.
+    """
     with open(dtmatrixfile, "r", encoding="utf8") as infile:
         dtmatrix = pd.read_csv(infile, sep="\t", index_col="Unnamed: 0")
         return dtmatrix
 
 
 def merge_matrices(metadata, dtmatrix):
+    """
+    Merges the metadata matrix and the document x topic matrix on the index.
+    Returns the result as a pands DataFrame.
+    """
     mastermatrix = metadata.merge(dtmatrix, right_index=True, left_index=True)
     return mastermatrix
 
 
 def save_mastermatrix(mastermatrix, mastermatrixfile):
+    """
+    Saves the mastermatrix to disk as a CSV file.
+    """
     with open(mastermatrixfile, "w", encoding="utf8") as outfile:
         mastermatrix.to_csv(mastermatrixfile, sep=";")
         

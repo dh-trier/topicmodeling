@@ -3,10 +3,17 @@
 """
 Topic Modeling with gensim: Preprocessing.
 
-TextBlob: https://textblob.readthedocs.io/en/dev/index.html
+Provides preprocessing for the input text files. 
+Adds linguistic annotation using TextBlob. 
+Uses this information to filter the tokens in the documents. 
+Works for English, French and German only!
+For other languages, you need a different annotation tool.
+
+See: https://textblob.readthedocs.io/en/dev/index.html
 """
 
 
+# == Imports == 
 
 import os
 import glob
@@ -16,22 +23,47 @@ from textblob import TextBlob as tb
 import helpers
 
 
+# == Functions ==
+
 def load_text(textfile):
+    """
+    Loads a single plain text file. 
+    Provides the content as a string.
+    """
     with open(textfile, "r", encoding="utf8") as infile:
         text = infile.read()
-        text = tb(text)
         return text
 
 
-def prepare_text(text):
-    poslist = ["NN", "NNS", "JJ", "JJR", "VB", "VBZ", "VBG", "VBN"]
-    stoplist = ["date", "/date", "title", "/title", "is", "be", "been", "am", "are", "have", "has", "had", "say", "said", "make", "makes", "made", "use", "used", "do", "did", "done"]
-    prepared = [item[0].lower() for item in text.tags if item[1] in poslist]
-    prepared = [item for item in prepared if len(item) > 1 and item not in stoplist]
-    return prepared
-    
+def prepare_text(text, lang):
+    """
+    Adds the linguistic annotation to the text: part of speech. 
+    Uses the linguistic annotation to filter out certain tokens. 
+    Also uses a stoplist and a minimum word length criterion to further filter tokens.
+    Returns the single text as a list of lower-cased tokens. 
+    """
+    if lang == "en": 
+        text = tb(text)
+        poslist = ["NN", "NNS", "JJ", "JJR", "VB", "VBZ", "VBG", "VBN"]
+        stoplist = ["date", "/date", "title", "/title", "is", "be", "been", "am", "are", "have", "has", "had", "say", "said", "make", "makes", "made", "use", "used", "do", "did", "done"]
+        prepared = [item[0].lower() for item in text.tags if item[1] in poslist]
+        prepared = [item for item in prepared if len(item) > 1 and item not in stoplist]
+        return prepared
+    elif lang == "fr":
+        from textblob_fr import PatternTagger, PatternAnalyzer
+        text = tb(text, pos_tagger=PatternTagger(), analyzer=PatternAnalyzer())
+        poslist = ["NN", "NNS", "JJ", "JJR", "VB", "VBZ", "VBG", "VBN"]
+        stoplist = []
+        prepared = [item[0].lower() for item in text.tags if item[1] in poslist]
+        prepared = [item for item in prepared if len(item) > 1 and item not in stoplist]
+        return prepared
+    else:
+        print("Sorry, the language code you supplied does not refer to a supported language (en, fr).")
 
-def main(workdir, dataset, identifier): 
+
+# == Coordinating function ==
+
+def main(workdir, dataset, identifier, lang): 
     print("\n== preprocessing ==")
     alltextids = []
     allprepared = []
@@ -40,7 +72,7 @@ def main(workdir, dataset, identifier):
         textid = basename(textfile).split(".")[0]
         alltextids.append(textid)
         text = load_text(textfile)
-        prepared = prepare_text(text)
+        prepared = prepare_text(text, lang)
         allprepared.append(prepared)
         #print("done with:", textid)
     helpers.save_pickle(allprepared, workdir, identifier, "allprepared.pickle")

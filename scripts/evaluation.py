@@ -1,5 +1,9 @@
 """
 Topic Modeling with gensim: Evaluation of model quality.
+
+Provides model quality indicators at the model and topic level.
+
+See: https://radimrehurek.com/gensim/models/coherencemodel.html
 """
 
 # == Imports ==
@@ -16,7 +20,8 @@ import helpers
 
 def model_coherence(listcorpus, vectorcorpus, model, numtopics, resultsfolder): 
     """
-    Coherence for the entire model, using several measures. 
+    Calculate coherence scores for the entire model, 
+    using several different measures. 
     """
     print("model_coherence")
     measures = ["c_v", "c_npmi", "u_mass", "c_uci"]
@@ -30,9 +35,10 @@ def model_coherence(listcorpus, vectorcorpus, model, numtopics, resultsfolder):
     with open(join(resultsfolder, "coherences-model.csv"), "w", encoding="utf8") as outfile: 
         coherences.to_csv(outfile, sep="\t")
 
+
 def topic_coherence(listcorpus, vectorcorpus, model, numtopics, resultsfolder): 
     """
-    Coherence of each topic, using one measure only
+    Calculate coherence scores for each topic, using one measure only.
     """
     print("topic_coherence")
     coherencemodel = CoherenceModel(texts=listcorpus, model=model, corpus=vectorcorpus, coherence="c_v", processes=3)    
@@ -41,6 +47,8 @@ def topic_coherence(listcorpus, vectorcorpus, model, numtopics, resultsfolder):
     with open(join(resultsfolder, "coherences-topics.csv"), "w", encoding="utf8") as outfile: 
         coherences.to_csv(outfile, sep="\t")
 
+
+# == Coordinating function == 
 
 def main(workdir, identifier, numtopics): 
     print("\n== evaluation ==")
