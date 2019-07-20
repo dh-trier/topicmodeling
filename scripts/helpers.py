@@ -2,9 +2,9 @@
 Topic Modeling with gensim: helper functions.
 """
 
+import os
 import pickle
 from os.path import join
-import os
 from gensim import models
 
 

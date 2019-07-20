@@ -37,9 +37,9 @@ def get_topicwords(model, numtopics, resultsfolder):
         topicwordsdf.to_csv(outfile, sep="\t")
     
 
-def get_doc_topic_matrix(corpus, model, resultsfolder): 
+def get_doc_topic_matrix(vectorcorpus, model, resultsfolder): 
     print("get_topic_matrix")
-    document_topics = model.get_document_topics(corpus, per_word_topics=True)
+    document_topics = model.get_document_topics(vectorcorpus, per_word_topics=True)
     doc_number = 0
     all_doc_topics = []
     for doc_topics, word_topics, phi_values in document_topics:
@@ -94,10 +94,10 @@ def make_mastermatrix(workdir, dataset, identifier):
 def main(workdir, dataset, identifier, numtopics):
     print("\n== postprocessing ==")
     model = helpers.load_model(workdir, identifier)
-    corpus = helpers.load_corpus(workdir, identifier)
+    vectorcorpus = helpers.load_pickle(workdir, identifier, "vectorcorpus.pickle")
     resultsfolder = join(workdir, "results", identifier)
     get_topics(model, numtopics, resultsfolder)
     get_topicwords(model, numtopics, resultsfolder)
-    get_doc_topic_matrix(corpus, model, resultsfolder)
+    get_doc_topic_matrix(vectorcorpus, model, resultsfolder)
     make_mastermatrix(workdir, dataset, identifier)
     print("done postprocessing")
