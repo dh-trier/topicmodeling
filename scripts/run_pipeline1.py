@@ -2,6 +2,10 @@
 
 """
 Topic Modeling with gensim.
+
+This is the main coordination script.
+It allows you to set the pipeline parameters.
+It allows you to determine which components will be run. 
 """
 
 
@@ -22,20 +26,19 @@ warnings.filterwarnings("ignore")
 
 # == Files and folders ==
 
-workdir = ".."
-dataset = "hkpress-test"
-identifier = "hkpress-test_10t-500i"
+workdir = ".."      # working directory
+dataset = ""        # dataset name, e.g. "hkpress-test"
+identifier = ""     # model identifier, e.g. "hkpress-test_15t-500i"
 
 
 # == Parameters ==
 
-numtopics = 30
-passes = 2000
-lang = "en"
+numtopics = 0       # number of topics of the model, e.g. 15
+passes = 0          # number of iterations when modeling, eg. 500
+lang = ""           # language of the materials: "en" or "fr"
 
 
 # == Coordinating function ==
-
 
 def main(workdir, dataset, identifier, numtopics, passes, lang):
     helpers.make_dirs(workdir, identifier)

@@ -52,8 +52,9 @@ def prepare_text(text, lang):
     elif lang == "fr":
         from textblob_fr import PatternTagger, PatternAnalyzer
         text = tb(text, pos_tagger=PatternTagger(), analyzer=PatternAnalyzer())
-        poslist = ["NN", "NNS", "JJ", "JJR", "VB", "VBZ", "VBG", "VBN"]
-        stoplist = []
+        poslist = ["NN", "NNS"]
+        #stoplist = []
+        stoplist = ["être", "été", "est", "suis", "était", "étais", "étions", "étiez", "étaient", "sont", "sommes", "eût", "fût", "fut", "avoir", "a", "ai", "as", "avais", "avait", "avaient", "avons", "avions", "aviez", "ont", "avez", "eût", "qu", "faire", "fait", "font", "faisons", "faisez", "jusqu", "autre", "autres"]
         prepared = [item[0].lower() for item in text.tags if item[1] in poslist]
         prepared = [item for item in prepared if len(item) > 1 and item not in stoplist]
         return prepared

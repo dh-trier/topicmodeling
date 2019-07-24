@@ -38,8 +38,12 @@ def group_data(mastermatrix):
     Calculates the mean topic score for the metadata category of interest. 
     Selects the 10 most varying topics across the metadata category.
     """
-    mastermatrix = mastermatrix.drop(["year", "idno"], axis=1)
-    data = mastermatrix.groupby(["univ"]).mean().T
+    ## hkpress ## 
+    #mastermatrix = mastermatrix.drop(["year", "idno"], axis=1)
+    #data = mastermatrix.groupby(["univ"]).mean().T
+    ## eltec-fra ## 
+    mastermatrix = mastermatrix.drop(["author", "title", "canonicity", "sizecat", "timeslot"], axis=1)
+    data = mastermatrix.groupby(["gender"]).mean().T
     # select topics with maximum variance for visualization
     data["std"] = np.std(data, axis=1)
     data = data.sort_values(by="std", ascending=False)
@@ -59,7 +63,7 @@ def make_heatmap(data, heatmapfile):
 # == Coordinating function ==
 
 def main(workdir, identifier):
-    print("\n== visualization2 ==")
+    print("\n== make_heatmap ==")
     mastermatrixfile = join(workdir, "results", identifier, "mastermatrix.csv")
     mastermatrix = load_mastermatrix(mastermatrixfile)
     data = group_data(mastermatrix)

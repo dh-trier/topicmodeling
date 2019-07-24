@@ -2,6 +2,10 @@
 
 """
 Topic Modeling with gensim.
+
+This is the main coordination script.
+It allows you to set the pipeline parameters.
+It allows you to determine which components will be run. 
 """
 
 
@@ -25,31 +29,29 @@ warnings.filterwarnings("ignore")
 
 # == Files and folders ==
 
-workdir = ".."
-dataset = "eltec-fra"
-identifier = "eltec-fra_30t-2000i"
+workdir = ".."      # working directory
+dataset = ""        # dataset name
+identifier = ""     # model identifier
 
 
 # == Parameters ==
 
-numtopics = 30
-passes = 2000
-lang = "fr"
+numtopics = 0       # number of topics of the model
+passes = 0          # number of iterations when modeling
+lang = ""           # language of the materials
 
 
 # == Coordinating function ==
 
-
 def main(workdir, dataset, identifier, numtopics, passes, lang):
     helpers.make_dirs(workdir, identifier)
-    preprocessing.main(workdir, dataset, identifier, lang)
-    build_corpus.main(workdir, identifier)
-    modeling.main(workdir, identifier, numtopics, passes)
-    postprocessing.main(workdir, dataset, identifier, numtopics)
-    make_overview.main(workdir, identifier) 
+    #preprocessing.main(workdir, dataset, identifier, lang)
+    #build_corpus.main(workdir, identifier)
+    #modeling.main(workdir, identifier, numtopics, passes)
+    #postprocessing.main(workdir, dataset, identifier, numtopics)
+    #make_overview.main(workdir, identifier) 
     #make_heatmap.main(workdir, identifier)
-    make_wordclouds.main(workdir, identifier, numtopics)
-    evaluation.main(workdir, identifier, numtopics)
-    
+    #make_wordclouds.main(workdir, identifier, numtopics)
+    #evaluation.main(workdir, identifier, numtopics)
 
 main(workdir, dataset, identifier, numtopics, passes, lang)
