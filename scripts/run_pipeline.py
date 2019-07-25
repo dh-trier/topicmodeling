@@ -8,39 +8,47 @@ Topic Modeling with gensim.
 # == Imports ==
 
 from os.path import join
+
+import helpers
 import preprocessing
-import text2corpus
+import build_corpus
 import modeling
 import postprocessing
-import visualization
-import helpers
+import make_overview
+import make_heatmap
+import make_wordclouds
+import evaluation
+
+import warnings
+warnings.filterwarnings("ignore")
 
 
 # == Files and folders ==
 
-
-workdir = join("/", "home", "christof", "Dropbox", "5-Lehre", "2019-Sommer", "Distributional-Semantics-Riga", "")
-#workdir = join("/", "media", "christof", "mydata", "Dropbox", "5-Lehre", "2019-Sommer", "Distributional-Semantics-Riga", "")
-identifier = "hkpress"
+workdir = ".."
+dataset = "hkpress-test"
+identifier = "hkpress-test_10t-500i"
 
 
 # == Parameters ==
 
 numtopics = 10
-passes = 200
-
+passes = 500
 
 
 # == Coordinating function ==
 
 
-def main(workdir, identifier):
+def main(workdir, dataset, identifier):
     helpers.make_dirs(workdir, identifier)
-    preprocessing.main(workdir, identifier)
-    text2corpus.main(workdir, identifier)
+    preprocessing.main(workdir, dataset, identifier)
+    build_corpus.main(workdir, identifier)
     modeling.main(workdir, identifier, numtopics, passes)
-    postprocessing.main(workdir, identifier, numtopics)
-    visualization.main(workdir, identifier)
+    postprocessing.main(workdir, dataset, identifier, numtopics)
+    make_overview.main(workdir, identifier) 
+    make_heatmap.main(workdir, identifier)
+    make_wordclouds.main(workdir, identifier, numtopics)
+    evaluation.main(workdir, identifier, numtopics)
     
 
-main(workdir, identifier)
+main(workdir, dataset, identifier)
