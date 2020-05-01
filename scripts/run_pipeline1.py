@@ -24,18 +24,21 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
+
 # == Files and folders ==
 
-workdir = ".."      # working directory
-dataset = ""        # dataset name, e.g. "hkpress-test"
-identifier = ""     # model identifier, e.g. "hkpress-test_15t-500i"
+workdir = ".."            # working directory
+dataset = "hkpress-test"  # dataset name, e.g. "hkpress-test"
+identifier = "hkpt1"      # model identifier, e.g. "hkp-test-10tp"
+
 
 
 # == Parameters ==
 
-numtopics = 0       # number of topics of the model, e.g. 15
-passes = 0          # number of iterations when modeling, eg. 500
-lang = ""           # language of the materials: "en" or "fr"
+numtopics = 10            # number of topics of the model, e.g. 15
+passes = 100              # number of iterations when modeling, eg. 500
+lang = "en"               # language of the materials: "en" or "fr"
+
 
 
 # == Coordinating function ==

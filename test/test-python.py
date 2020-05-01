@@ -71,6 +71,28 @@ except:
     print("ERROR! Looks like the library textblob is missing. Please install it!")
     print("The easiest way to do this is to use \"pip3 install textblob\" on the command line.")
 
+try: 
+    import seaborn
+    print("OK. Looks like seaborn is installed. Great!")
+except:
+    print("ERROR! Looks like the library seaborn is missing. Please install it!")
+    print("The easiest way to do this is to use \"pip3 install seaborn\" on the command line.")
+
+try: 
+    import wordcloud
+    print("OK. Looks like wordcloud is installed. Great!")
+except:
+    print("ERROR! Looks like the library wordcloud is missing. Please install it!")
+    print("The easiest way to do this is to use \"pip3 install wordcloud\" on the command line.")
+
+
+try: 
+    import sklearn
+    print("OK. Looks like sklearn is installed. Great!")
+except:
+    print("ERROR! Looks like the library sklearn is missing. Please install it!")
+    print("The easiest way to do this is to use \"pip3 install sklearn\" on the command line.")
+
 
 
 #== Downloading some model file for NLTK

@@ -12,13 +12,15 @@ Please install the following:
 * Python3 pip for installation of further libraries. 
 * A Python IDE of your choice, for example Thonny, Gedit, Spyder or PyCharm.
 * Some additional libraries in their most recent version (with their respective dependencies): 
-    * "numpy", see also: https://www.numpy.org/
-    * "pandas", see also: https://pandas.pydata.org/
-    * "nltk", see also: https://www.nltk.org/
-    * "textblob", see also: https://textblob.readthedocs.io/en/dev/
-    * "gensim", see also: https://radimrehurek.com/gensim/install.html
-    * "pyLDAvis", see also: https://github.com/bmabey/pyLDAvis
-    * "seaborn", see also: https://seaborn.pydata.org/
+    * "numpy", see: https://www.numpy.org/
+    * "pandas", see: https://pandas.pydata.org/
+    * "nltk", see: https://www.nltk.org/
+    * "textblob", see: https://textblob.readthedocs.io/en/dev/
+    * "gensim", see: https://radimrehurek.com/gensim/install.html
+    * "pyLDAvis", see: https://github.com/bmabey/pyLDAvis
+    * "seaborn", see: https://seaborn.pydata.org/
+    * "sklearn", see: https://scikit-learn.org/stable/
+    * "wordcloud", see: https://github.com/amueller/word_cloud
 
 ## Installation
 

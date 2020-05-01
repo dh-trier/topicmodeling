@@ -32,18 +32,15 @@ def load_mastermatrix(mastermatrixfile):
         return mastermatrix
 
 
-def group_data(mastermatrix):
+def group_data(mastermatrix, cats):
     """
     Discards the metadata categories that are not of interest here (drop). 
     Calculates the mean topic score for the metadata category of interest. 
     Selects the 10 most varying topics across the metadata category.
     """
-    ## hkpress ## 
-    #mastermatrix = mastermatrix.drop(["year", "idno"], axis=1)
-    #data = mastermatrix.groupby(["univ"]).mean().T
-    ## eltec-fra ## 
-    mastermatrix = mastermatrix.drop(["author", "title", "canonicity", "sizecat", "timeslot"], axis=1)
-    data = mastermatrix.groupby(["gender"]).mean().T
+    # include and exclude metadata items from metadata table.
+    mastermatrix = mastermatrix.drop(cats[0], axis=1)
+    data = mastermatrix.groupby(cats[1]).mean().T
     # select topics with maximum variance for visualization
     data["std"] = np.std(data, axis=1)
     data = data.sort_values(by="std", ascending=False)
@@ -56,17 +53,17 @@ def make_heatmap(data, heatmapfile):
     """
     Using the seaborn library, creates a heatmap of the selected data.
     """
-    plot = sns.heatmap(data, linewidths=.5, annot=True, cmap="YlGnBu")
+    plot = sns.heatmap(data, linewidths=.3, annot=False, cmap="YlGnBu")
     plot.get_figure().savefig(heatmapfile, dpi=400)
 
 
 # == Coordinating function ==
 
-def main(workdir, identifier):
+def main(workdir, identifier, cats):
     print("\n== make_heatmap ==")
     mastermatrixfile = join(workdir, "results", identifier, "mastermatrix.csv")
     mastermatrix = load_mastermatrix(mastermatrixfile)
-    data = group_data(mastermatrix)
-    heatmapfile = join(workdir, "results", identifier, "heatmap.png")
+    data = group_data(mastermatrix, cats)
+    heatmapfile = join(workdir, "results", identifier, "heatmap_"+cats[1][0]+".png")
     make_heatmap(data, heatmapfile)
     print("done making heatmap")
