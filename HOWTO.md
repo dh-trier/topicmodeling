@@ -4,11 +4,14 @@ This set of Python scripts has been developed for teaching purposes. Its fundame
 
 ## Requirements 
 
-You will need a computer on which you can install and run Python. Most modern laptops running a reasonably recent version of Windows, Mac OS or Linux (e.g. Ubuntu 18.04) should be just fine, but smaller devices like tablets running Android or iOS won't be enough. Please install the following: 
+You will need a computer on which you can install and run Python. Most modern laptops running a reasonably recent version of Windows, Mac OS or Linux (e.g. Ubuntu 18.04) should be just fine, but smaller devices like tablets running Android or iOS won't be enough. 
 
-* Thonny, version 3.1.2 or higher. Download: https://thonny.org/. Help: https://github.com/thonny/thonny/wiki
-* Python 3: Thonny comes with Python 3.7 bundled into it, so there is normally no need to install Python separately. 
-* Using Thonny (Menu: "Tools" > "Manage Packages"), install some additional libraries in their most recent version (with their respective dependencies): 
+Please install the following: 
+
+* Python 3: Please use Python 3.6 or higher. The scripts will not work with Python 2. 
+* Python3 pip for installation of further libraries. 
+* A Python IDE of your choice, for example Thonny, Gedit, Spyder or PyCharm.
+* Some additional libraries in their most recent version (with their respective dependencies): 
     * "numpy", see also: https://www.numpy.org/
     * "pandas", see also: https://pandas.pydata.org/
     * "nltk", see also: https://www.nltk.org/
@@ -19,7 +22,11 @@ You will need a computer on which you can install and run Python. Most modern la
 
 ## Installation
 
-Once you have installed the above-mentioned software and Python libaries, it is sufficient to download or clone this Github repository. You can then run the scripts from Thonny and access the sample dataset. If you want to use your own datasets, simply add a folder in the "datasets" directory. 
+Once you have installed the above-mentioned software and Python libaries, it is sufficient to download or clone this Github repository. You can then run the scripts and access the sample dataset. If you want to use your own datasets, simply add a folder in the "datasets" directory. 
+
+## Testing your installation 
+
+Before trying to use the scripts, you should test your installation. For this test, please follow the instructions provided here in the folder called "test". 
 
 ## Usage notes 
 
@@ -33,4 +40,4 @@ This software is distributed under a so-called "unlicence", that is, with no res
 
 ## Maintainer and contact
 
-This code has been put together by Christof Schöch, University of Trier, Germany, in July 2019. In case you have suggestions for improvement or run into problems, please use the Github issue tracker. 
+This code has been put together by Christof Schöch, University of Trier, Germany, in July 2019. In case you have suggestions for improvement or run into problems, please use the Github issue tracker. Last update May 1st, 2020. 
