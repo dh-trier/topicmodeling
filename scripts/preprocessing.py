@@ -74,8 +74,15 @@ def prepare_text(text, lang, stoplist):
         prepared = [item[0].lower() for item in text.tags if item[1] in poslist]
         prepared = [item for item in prepared if len(item) > 1 and item not in stoplist]
         return prepared
+    elif lang == "de":
+        from textblob_de import PatternTagger, PatternAnalyzer
+        text = tb(text, pos_tagger=PatternTagger(), analyzer=PatternAnalyzer())
+        poslist = ["NN", "NNS", "JJ", "JJR", "VB", "VBZ", "VBG", "VBN"]
+        prepared = [item[0].lower() for item in text.tags if item[1] in poslist]
+        prepared = [item for item in prepared if len(item) > 1 and item not in stoplist]
+        return prepared
     else:
-        print("Sorry, the language code you supplied does not refer to a supported language (en, fr).")
+        print("Sorry, the language code you supplied does not refer to a supported language (en, de, fr).")
         print("The preprocessing step falls back to a very simple, language-agnostic procedure now.")
         print("Please consider adding a stoplist for your language code.")
         text = re.split("\W+", text)

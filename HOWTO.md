@@ -23,6 +23,7 @@ Please install the following:
     * "seaborn", see: https://seaborn.pydata.org/
     * "sklearn", see: https://scikit-learn.org/stable/
     * "wordcloud", see: https://github.com/amueller/word_cloud
+    * To work with French and/or German texts: textblob_fr and/or textblob_de
 
 ## Installation
 
