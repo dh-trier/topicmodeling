@@ -2,6 +2,8 @@
 
 This set of Python scripts has been developed for teaching purposes. Its fundamental aim is to provide a minimal, working implementation of a Python-based processing pipeline for Topic Modeling. 
 
+These scripts are meant as complementary to a slide-deck that explains Topic Modeling to an audience of scholars from the (Digital) Humanities. See here: https://christofs.github.io/riga/#/.  
+
 ## Requirements 
 
 You will need a computer on which you can install and run Python. Most modern laptops running a reasonably recent version of Windows, Mac OS or Linux (e.g. Ubuntu 18.04+) should be just fine, but smaller devices like tablets running Android or iOS won't be enough. 
