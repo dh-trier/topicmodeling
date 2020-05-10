@@ -4,7 +4,7 @@ This set of Python scripts has been developed for teaching purposes. Its fundame
 
 ## Requirements 
 
-You will need a computer on which you can install and run Python. Most modern laptops running a reasonably recent version of Windows, Mac OS or Linux (e.g. Ubuntu 18.04) should be just fine, but smaller devices like tablets running Android or iOS won't be enough. 
+You will need a computer on which you can install and run Python. Most modern laptops running a reasonably recent version of Windows, Mac OS or Linux (e.g. Ubuntu 18.04+) should be just fine, but smaller devices like tablets running Android or iOS won't be enough. 
 
 Please install the following: 
 
