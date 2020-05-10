@@ -27,25 +27,27 @@ warnings.filterwarnings("ignore")
 
 
 
+
 # == Files and folders ==
 
 workdir = ".."            # working directory
-dataset = "novellenschatz"  # dataset name, e.g. "hkpress-test"
-identifier = "nov"      # model identifier, e.g. "hkp-test-10tp"
+dataset = ""              # dataset name, e.g. "hkpress-test"
+identifier = ""           # model identifier, e.g. "hkp-test-10tp"
 
 
 
 # == Parameters ==
 
-numtopics = 10            # number of topics of the model, e.g. 15
-passes = 100              # number of iterations when modeling, eg. 500
-lang = "de"               # language of the materials: "en" or "fr"
+numtopics =               # number of topics of the model, e.g. 15
+passes =                  # number of iterations when modeling, eg. 500
+lang = ""                 # language of the materials: "en" or "fr"
 
 
 
 # == Coordinating function ==
 
 def main(workdir, dataset, identifier, numtopics, passes, lang):
+    print("==", "starting", "==", "\n==", helpers.get_time(), "==")   
     helpers.make_dirs(workdir, identifier)
     preprocessing.main(workdir, dataset, identifier, lang)
     build_corpus.main(workdir, identifier)

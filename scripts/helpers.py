@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
 Topic Modeling with gensim: helper functions.
 
@@ -8,6 +10,7 @@ import os
 import pickle
 from os.path import join
 from gensim import models
+from datetime import datetime
 
 
 
@@ -60,3 +63,10 @@ def load_model(workdir, identifier):
     modelfile = join(workdir, "results", identifier, "model", identifier+".gensim")
     model = models.LdaModel.load(modelfile)
     return model
+
+
+def get_time(): 
+    now = datetime.now()
+    current_time = now.strftime("%H:%M:%S")
+    return current_time
+

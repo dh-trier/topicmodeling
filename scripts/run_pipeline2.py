@@ -31,31 +31,32 @@ warnings.filterwarnings("ignore")
 # == Files and folders ==
 
 workdir = ".."                      # working directory
-dataset = "hkpress-test"            # dataset name
-identifier = "hkpt2"                # model identifier
+dataset = "novellenschatz-test"            # dataset name
+identifier = "nov-test_10t-500i"                # model identifier
 
 
 
 # == Parameters ==
 
-numtopics = 20                      # number of topics of the model
+numtopics = 10                      # number of topics of the model
 passes = 500                        # number of iterations when modeling
-lang = "en"                         # language of the materials
-cats = [["univ", "idno"],["year"]]  # metadata categories: exclude,include
+lang = "de"                         # language of the materials
+cats = [["counter", "identifier", "filename"],["author"]]  # metadata categories: exclude,include
 
 
 
 # == Coordinating function ==
 
 def main(workdir, dataset, identifier, numtopics, passes, lang, cats):
+    print("==", "starting", "==", "\n==", helpers.get_time(), "==")   
     helpers.make_dirs(workdir, identifier)
-    #preprocessing.main(workdir, dataset, identifier, lang)
-    #build_corpus.main(workdir, identifier)
-    #modeling.main(workdir, identifier, numtopics, passes)
-    #postprocessing.main(workdir, dataset, identifier, numtopics)
-    #make_overview.main(workdir, identifier) 
-    #make_heatmap.main(workdir, identifier, cats)
-    #make_wordclouds.main(workdir, identifier, numtopics)
-    #evaluation.main(workdir, identifier, numtopics)
+    preprocessing.main(workdir, dataset, identifier, lang)
+    build_corpus.main(workdir, identifier)
+    modeling.main(workdir, identifier, numtopics, passes)
+    postprocessing.main(workdir, dataset, identifier, numtopics)
+    make_overview.main(workdir, identifier) 
+    make_heatmap.main(workdir, identifier, cats)
+    make_wordclouds.main(workdir, identifier, numtopics)
+    evaluation.main(workdir, identifier, numtopics)
 
 main(workdir, dataset, identifier, numtopics, passes, lang, cats)

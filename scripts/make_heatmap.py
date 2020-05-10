@@ -26,8 +26,11 @@ def load_mastermatrix(mastermatrixfile):
     Loads the mastermatrix generated in postprocessing.py. 
     """
     with open(mastermatrixfile, "r", encoding="utf8") as infile:
-        mastermatrix = pd.read_csv(infile, sep=";")
-        mastermatrix = mastermatrix.drop("Unnamed: 0", axis=1)
+        mastermatrix = pd.read_csv(infile, sep="\t")
+        try: 
+            mastermatrix = mastermatrix.drop("Unnamed: 0", axis=1)
+        except: 
+            print("nothing to delete here.")
         #print(mastermatrix.head())
         return mastermatrix
 

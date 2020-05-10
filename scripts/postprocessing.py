@@ -86,7 +86,7 @@ def load_metadata(metadatafile):
     Provides it as a pandas DataFrame.
     """
     with open(metadatafile, "r", encoding="utf8") as infile:
-        metadata = pd.read_csv(infile, sep=",")
+        metadata = pd.read_csv(infile, sep="\t")
         return metadata
 
 
@@ -114,7 +114,7 @@ def save_mastermatrix(mastermatrix, mastermatrixfile):
     Saves the mastermatrix to disk as a CSV file.
     """
     with open(mastermatrixfile, "w", encoding="utf8") as outfile:
-        mastermatrix.to_csv(mastermatrixfile, sep=";")
+        mastermatrix.to_csv(mastermatrixfile, sep="\t")
         
 
 def make_mastermatrix(workdir, dataset, identifier):
@@ -139,4 +139,4 @@ def main(workdir, dataset, identifier, numtopics):
     get_topicwords(model, numtopics, resultsfolder)
     get_doc_topic_matrix(vectorcorpus, model, resultsfolder)
     make_mastermatrix(workdir, dataset, identifier)
-    print("done postprocessing")
+    print("==", helpers.get_time(), "done postprocessing", "==")   

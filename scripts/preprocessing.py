@@ -75,11 +75,12 @@ def prepare_text(text, lang, stoplist):
         prepared = [item for item in prepared if len(item) > 1 and item not in stoplist]
         return prepared
     elif lang == "de":
-        from textblob_de import PatternTagger, PatternAnalyzer
-        text = tb(text, pos_tagger=PatternTagger(), analyzer=PatternAnalyzer())
+        from textblob_de import TextBlobDE as tbd
+        text = tbd(text)
         poslist = ["NN", "NNS", "JJ", "JJR", "VB", "VBZ", "VBG", "VBN"]
         prepared = [item[0].lower() for item in text.tags if item[1] in poslist]
         prepared = [item for item in prepared if len(item) > 1 and item not in stoplist]
+        #print(prepared[0:100])
         return prepared
     else:
         print("Sorry, the language code you supplied does not refer to a supported language (en, de, fr).")
@@ -109,6 +110,8 @@ def main(workdir, dataset, identifier, lang):
         #print(prepared[0:10])
     helpers.save_pickle(allprepared, workdir, identifier, "allprepared.pickle")
     print("files processed:", len(allprepared))
+    print("==", helpers.get_time(), "done preprocessing", "==")   
+
                           
 
 

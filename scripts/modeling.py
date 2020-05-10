@@ -50,6 +50,6 @@ def main(workdir, identifier, numtopics, passes):
     vectorcorpus = helpers.load_pickle(workdir, identifier, "vectorcorpus.pickle")
     model = build_model(dictcorpus, vectorcorpus, numtopics, passes)
     helpers.save_model(workdir, identifier, model)
-    print("done modeling")
+    print("==", helpers.get_time(), "done modeling", "==")   
     return model
 

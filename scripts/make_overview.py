@@ -27,4 +27,4 @@ def main(workdir, identifier):
     dictcorpus = helpers.load_pickle(workdir, identifier, "dictcorpus.pickle")
     vectorcorpus = helpers.load_pickle(workdir, identifier, "vectorcorpus.pickle")
     visualize_model(model, dictcorpus, vectorcorpus, vizfile)
-    print("done making LDAviz")
+    print("==", helpers.get_time(), "done visualizing", "==")   

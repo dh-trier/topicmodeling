@@ -30,3 +30,5 @@ def main(workdir, identifier):
     dictcorpus, vectorcorpus = build_vectorcorpus(allprepared)
     helpers.save_pickle(dictcorpus, workdir, identifier, "dictcorpus.pickle")
     helpers.save_pickle(vectorcorpus, workdir, identifier, "vectorcorpus.pickle")
+    print("==", helpers.get_time(), "done building corpus", "==")   
+
