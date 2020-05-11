@@ -12,7 +12,7 @@ Please install the following:
 
 * Python 3: Please use Python 3.6 or higher. The scripts will not work with Python 2. 
 * Python3 pip for installation of further libraries. 
-* A Python IDE of your choice, for example Thonny, Gedit, Spyder or PyCharm.
+* A Python IDE of your choice, for example Thonny, Geany, Spyder or PyCharm.
 * Some additional libraries in their most recent version (with their respective dependencies): 
     * "numpy", see: https://www.numpy.org/
     * "pandas", see: https://pandas.pydata.org/
