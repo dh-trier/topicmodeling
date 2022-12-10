@@ -30,16 +30,16 @@ workdir = join(os.path.realpath(os.path.dirname(__file__)), "..")
 
 # == Files, folders, s ==
 
-dataset = "hkpress"                     # see folder 'datasets'
-lang = "en"                             # en|fr|de
-identifier = "hkpress_10t-500i"         # freely defined label 
+dataset = "novellenschatz"              # see folder 'datasets'
+lang = "de"                             # en|fr|de
+identifier = "nov_20t-1000i"            # freely defined label 
 
 
 # == Parameters ==
 
-cats = [["year"],["univ"]]              # depends on dataset (see below)
-numtopics = 10                          
-passes = 500
+cats = [["id", "filename", "title", "year"],["author"]]
+numtopics = 20                          
+passes = 1000
 
 
 # == Coordinating function ==

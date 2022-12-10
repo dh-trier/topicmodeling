@@ -31,7 +31,7 @@ def load_mastermatrix(mastermatrixfile):
             mastermatrix = mastermatrix.drop("Unnamed: 0", axis=1)
         except: 
             print("nothing to delete here.")
-        #print(mastermatrix.head())
+        print(mastermatrix.head())
         return mastermatrix
 
 
@@ -42,14 +42,15 @@ def group_data(mastermatrix, cats):
     Selects the 10 most varying topics across the metadata category.
     """
     # include and exclude metadata items from metadata table.
-    #print(mastermatrix.head())
     mastermatrix = mastermatrix.drop(cats[0], axis=1)
     data = mastermatrix.groupby(cats[1]).mean().T
     # select topics with maximum variance for visualization
     data["std"] = np.std(data, axis=1)
     data = data.sort_values(by="std", ascending=False)
     data = data.drop("std", axis=1)
-    data = data.iloc[0:10,:]
+    data = data.iloc[0:6,:]
+    # Optionally, select specific rows to include
+    data = data.loc[:,["alexis", "brentano", "droste", "goethe", "grimm", "heyse"]]
     return data
 
 

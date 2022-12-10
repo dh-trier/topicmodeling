@@ -86,7 +86,8 @@ def load_metadata(metadatafile):
     Provides it as a pandas DataFrame.
     """
     with open(metadatafile, "r", encoding="utf8") as infile:
-        metadata = pd.read_csv(infile, sep=",")
+        metadata = pd.read_csv(infile, sep="\t")
+        print(metadata.head())
         return metadata
 
 
@@ -113,6 +114,7 @@ def save_mastermatrix(mastermatrix, mastermatrixfile):
     """
     Saves the mastermatrix to disk as a CSV file.
     """
+    print(mastermatrix.head())
     with open(mastermatrixfile, "w", encoding="utf8") as outfile:
         mastermatrix.to_csv(mastermatrixfile, sep="\t")
         
