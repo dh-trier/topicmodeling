@@ -23,6 +23,9 @@ from textblob import TextBlob as tb
 import helpers
 import re
 
+workdir = join(os.path.realpath(os.path.dirname(__file__)))
+
+
 
 # == Functions ==
 
@@ -42,7 +45,7 @@ def load_stoplist(lang):
     Returns a list of stopwords.
     """
     try: 
-        stoplistfile = join("stoplists", lang+".txt")
+        stoplistfile = join(workdir, "stoplists", lang+".txt")
         with open(stoplistfile, "r", encoding="utf8") as infile:
             stoplist = infile.read().split("\n")
         return stoplist

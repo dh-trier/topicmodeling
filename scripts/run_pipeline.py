@@ -20,23 +20,25 @@ import make_heatmap
 import make_wordclouds
 import evaluation
 
+
+# == Base parameters == 
+
 import warnings
 warnings.filterwarnings("ignore")
-
-
-# == Files and folders ==
-
-
 workdir = join(os.path.realpath(os.path.dirname(__file__)), "..")
-dataset = "hkpress-test"
-lang = "en" # en|fr|de
-cats = [["year"],["univ"]]
-identifier = "hkpress-test_10t-500i"
+
+
+# == Files, folders, s ==
+
+dataset = "hkpress"                     # see folder 'datasets'
+lang = "en"                             # en|fr|de
+identifier = "hkpress_10t-500i"         # freely defined label 
 
 
 # == Parameters ==
 
-numtopics = 10
+cats = [["year"],["univ"]]              # depends on dataset (see below)
+numtopics = 10                          
 passes = 500
 
 
@@ -56,3 +58,20 @@ def main(workdir, dataset, identifier):
     
 
 main(workdir, dataset, identifier)
+
+
+
+
+"""
+
+The variable "cats" has the structure "[[exclude],[include]]". 
+It serves to include and exclude certain metadata categories from the heatmap visualisation.
+
+for hkpress, e.g.: 
+cats = [["year"],["univ"]]
+
+for Novellenschatz, e.g.:  
+cats = [["counter", "identifier", "filename"],["author"]]  
+
+
+"""
