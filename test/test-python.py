@@ -26,7 +26,6 @@ print("You are using Python {}.{}.".format(sys.version_info.major, sys.version_i
 
 #== Checking the libraries are installed and can be imported.  
 
-print("\n=== Testing that all required libraries have been installed. ===")
 try:
     import pandas as pd
     print("OK. Looks like pandas is installed. Great!")
@@ -40,6 +39,7 @@ try:
 except:
     print("ERROR! Looks like the library gensim is missing. Please install it!")
     print("The easiest way to do this is to use \"pip3 install gensim\" on the command line.")
+
 
 try:
     import numpy
@@ -110,8 +110,11 @@ except:
 #== Actually testing pandas
 
 print("\n=== Testing that pandas works. ===")
+import os
+from os.path import join
+workdir = join(os.path.realpath(os.path.dirname(__file__)))
 try: 
-    with open("test-metadata.csv", "r", encoding="utf8") as infile:
+    with open(join(workdir, "test-metadata.csv"), "r", encoding="utf8") as infile:
         metadata = pd.read_csv(infile, sep=",")
         #print(metadata.head(3))
         print("OK. Looks like the metadata file can be read using pandas. Great!")

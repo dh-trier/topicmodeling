@@ -11,12 +11,12 @@ See: https://pyldavis.readthedocs.io/en/latest/
 
 from os.path import join
 import pyLDAvis
-import pyLDAvis.gensim
+import pyLDAvis.gensim_models
 import helpers
 
 
 def visualize_model(model, dictcorpus, vectorcorpus, vizfile):
-    visualization = pyLDAvis.gensim.prepare(model, vectorcorpus, dictcorpus, sort_topics=False, mds="mmds")
+    visualization = pyLDAvis.gensim_models.prepare(model, vectorcorpus, dictcorpus, sort_topics=False, mds="mmds")
     pyLDAvis.save_html(visualization, vizfile)
 
 

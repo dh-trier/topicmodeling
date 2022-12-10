@@ -58,5 +58,6 @@ def main(workdir, identifier, numtopics):
     resultsfolder = join(workdir, "results", identifier)
     model_coherence(listcorpus, vectorcorpus, model, numtopics, resultsfolder)
     topic_coherence(listcorpus, vectorcorpus, model, numtopics, resultsfolder)
+    print("\nDone.\n")
     
 

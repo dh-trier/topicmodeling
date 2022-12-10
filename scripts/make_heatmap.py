@@ -42,6 +42,7 @@ def group_data(mastermatrix, cats):
     Selects the 10 most varying topics across the metadata category.
     """
     # include and exclude metadata items from metadata table.
+    #print(mastermatrix.head())
     mastermatrix = mastermatrix.drop(cats[0], axis=1)
     data = mastermatrix.groupby(cats[1]).mean().T
     # select topics with maximum variance for visualization
@@ -56,7 +57,7 @@ def make_heatmap(data, heatmapfile):
     """
     Using the seaborn library, creates a heatmap of the selected data.
     """
-    plot = sns.heatmap(data, linewidths=.3, annot=False, cmap="YlGnBu")
+    plot = sns.heatmap(data, linewidths=.3, annot=True, cmap="YlGnBu")
     plot.get_figure().savefig(heatmapfile, dpi=400)
 
 

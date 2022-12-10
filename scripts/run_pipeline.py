@@ -7,6 +7,7 @@ Topic Modeling with gensim.
 
 # == Imports ==
 
+import os
 from os.path import join
 
 import helpers
@@ -25,8 +26,11 @@ warnings.filterwarnings("ignore")
 
 # == Files and folders ==
 
-workdir = ".."
+
+workdir = join(os.path.realpath(os.path.dirname(__file__)), "..")
 dataset = "hkpress-test"
+lang = "en" # en|fr|de
+cats = [["year"],["univ"]]
 identifier = "hkpress-test_10t-500i"
 
 
@@ -41,12 +45,12 @@ passes = 500
 
 def main(workdir, dataset, identifier):
     helpers.make_dirs(workdir, identifier)
-    preprocessing.main(workdir, dataset, identifier)
+    preprocessing.main(workdir, dataset, identifier, lang)
     build_corpus.main(workdir, identifier)
     modeling.main(workdir, identifier, numtopics, passes)
     postprocessing.main(workdir, dataset, identifier, numtopics)
     make_overview.main(workdir, identifier) 
-    make_heatmap.main(workdir, identifier)
+    make_heatmap.main(workdir, identifier, cats)
     make_wordclouds.main(workdir, identifier, numtopics)
     evaluation.main(workdir, identifier, numtopics)
     
