@@ -2913,3 +2913,37 @@
 2022-12-14 21:15:51,621 : INFO : PROGRESS: pass 153, at document #2000/5235
 2022-12-14 21:15:51,853 : INFO : optimized alpha [0.035360463, 0.05386838, 0.0397319, 0.029895442, 0.22079562, 0.11095972, 0.046864387, 0.041250765, 0.115593545, 0.059231624]
 2022-12-14 21:15:51,854 : INFO : PROGRESS: pass 153, at document #3000/5235
+2022-12-14 21:15:52,096 : INFO : optimized alpha [0.035454154, 0.05404988, 0.03976622, 0.029946305, 0.22159521, 0.11107289, 0.048847195, 0.041171364, 0.114230104, 0.058694612]
+2022-12-14 21:15:52,097 : INFO : PROGRESS: pass 153, at document #4000/5235
+2022-12-14 21:15:52,340 : INFO : optimized alpha [0.035357527, 0.053792175, 0.039761018, 0.029902909, 0.22462119, 0.11064194, 0.049108904, 0.04091737, 0.1159283, 0.058540378]
+2022-12-14 21:15:52,340 : INFO : PROGRESS: pass 153, at document #5000/5235
+2022-12-14 21:15:52,568 : INFO : optimized alpha [0.035300117, 0.053356834, 0.03973112, 0.02977975, 0.2235564, 0.10972911, 0.048376396, 0.040578958, 0.11714818, 0.05908844]
+2022-12-14 21:15:52,683 : INFO : -8.020 per-word bound, 259.5 perplexity estimate based on a held-out corpus of 235 documents with 47410 words
+2022-12-14 21:15:52,683 : INFO : PROGRESS: pass 153, at document #5235/5235
+2022-12-14 21:15:52,739 : INFO : optimized alpha [0.035203204, 0.05363046, 0.03955843, 0.029670231, 0.22381516, 0.10949105, 0.047706418, 0.040598124, 0.11915438, 0.059344456]
+2022-12-14 21:15:52,752 : INFO : topic #3 (0.030): 0.021*"children" + 0.020*"students" + 0.010*"school" + 0.010*"schools" + 0.008*"graduates" + 0.008*"parents" + 0.007*"study" + 0.007*"more" + 0.007*"reading" + 0.007*"respondents"
+2022-12-14 21:15:52,752 : INFO : topic #0 (0.035): 0.024*"research" + 0.012*"cancer" + 0.009*"new" + 0.009*"team" + 0.008*"cells" + 0.008*"human" + 0.006*"virus" + 0.006*"researchers" + 0.006*"study" + 0.006*"influenza"
+2022-12-14 21:15:52,752 : INFO : topic #5 (0.109): 0.021*"research" + 0.014*"chinese" + 0.009*"years" + 0.008*"contributions" + 0.008*"lecture" + 0.006*"development" + 0.006*"public" + 0.006*"award" + 0.006*"international" + 0.006*"world"
+2022-12-14 21:15:52,753 : INFO : topic #8 (0.119): 0.014*"research" + 0.011*"business" + 0.011*"industry" + 0.011*"support" + 0.010*"development" + 0.009*"growth" + 0.008*"year" + 0.007*"education" + 0.006*"world" + 0.006*"services"
+2022-12-14 21:15:52,753 : INFO : topic #4 (0.224): 0.033*"students" + 0.008*"programme" + 0.007*"year" + 0.007*"programmes" + 0.006*"education" + 0.006*"new" + 0.006*"academic" + 0.005*"more" + 0.005*"student" + 0.005*"campus"
+2022-12-14 21:15:52,753 : INFO : topic diff=0.001517, rho=0.079247
+2022-12-14 21:15:52,766 : INFO : PROGRESS: pass 154, at document #1000/5235
+2022-12-14 21:15:53,009 : INFO : optimized alpha [0.035312723, 0.05375332, 0.039549682, 0.029751644, 0.22337851, 0.1108331, 0.047382075, 0.04096142, 0.117543206, 0.059433475]
+2022-12-14 21:15:53,009 : INFO : PROGRESS: pass 154, at document #2000/5235
+2022-12-14 21:15:53,239 : INFO : optimized alpha [0.035390593, 0.05402421, 0.039751302, 0.029915769, 0.22129571, 0.11110752, 0.046950385, 0.041284073, 0.11562835, 0.059317645]
+2022-12-14 21:15:53,239 : INFO : PROGRESS: pass 154, at document #3000/5235
+2022-12-14 21:15:53,480 : INFO : optimized alpha [0.03548394, 0.05420778, 0.0397886, 0.02996702, 0.22210059, 0.11121335, 0.04893118, 0.041204695, 0.11427013, 0.058780327]
+2022-12-14 21:15:53,481 : INFO : PROGRESS: pass 154, at document #4000/5235
+2022-12-14 21:15:53,706 : INFO : optimized alpha [0.03538733, 0.05395512, 0.039782193, 0.029923646, 0.22511838, 0.11077984, 0.049191486, 0.04095101, 0.1159631, 0.058625035]
+2022-12-14 21:15:53,706 : INFO : PROGRESS: pass 154, at document #5000/5235
+2022-12-14 21:15:53,930 : INFO : optimized alpha [0.035326988, 0.053524766, 0.039749216, 0.029803153, 0.2240602, 0.10986633, 0.048458844, 0.040613294, 0.1171937, 0.059173465]
+2022-12-14 21:15:54,046 : INFO : -8.020 per-word bound, 259.5 perplexity estimate based on a held-out corpus of 235 documents with 47410 words
+2022-12-14 21:15:54,046 : INFO : PROGRESS: pass 154, at document #5235/5235
+2022-12-14 21:15:54,102 : INFO : optimized alpha [0.03523006, 0.053795684, 0.039576866, 0.029693732, 0.22431165, 0.10963042, 0.047788355, 0.04063202, 0.11919267, 0.05940709]
+2022-12-14 21:15:54,115 : INFO : topic #3 (0.030): 0.021*"children" + 0.020*"students" + 0.010*"school" + 0.010*"schools" + 0.008*"graduates" + 0.008*"parents" + 0.007*"study" + 0.007*"more" + 0.007*"reading" + 0.007*"respondents"
+2022-12-14 21:15:54,115 : INFO : topic #0 (0.035): 0.024*"research" + 0.012*"cancer" + 0.009*"new" + 0.009*"team" + 0.008*"cells" + 0.008*"human" + 0.006*"virus" + 0.006*"researchers" + 0.006*"study" + 0.006*"influenza"
+2022-12-14 21:15:54,115 : INFO : topic #5 (0.110): 0.021*"research" + 0.014*"chinese" + 0.009*"years" + 0.008*"contributions" + 0.008*"lecture" + 0.006*"development" + 0.006*"public" + 0.006*"award" + 0.006*"international" + 0.006*"world"
+2022-12-14 21:15:54,115 : INFO : topic #8 (0.119): 0.014*"research" + 0.011*"business" + 0.011*"industry" + 0.011*"support" + 0.010*"development" + 0.009*"growth" + 0.008*"year" + 0.007*"education" + 0.006*"world" + 0.006*"services"
+2022-12-14 21:15:54,116 : INFO : topic #4 (0.224): 0.033*"students" + 0.008*"programme" + 0.007*"year" + 0.007*"programmes" + 0.006*"education" + 0.006*"new" + 0.006*"academic" + 0.005*"more" + 0.005*"student" + 0.005*"campus"
+2022-12-14 21:15:54,116 : INFO : topic diff=0.001505, rho=0.078999
+2022-12-14 21:15:54,130 : INFO : PROGRESS: pass 155, at document #1000/5235
