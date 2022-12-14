@@ -103,14 +103,16 @@ def main(workdir, dataset, identifier, lang):
     allprepared = []
     stoplist = load_stoplist(lang)
     textpath = join(workdir, "datasets", dataset, "txt", "*.txt")
+    numfiles = len([entry for entry in os.listdir(join(workdir, "datasets", dataset, "txt")) if os.path.isfile(os.path.join(workdir, "datasets", dataset, "txt", entry))])
+    progress = 0
     for textfile in sorted(glob.glob(textpath)):
         textid = basename(textfile).split(".")[0]
         alltextids.append(textid)
         text = load_text(textfile)
         prepared = prepare_text(text, lang, stoplist)
         allprepared.append(prepared)
-        #print("done with:", textid)
-        #print(prepared[0:10])
+        progress +=1 
+        print(progress, "/", numfiles, end="\r")
     helpers.save_pickle(allprepared, workdir, identifier, "allprepared.pickle")
     print("files processed:", len(allprepared))
     print("==", helpers.get_time(), "done preprocessing", "==")   

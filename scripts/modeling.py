@@ -24,9 +24,13 @@ def build_model(dictcorpus, vectorcorpus, numtopics, passes):
     """
     Creates the actual topic model from the data. 
     Key parameters are number of topics (numtopics) 
-    and number of iterations (passes). 
+    and number of (passes). 
     Other parameters can be set here.
     """
+    import logging
+    print("See the file gensim.log for updates to the process.")
+    logging.basicConfig(filename='gensim.log', format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
+    #logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
     model = models.ldamodel.LdaModel(
         corpus=vectorcorpus,
         id2word=dictcorpus,
