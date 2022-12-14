@@ -49,8 +49,8 @@ def group_data(mastermatrix, cats):
     data = data.sort_values(by="std", ascending=False)
     data = data.drop("std", axis=1)
     data = data.iloc[0:6,:]
-    # Optionally, select specific rows to include
-    data = data.loc[:,["alexis", "brentano", "droste", "goethe", "grimm", "heyse"]]
+    # Optionally, select specific rows to include in the heatmap
+    #data = data.loc[:,["alexis", "brentano", "droste", "goethe", "grimm", "heyse"]]
     return data
 
 
