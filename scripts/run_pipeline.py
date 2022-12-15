@@ -52,11 +52,11 @@ def main(workdir, dataset, identifier):
     preprocessing.main(workdir, dataset, identifier, lang)
     build_corpus.main(workdir, identifier)
     modeling.main(workdir, identifier, numtopics, passes)
-    #postprocessing.main(workdir, dataset, identifier, numtopics)
-    #make_overview.main(workdir, identifier) 
-    #make_heatmap.main(workdir, identifier, cats)
-    #make_wordclouds.main(workdir, identifier, numtopics)
-    #evaluation.main(workdir, identifier, numtopics)
+    postprocessing.main(workdir, dataset, identifier, numtopics)
+    make_overview.main(workdir, identifier) 
+    make_heatmap.main(workdir, identifier, cats)
+    make_wordclouds.main(workdir, identifier, numtopics)
+    evaluation.main(workdir, identifier, numtopics)
     
 
 main(workdir, dataset, identifier)
