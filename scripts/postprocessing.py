@@ -86,7 +86,7 @@ def load_metadata(metadatafile):
     Provides it as a pandas DataFrame.
     """
     with open(metadatafile, "r", encoding="utf8") as infile:
-        metadata = pd.read_csv(infile, sep="\t")
+        metadata = pd.read_csv(infile, sep=",")
         print(metadata.head())
         return metadata
 

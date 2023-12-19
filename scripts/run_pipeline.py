@@ -30,17 +30,17 @@ workdir = join(os.path.realpath(os.path.dirname(__file__)), "..")
 
 # == Files, folders, s ==
 
-dataset = "hkpress"                     # see folder 'datasets'
+dataset = "hkpress"                    # see folder 'datasets'
 lang = "en"                             # en|fr|de
-identifier = "progress"                 # freely defined label 
+identifier = "hkp2023"                 # freely defined label 
 
 
 # == Parameters ==
 
 #cats = [["id", "filename", "title", "year"],["author"]] # Novellenschatz
 cats = [["year"],["univ"]] # hkpress
-numtopics = 10                          
-passes = 200
+numtopics = 20                          
+passes = 50
 
 
 # == Coordinating function ==
@@ -49,14 +49,14 @@ passes = 200
 def main(workdir, dataset, identifier):
     print("== starting ==\n==", helpers.get_time(), "==")   
     helpers.make_dirs(workdir, identifier)
-    preprocessing.main(workdir, dataset, identifier, lang)
-    build_corpus.main(workdir, identifier)
-    modeling.main(workdir, identifier, numtopics, passes)
-    postprocessing.main(workdir, dataset, identifier, numtopics)
-    make_overview.main(workdir, identifier) 
-    make_heatmap.main(workdir, identifier, cats)
+    #preprocessing.main(workdir, dataset, identifier, lang)
+    #build_corpus.main(workdir, identifier)
+    #modeling.main(workdir, identifier, numtopics, passes)
+    #postprocessing.main(workdir, dataset, identifier, numtopics)
+    #make_overview.main(workdir, identifier) 
+    #make_heatmap.main(workdir, identifier, cats)
     make_wordclouds.main(workdir, identifier, numtopics)
-    evaluation.main(workdir, identifier, numtopics)
+    #evaluation.main(workdir, identifier, numtopics)
     
 
 main(workdir, dataset, identifier)

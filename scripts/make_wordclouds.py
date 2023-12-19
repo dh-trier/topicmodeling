@@ -68,7 +68,7 @@ def main(workdir, identifier, numtopics):
     wcl = get_wcl(fontfile)
     for i in range(0, numtopics): 
         wordprobs = get_wordprobs(i, allwordprobs, numwords=40)
-        filename = join(wordcloudsfolder, "topic_"+'{:03}'.format(i+1)+".png")
+        filename = join(wordcloudsfolder, "topic_"+'{:03}'.format(i)+".png")
         #print(i+1)
         make_wordcloud(wcl, wordprobs, filename)
     print("finished making wordclouds")
